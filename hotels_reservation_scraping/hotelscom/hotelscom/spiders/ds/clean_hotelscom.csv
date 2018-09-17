@@ -1,0 +1,684 @@
+city,country,host,id,price,review,stars,timestamp,titre
+oud metha,united arab emirates,hotels.com,199445,883.0,8.6,5,2018-06-24 18:38:14.556195,movenpick hotel & apartments bur dubai
+culture village,united arab emirates,hotels.com,490216,2452.0,9.4,5,2018-06-24 18:38:14.556195,palazzo versace dubai
+culture village,united arab emirates,hotels.com,598970752,594.0,7.2,4,2018-06-24 18:38:14.556195,goldstate hotel
+culture village,united arab emirates,hotels.com,474731,501.0,6.6,4,2018-06-24 18:38:14.556195,reflections hotel dubai
+culture village,united arab emirates,hotels.com,700354112,784.0,,4,2018-06-24 18:38:14.556195,"form hotel dubai, a member of design hotels"
+maghnia,algeria,hotels.com,390849,1575.0,8.2,5,2018-06-24 18:38:14.556195,renaissance tlemcen hotel
+timimoun,algeria,hotels.com,591130,1460.0,8.0,4,2018-06-24 18:38:14.556195,hotel gourara
+taghit,algeria,hotels.com,592733,1268.0,8.0,4,2018-06-24 18:38:14.556195,hotel taghit saoura
+skikda,algeria,hotels.com,313539296,2079.0,5.0,5,2018-06-24 18:38:14.556195,royal tulip skikda
+sidi bel abbes,algeria,hotels.com,452219,1016.0,6.8,4,2018-06-24 18:38:14.556195,eden bel abbes
+business bay,united arab emirates,hotels.com,854433312,932.0,,5,2018-06-24 18:38:14.556195,canal central hotel
+business bay,united arab emirates,hotels.com,620727776,1759.0,9.6,5,2018-06-24 18:38:14.556195,"renaissance downtown hotel, dubai"
+business bay,united arab emirates,hotels.com,419330,1875.0,9.2,5,2018-06-24 18:38:14.556195,the oberoi
+business bay,united arab emirates,hotels.com,421532,1413.0,9.4,5,2018-06-24 18:38:14.556195,jw marriott marquis hotel dubai
+business bay,united arab emirates,hotels.com,394431840,1033.0,8.6,5,2018-06-24 18:38:14.556195,"steigenberger hotel business bay, dubai"
+al baraha,united arab emirates,hotels.com,395568,407.0,7.0,4,2018-06-24 18:38:14.556195,hues boutique hotel
+ajman,united arab emirates,hotels.com,685472,2794.0,9.6,5,2018-06-24 18:38:14.556195,"the oberoi beach resort, al zorah"
+ajman,united arab emirates,hotels.com,429007,982.0,8.6,5,2018-06-24 18:38:14.556195,bahi ajman palace hotel
+ajman,united arab emirates,hotels.com,427741,529.0,7.6,4,2018-06-24 18:38:14.556195,ramada beach hotel ajman
+ain al fayda,united arab emirates,hotels.com,686063,798.0,8.8,5,2018-06-24 18:38:14.556195,ayla grand hotel
+ain al fayda,united arab emirates,hotels.com,226871,901.0,8.4,5,2018-06-24 18:38:14.556195,al ain rotana
+ain al fayda,united arab emirates,hotels.com,368946,1070.0,8.0,5,2018-06-24 18:38:14.556195,danat al ain resort
+ain al fayda,united arab emirates,hotels.com,380638,1066.0,8.4,4,2018-06-24 18:38:14.556195,ayla hotel
+ain al fayda,united arab emirates,hotels.com,485563,783.0,8.0,4,2018-06-24 18:38:14.556195,ayla bawadi hotel & mall
+ain al fayda,united arab emirates,hotels.com,212060,912.0,8.2,4,2018-06-24 18:38:14.556195,mercure grand jebel hafeet al ain hotel
+ain al fayda,united arab emirates,hotels.com,236220,598.0,7.2,4,2018-06-24 18:38:14.556195,hilton al ain
+endurance city,united arab emirates,hotels.com,442181,2711.0,9.0,5,2018-06-24 18:38:14.556195,anantara the palm dubai resort
+falaj al moalla,united arab emirates,hotels.com,307341,615.0,7.8,4,2018-06-24 18:38:14.556195,ramada hotel and suites ajman
+falaj al moalla,united arab emirates,hotels.com,452057,945.0,5.8,4,2018-06-24 18:38:14.556195,crown palace hotel
+dubai healthcare city,united arab emirates,hotels.com,207369,1352.0,9.2,5,2018-06-24 18:38:14.556195,grand hyatt dubai
+dubai healthcare city,united arab emirates,hotels.com,499419,981.0,8.8,5,2018-06-24 18:38:14.556195,hyatt regency dubai creek heights
+ghalilah,united arab emirates,hotels.com,448507,1244.0,7.6,4,2018-06-24 18:38:14.556195,atana khasab hotel
+ghantoot,united arab emirates,hotels.com,514496288,1586.0,8.6,5,2018-06-24 18:38:14.556195,dukes dubai hotel - palm jumeirah
+ghantoot,united arab emirates,hotels.com,692887,1882.0,8.8,5,2018-06-24 18:38:14.556195,rixos premium dubai jbr
+ghantoot,united arab emirates,hotels.com,326439,1386.0,8.2,5,2018-06-24 18:38:14.556195,movenpick hotel jumeirah beach
+ghantoot,united arab emirates,hotels.com,245547,1670.0,9.6,5,2018-06-24 18:38:14.556195,"grosvenor house, a luxury collection hotel, dubai"
+ghantoot,united arab emirates,hotels.com,341549,863.0,8.6,5,2018-06-24 18:38:14.556195,bonnington jumeirah lakes towers
+ghantoot,united arab emirates,hotels.com,193069,1529.0,8.4,5,2018-06-24 18:38:14.556195,hilton dubai jumeirah
+ghantoot,united arab emirates,hotels.com,856778656,1590.0,,5,2018-06-24 18:38:14.556195,royal central hotel the palm
+ghantoot,united arab emirates,hotels.com,405045,36775.0,8.0,5,2018-06-24 18:38:14.556195,jumeirah zabeel saray royal residences
+ghantoot,united arab emirates,hotels.com,134841,1786.0,9.2,5,2018-06-24 18:38:14.556195,le royal meridien beach resort and spa
+ghantoot,united arab emirates,hotels.com,328263,1890.0,9.6,5,2018-06-24 18:38:14.556195,address dubai marina
+ghantoot,united arab emirates,hotels.com,364994,2596.0,9.2,5,2018-06-24 18:38:14.556195,jumeirah zabeel saray
+ghantoot,united arab emirates,hotels.com,274263,4169.0,8.8,5,2018-06-24 18:38:14.556195,atlantis the palm
+ghantoot,united arab emirates,hotels.com,192855,1453.0,8.0,5,2018-06-24 18:38:14.556195,sheraton jumeirah beach resort
+ghantoot,united arab emirates,hotels.com,142037,3161.0,9.2,5,2018-06-24 18:38:14.556195,"the ritz-carlton, dubai"
+ghantoot,united arab emirates,hotels.com,397790,2446.0,8.6,5,2018-06-24 18:38:14.556195,rixos the palm dubai
+ghantoot,united arab emirates,hotels.com,259932,1010.0,8.6,5,2018-06-24 18:38:14.556195,grand millennium dubai
+ghantoot,united arab emirates,hotels.com,442592,934.0,8.4,5,2018-06-24 18:38:14.556195,movenpick hotel jumeirah lakes towers
+ghantoot,united arab emirates,hotels.com,425197,1136.0,9.0,5,2018-06-24 18:38:14.556195,ja ocean view hotel
+ghantoot,united arab emirates,hotels.com,176878,1999.0,8.8,5,2018-06-24 18:38:14.556195,"habtoor grand resort, autograph collection"
+ghantoot,united arab emirates,hotels.com,261886,1352.0,9.0,5,2018-06-24 18:38:14.556195,amwaj rotana - jumeirah beach residence
+ghantoot,united arab emirates,hotels.com,172540,3461.0,9.2,5,2018-06-24 18:38:14.556195,one&only royal mirage
+ghantoot,united arab emirates,hotels.com,422392,2019.0,9.2,5,2018-06-24 18:38:14.556195,fairmont the palm
+ghantoot,united arab emirates,hotels.com,355578,1244.0,9.0,5,2018-06-24 18:38:14.556195,movenpick hotel ibn battuta gate - dubai
+ghantoot,united arab emirates,hotels.com,367111,726.0,8.4,4,2018-06-24 18:38:14.556195,gloria hotel and hotel apartments
+ghantoot,united arab emirates,hotels.com,590348,721.0,7.8,4,2018-06-24 18:38:14.556195,marina byblos hotel
+ghantoot,united arab emirates,hotels.com,570509,601.0,8.2,4,2018-06-24 18:38:14.556195,auris inn al muhanna hotel
+ghantoot,united arab emirates,hotels.com,644366,658.0,7.4,4,2018-06-24 18:38:14.556195,fortune park hotel
+ghantoot,united arab emirates,hotels.com,239112,1154.0,8.2,4,2018-06-24 18:38:14.556195,"radisson blu hotel, dubai media city"
+ghantoot,united arab emirates,hotels.com,224783,963.0,7.8,4,2018-06-24 18:38:14.556195,courtyard by marriott dubai green community
+ghantoot,united arab emirates,hotels.com,691079328,937.0,8.6,4,2018-06-24 18:38:14.556195,aloft palm jumeirah
+ghantoot,united arab emirates,hotels.com,445982,906.0,8.0,4,2018-06-24 18:38:14.556195,"hawthorn suites by wyndham dubai, jbr"
+ghantoot,united arab emirates,hotels.com,444317,2035.0,8.6,4,2018-06-24 18:38:14.556195,doubletree by hilton hotel dubai - jumeirah beach
+ghantoot,united arab emirates,hotels.com,591863904,793.0,7.4,4,2018-06-24 18:38:14.556195,mercure hotel apartments dubai barsha heights
+ghantoot,united arab emirates,hotels.com,389935,1572.0,8.6,4,2018-06-24 18:38:14.556195,hilton dubai the walk
+ghantoot,united arab emirates,hotels.com,426617152,692.0,8.2,4,2018-06-24 18:38:14.556195,wyndham dubai marina
+ghantoot,united arab emirates,hotels.com,553638,762.0,8.6,4,2018-06-24 18:38:14.556195,atana hotel
+ghantoot,united arab emirates,hotels.com,385215,1600.0,8.0,4,2018-06-24 18:38:14.556195,ramada plaza jumeirah beach
+ghantoot,united arab emirates,hotels.com,627254,677.0,9.4,4,2018-06-24 18:38:14.556195,dusitd2 kenz hotel dubai
+ghantoot,united arab emirates,hotels.com,426512928,811.0,7.4,4,2018-06-24 18:38:14.556195,byblos hotel
+ghantoot,united arab emirates,hotels.com,250965,1967.0,9.0,4,2018-06-24 18:38:14.556195,dubai marriott harbour hotel & suites
+ghantoot,united arab emirates,hotels.com,421594,605.0,6.8,4,2018-06-24 18:38:14.556195,ramee rose hotel
+ghantoot,united arab emirates,hotels.com,328432,1131.0,8.0,4,2018-06-24 18:38:14.556195,media one hotel dubai
+ghantoot,united arab emirates,hotels.com,278642,659.0,8.0,4,2018-06-24 18:38:14.556195,time oak hotel & suites
+jumeira,united arab emirates,hotels.com,470572,3610.0,9.6,5,2018-06-24 18:38:14.556195,four seasons resort dubai at jumeirah beach
+jebel ali,united arab emirates,hotels.com,111765,1554.0,9.0,5,2018-06-24 18:38:14.556195,ja jebel ali beach hotel
+nahil,united arab emirates,hotels.com,434625,781.0,8.8,5,2018-06-24 18:38:14.556195,hili rayhaan by rotana
+nahil,united arab emirates,hotels.com,416893,932.0,8.2,4,2018-06-24 18:38:14.556195,city seasons hotel al ain
+nadd ash shiba,united arab emirates,hotels.com,311507,2160.0,9.6,5,2018-06-24 18:38:14.556195,address montgomerie
+al awir,united arab emirates,hotels.com,272504,972.0,8.6,5,2018-06-24 18:38:14.556195,media rotana
+al awir,united arab emirates,hotels.com,389252,1217.0,9.2,5,2018-06-24 18:38:14.556195,jumeirah creekside hotel
+nad al sheba,united arab emirates,hotels.com,340117,1258.0,9.0,5,2018-06-24 18:38:14.556195,the meydan hotel
+murqquab,united arab emirates,hotels.com,226549,2069.0,9.0,5,2018-06-24 18:38:14.556195,bab al shams desert resort and spa
+murqquab,united arab emirates,hotels.com,251610,2083.0,8.8,5,2018-06-24 18:38:14.556195,desert palm dubai
+mahdar bin usayyan,united arab emirates,hotels.com,323629,3854.0,9.6,5,2018-06-24 18:38:14.556195,anantara qasr al sarab desert resort
+madinat zayed,united arab emirates,hotels.com,337669,956.0,8.2,4,2018-06-24 18:38:14.556195,tilal liwa hotel
+madinat zayed,united arab emirates,hotels.com,559984,905.0,8.6,4,2018-06-24 18:38:14.556195,western hotel - madinat zayed
+umm suqeim,united arab emirates,hotels.com,172396,14164.0,9.6,5,2018-06-24 18:38:14.556195,burj al arab jumeirah
+remah,united arab emirates,hotels.com,571918496,650.0,8.8,4,2018-06-24 18:38:14.556195,aloft al ain
+el oued,algeria,hotels.com,694242,2173.0,8.0,4,2018-06-24 18:38:14.556195,la gazelle d'or resort & spa
+constantine,algeria,hotels.com,548842,1691.0,9.4,5,2018-06-24 18:38:14.556195,constantine marriott hotel
+constantine,algeria,hotels.com,397296,1075.0,6.6,4,2018-06-24 18:38:14.556195,novotel constantine
+constantine,algeria,hotels.com,705397472,892.0,,4,2018-06-24 18:38:14.556195,hotel hocine
+boussaada,algeria,hotels.com,580024,1219.0,,4,2018-06-24 18:38:14.556195,le caid
+el aaiun,morocco,hotels.com,532411,1148.0,6.4,4,2018-06-24 18:38:14.556195,al massira
+dakhla,morocco,hotels.com,694173,1074.0,6.4,4,2018-06-24 18:38:14.556195,bab al bahar hotel & spa
+ksar es seghir,morocco,hotels.com,238968,1012.0,8.6,4,2018-06-24 18:38:14.556195,ac hotel algeciras by marriott
+ksar es seghir,morocco,hotels.com,199875,961.0,8.0,4,2018-06-24 18:38:14.556195,ac hotel la linea by marriott
+ksar es seghir,morocco,hotels.com,373450,917.0,8.2,4,2018-06-24 18:38:14.556195,nh campo de gibraltar
+oujda,morocco,hotels.com,355834,1384.0,7.6,5,2018-06-24 18:38:14.556195,atlas terminus and spa
+oualidia,morocco,hotels.com,57898816,8246.0,8.8,5,2018-06-24 18:38:14.556195,la sultana oualidia
+oualidia,morocco,hotels.com,675377696,1238.0,5.0,4,2018-06-24 18:38:14.556195,chateau eden el rouh
+restinga,morocco,hotels.com,450087,2030.0,9.2,5,2018-06-24 18:38:14.556195,sunborn gibraltar
+restinga,morocco,hotels.com,528653,2450.0,8.6,4,2018-06-24 18:38:14.556195,the rock hotel
+restinga,morocco,hotels.com,207386,1110.0,7.8,4,2018-06-24 18:38:14.556195,globales reina cristina
+restinga,morocco,hotels.com,240166,1710.0,7.6,4,2018-06-24 18:38:14.556195,the o'callaghan eliott hotel
+restinga,morocco,hotels.com,254571,793.0,8.0,4,2018-06-24 18:38:14.556195,hotel mir octavio
+restinga,morocco,hotels.com,452350,1755.0,8.0,4,2018-06-24 18:38:14.556195,"the caleta hotel health, beauty & conference centre"
+tisserdmine,morocco,hotels.com,276916,1207.0,,4,2018-06-24 18:38:14.556195,hotel belere arfoud
+tisserdmine,morocco,hotels.com,85661504,984.0,6.0,4,2018-06-24 18:38:14.556195,palms hotel club
+tisserdmine,morocco,hotels.com,321690,1433.0,2.0,4,2018-06-24 18:38:14.556195,palais du desert hotel & spa
+taouz,morocco,hotels.com,619600,888.0,8.8,4,2018-06-24 18:38:14.556195,kasbah hotel tombouctou
+talaa cherif,morocco,hotels.com,696234,2533.0,9.0,4,2018-06-24 18:38:14.556195,hotel the tarifa lances
+talaa cherif,morocco,hotels.com,180800,4930.0,8.6,4,2018-06-24 18:38:14.556195,melia atlanterra
+sidi brahim,morocco,hotels.com,455809,1675.0,8.6,5,2018-06-24 18:38:14.556195,medina loft & spa
+sidi brahim,morocco,hotels.com,533399,1683.0,8.6,5,2018-06-24 18:38:14.556195,"radisson blu hotel, marrakech carre eden"
+sidi brahim,morocco,hotels.com,549557,1705.0,8.4,5,2018-06-24 18:38:14.556195,savoy le grand hotel
+sidi brahim,morocco,hotels.com,242893,985.0,7.6,5,2018-06-24 18:38:14.556195,atlas medina & spa
+sidi brahim,morocco,hotels.com,347636,5992.0,9.4,5,2018-06-24 18:38:14.556195,dar rhizlane & spa - palais & table d'hotes
+sidi brahim,morocco,hotels.com,236912,1026.0,7.2,5,2018-06-24 18:38:14.556195,grand mogador menara
+sidi brahim,morocco,hotels.com,373503,3444.0,9.8,5,2018-06-24 18:38:14.556195,four seasons resort marrakech
+sidi brahim,morocco,hotels.com,328618,941.0,7.6,4,2018-06-24 18:38:14.556195,bab hotel
+sidi brahim,morocco,hotels.com,590089,1288.0,9.2,4,2018-06-24 18:38:14.556195,2ciels boutique hotel & spa
+sidi brahim,morocco,hotels.com,224514,882.0,7.4,4,2018-06-24 18:38:14.556195,hotel nassim
+sidi brahim,morocco,hotels.com,669952,716.0,8.4,4,2018-06-24 18:38:14.556195,ayoub hotel & spa
+sidi brahim,morocco,hotels.com,600477,782.0,8.2,4,2018-06-24 18:38:14.556195,hotel les ambassadeurs
+sidi brahim,morocco,hotels.com,492952,697.0,6.6,4,2018-06-24 18:38:14.556195,blue sea le printemps
+sidi brahim,morocco,hotels.com,183075,563.0,5.8,4,2018-06-24 18:38:14.556195,hotel marrakech le tichka
+sidi brahim,morocco,hotels.com,224161,923.0,7.4,4,2018-06-24 18:38:14.556195,diwane hotel & spa marrakech
+sidi brahim,morocco,hotels.com,277158,525.0,5.6,4,2018-06-24 18:38:14.556195,hotel imperial plaza
+sidi brahim,morocco,hotels.com,131880,691.0,6.4,4,2018-06-24 18:38:14.556195,hotel marrakech le semiramis
+sidi brahim,morocco,hotels.com,255542,775.0,6.8,4,2018-06-24 18:38:14.556195,hotel meriem
+sidi brahim,morocco,hotels.com,415929,1107.0,8.4,4,2018-06-24 18:38:14.556195,opera plaza hotel marrakech
+sidi brahim,morocco,hotels.com,443321,930.0,6.4,4,2018-06-24 18:38:14.556195,labranda rose
+sidi brahim,morocco,hotels.com,237641,623.0,7.2,4,2018-06-24 18:38:14.556195,mogador opera hotel & spa
+sidi brahim,morocco,hotels.com,447707,710.0,6.4,4,2018-06-24 18:38:14.556195,mogador express gueliz
+sidi brahim,morocco,hotels.com,457956,886.0,8.2,4,2018-06-24 18:38:14.556195,red hotel marrakech
+sidi brahim,morocco,hotels.com,243424,922.0,6.8,4,2018-06-24 18:38:14.556195,hotel atlas asni
+sidi brahim,morocco,hotels.com,480759,637.0,7.6,4,2018-06-24 18:38:14.556195,tempoo hotel marrakech
+sidi brahim,morocco,hotels.com,352502,765.0,6.2,4,2018-06-24 18:38:14.556195,la renaissance hotel
+sidi brahim,morocco,hotels.com,234490,885.0,6.4,4,2018-06-24 18:38:14.556195,hotel farah marrakech
+sidi brahim,morocco,hotels.com,312955,509.0,5.0,4,2018-06-24 18:38:14.556195,hotel mont gueliz
+saidia,morocco,hotels.com,347661,2769.0,8.0,5,2018-06-24 18:38:14.556195,iberostar saidia
+saidia,morocco,hotels.com,374863,2642.0,7.2,5,2018-06-24 18:38:14.556195,be live collection saidia
+annaba,algeria,hotels.com,546542784,935.0,9.2,5,2018-06-24 18:38:14.556195,sheraton annaba hotel
+ras al khor industrial area,united arab emirates,hotels.com,696329,741.0,9.2,5,2018-06-24 18:38:14.556195,"radisson blu hotel, ajman"
+ras al khor industrial area,united arab emirates,hotels.com,230411,927.0,8.4,5,2018-06-24 18:38:14.556195,le meridien dubai hotel & conference centre
+ras al khor industrial area,united arab emirates,hotels.com,145466,1319.0,8.2,5,2018-06-24 18:38:14.556195,dubai marine beach resort & spa
+ras al khor industrial area,united arab emirates,hotels.com,359493,6634.0,9.8,5,2018-06-24 18:38:14.556195,one&only the palm
+ras al khor industrial area,united arab emirates,hotels.com,216128,3569.0,9.6,5,2018-06-24 18:38:14.556195,jumeirah mina a salam - madinat jumeirah
+ras al khor industrial area,united arab emirates,hotels.com,493659,987.0,8.6,5,2018-06-24 18:38:14.556195,pullman dubai jumeirah lakes towers - hotel and residence
+ras al khor industrial area,united arab emirates,hotels.com,323688,1648.0,9.0,5,2018-06-24 18:38:14.556195,sofitel dubai jumeirah beach
+ras al khor industrial area,united arab emirates,hotels.com,490601,782.0,8.2,5,2018-06-24 18:38:14.556195,ghaya grand hotel
+el ansser,algeria,hotels.com,333349,1821.0,8.2,5,2018-06-24 18:38:14.556195,le meridien oran hotel & convention centre
+el ansser,algeria,hotels.com,232992,1544.0,6.8,5,2018-06-24 18:38:14.556195,sheraton oran hotel
+el ansser,algeria,hotels.com,266214,918.0,8.4,4,2018-06-24 18:38:14.556195,best western hotel colombe
+el ansser,algeria,hotels.com,452143,701.0,7.4,4,2018-06-24 18:38:14.556195,eden airport
+el ansser,algeria,hotels.com,374387392,1193.0,8.2,4,2018-06-24 18:38:14.556195,four points by sheraton oran
+el ansser,algeria,hotels.com,573435,1081.0,9.0,4,2018-06-24 18:38:14.556195,liberte hotel oran
+ain benian,algeria,hotels.com,413120,2312.0,7.8,5,2018-06-24 18:38:14.556195,hotel el aurassi
+ain benian,algeria,hotels.com,143589,1846.0,8.2,5,2018-06-24 18:38:14.556195,sofitel algiers hamma garden
+ain benian,algeria,hotels.com,413167,1887.0,7.0,5,2018-06-24 18:38:14.556195,hotel el-djazair
+ain benian,algeria,hotels.com,671126624,1521.0,9.2,4,2018-06-24 18:38:14.556195,lamaraz arts hotel
+ain benian,algeria,hotels.com,311175,1162.0,6.4,4,2018-06-24 18:38:14.556195,mercure alger aeroport
+ain benian,algeria,hotels.com,646888064,1169.0,5.0,4,2018-06-24 18:38:14.556195,hotel saray
+ain benian,algeria,hotels.com,653062,857.0,7.0,4,2018-06-24 18:38:14.556195,numidien hotel
+ain benian,algeria,hotels.com,608815,904.0,8.0,4,2018-06-24 18:38:14.556195,kt hotels
+ain benian,algeria,hotels.com,618554,1058.0,8.4,4,2018-06-24 18:38:14.556195,az hotels kouba
+ain benian,algeria,hotels.com,555188,1272.0,6.4,4,2018-06-24 18:38:14.556195,soltane hotel
+ain benian,algeria,hotels.com,413122,1018.0,5.6,4,2018-06-24 18:38:14.556195,el biar hotel
+ain benian,algeria,hotels.com,635212,1503.0,7.2,4,2018-06-24 18:38:14.556195,hani hotel
+ain benian,algeria,hotels.com,694241,1125.0,8.0,4,2018-06-24 18:38:14.556195,az hotel vague d'or
+ain benian,algeria,hotels.com,609529,1093.0,9.0,4,2018-06-24 18:38:14.556195,az hotel zeralda
+ain benian,algeria,hotels.com,451957,1076.0,6.0,4,2018-06-24 18:38:14.556195,hotel ville des roses
+sir bani yas island,united arab emirates,hotels.com,269134,2813.0,9.2,5,2018-06-24 18:38:14.556195,anantara desert islands resort & spa
+shwaib,united arab emirates,hotels.com,171106,10986.0,10.0,5,2018-06-24 18:38:14.556195,"al maha, a luxury collection desert resort & spa, dubai"
+shwaib,united arab emirates,hotels.com,222560,2296.0,9.2,4,2018-06-24 18:38:14.556195,ja hatta fort hotel
+sheikh zayed road,united arab emirates,hotels.com,568320,1720.0,8.0,5,2018-06-24 18:38:14.556195,w dubai - al habtoor city
+sheikh zayed road,united arab emirates,hotels.com,259159,1379.0,8.8,5,2018-06-24 18:38:14.556195,"the h hotel, dubai"
+sheikh zayed road,united arab emirates,hotels.com,404629,3008.0,9.4,5,2018-06-24 18:38:14.556195,the ritz-carlton executive residences
+sheikh zayed road,united arab emirates,hotels.com,213179,1773.0,9.0,5,2018-06-24 18:38:14.556195,shangri la hotel dubai
+sheikh zayed road,united arab emirates,hotels.com,502752480,1790.0,9.2,5,2018-06-24 18:38:14.556195,la ville hotel & suites city walk dubai autograph collection
+sheikh zayed road,united arab emirates,hotels.com,392646,1051.0,8.2,5,2018-06-24 18:38:14.556195,millennium plaza hotel dubai
+sheikh zayed road,united arab emirates,hotels.com,197154,970.0,8.8,5,2018-06-24 18:38:14.556195,dusit thani dubai
+sheikh zayed road,united arab emirates,hotels.com,426595,1559.0,9.0,5,2018-06-24 18:38:14.556195,conrad dubai
+sheikh zayed road,united arab emirates,hotels.com,446087,1872.0,9.2,5,2018-06-24 18:38:14.556195,sofitel dubai downtown
+sheikh zayed road,united arab emirates,hotels.com,568961,1384.0,8.4,5,2018-06-24 18:38:14.556195,the westin dubai al habtoor city
+sheikh zayed road,united arab emirates,hotels.com,172692,2028.0,9.6,5,2018-06-24 18:38:14.556195,jumeirah emirates towers
+sheikh zayed road,united arab emirates,hotels.com,493106080,3064.0,9.0,5,2018-06-24 18:38:14.556195,four seasons hotel dubai international financial centre
+sheikh zayed road,united arab emirates,hotels.com,364359,2732.0,9.0,5,2018-06-24 18:38:14.556195,"the ritz-carlton, dubai international financial centre"
+sheikh zayed road,united arab emirates,hotels.com,543615,2292.0,8.8,5,2018-06-24 18:38:14.556195,shangri-la residences and apartments
+sheikh zayed road,united arab emirates,hotels.com,471934,995.0,9.0,5,2018-06-24 18:38:14.556195,"sheraton grand hotel, dubai"
+sheikh zayed road,united arab emirates,hotels.com,396103712,2163.0,8.8,5,2018-06-24 18:38:14.556195,the st. regis dubai
+sheikh zayed road,united arab emirates,hotels.com,364503,1348.0,8.8,5,2018-06-24 18:38:14.556195,nassima royal hotel
+sheikh zayed road,united arab emirates,hotels.com,211985,811.0,8.8,4,2018-06-24 18:38:14.556195,rose rayhaan by rotana
+sheikh zayed road,united arab emirates,hotels.com,735014880,874.0,8.2,4,2018-06-24 18:38:14.556195,gevora hotel
+sheikh zayed road,united arab emirates,hotels.com,648022720,641.0,9.0,4,2018-06-24 18:38:14.556195,rose park hotel al barsha
+sheikh zayed road,united arab emirates,hotels.com,267368,833.0,9.0,4,2018-06-24 18:38:14.556195,"four points by sheraton sheikh zayed road, dubai"
+sheikh zayed road,united arab emirates,hotels.com,340302,893.0,8.4,4,2018-06-24 18:38:14.556195,fraser suites hotel and apartments
+sheikh zayed road,united arab emirates,hotels.com,194955,1067.0,8.4,4,2018-06-24 18:38:14.556195,towers rotana
+sheikh zayed road,united arab emirates,hotels.com,246212,865.0,8.2,4,2018-06-24 18:38:14.556195,novotel world trade centre
+sheikh zayed road,united arab emirates,hotels.com,421356,700.0,8.2,4,2018-06-24 18:38:14.556195,novotel dubai al barsha
+sheikh zayed road,united arab emirates,hotels.com,442933,707.0,8.2,4,2018-06-24 18:38:14.556195,carlton downtown
+sheikh zayed road,united arab emirates,hotels.com,356014,1040.0,7.8,4,2018-06-24 18:38:14.556195,emirates grand hotel
+sharm,united arab emirates,hotels.com,526280,770.0,8.2,5,2018-06-24 18:38:14.556195,royal m hotel
+sharm,united arab emirates,hotels.com,206818,1397.0,8.6,5,2018-06-24 18:38:14.556195,le meridien al aqah beach resort
+sharm,united arab emirates,hotels.com,249771,1194.0,7.8,5,2018-06-24 18:38:14.556195,fujairah rotana resort & spa - al aqah beach
+sharm,united arab emirates,hotels.com,372095,1262.0,7.6,5,2018-06-24 18:38:14.556195,al diar siji hotel
+sharm,united arab emirates,hotels.com,311800,1390.0,7.8,5,2018-06-24 18:38:14.556195,miramar al aqah beach resort
+sharm,united arab emirates,hotels.com,358478,747.0,9.0,4,2018-06-24 18:38:14.556195,nour arjaan by rotana
+sharm,united arab emirates,hotels.com,452567,1599.0,7.8,4,2018-06-24 18:38:14.556195,sandy beach hotel and resort
+sharm,united arab emirates,hotels.com,379347,4326.0,8.0,4,2018-06-24 18:38:14.556195,siji hotel apartment
+sharm,united arab emirates,hotels.com,494879,631.0,6.4,4,2018-06-24 18:38:14.556195,city tower hotel
+sharm,united arab emirates,hotels.com,357292,668.0,8.2,4,2018-06-24 18:38:14.556195,concorde fujairah hotel
+sharm,united arab emirates,hotels.com,428522,1307.0,7.2,4,2018-06-24 18:38:14.556195,oceanic khorfakkan resort and spa
+shamal julphar,united arab emirates,hotels.com,339977,1410.0,8.6,5,2018-06-24 18:38:14.556195,hilton ras al khaimah resort & spa
+shamal julphar,united arab emirates,hotels.com,446728,1682.0,8.0,5,2018-06-24 18:38:14.556195,doubletree by hilton resort & spa marjan island
+shamal julphar,united arab emirates,hotels.com,308491,1628.0,8.2,5,2018-06-24 18:38:14.556195,the cove rotana resort
+shamal julphar,united arab emirates,hotels.com,428178,1692.0,9.2,5,2018-06-24 18:38:14.556195,waldorf astoria ras al khaimah
+shamal julphar,united arab emirates,hotels.com,449107,1355.0,7.4,5,2018-06-24 18:38:14.556195,marjan island resort & spa managed by accorhotels
+shamal julphar,united arab emirates,hotels.com,250844,1011.0,8.0,5,2018-06-24 18:38:14.556195,"radisson blu resort, fujairah"
+shamal julphar,united arab emirates,hotels.com,339047,5233.0,8.6,5,2018-06-24 18:38:14.556195,"the ritz-carlton ras al khaimah, al wadi desert"
+shamal julphar,united arab emirates,hotels.com,256104,5957.0,9.2,5,2018-06-24 18:38:14.556195,six senses zighy bay
+shamal julphar,united arab emirates,hotels.com,277912,1179.0,6.2,4,2018-06-24 18:38:14.556195,smartline bin majid beach resort
+shamal julphar,united arab emirates,hotels.com,446104,667.0,6.8,4,2018-06-24 18:38:14.556195,ras al khaimah hotel
+shamal julphar,united arab emirates,hotels.com,407719,603.0,7.4,4,2018-06-24 18:38:14.556195,mangrove hotel
+shamal julphar,united arab emirates,hotels.com,247797,1283.0,6.0,4,2018-06-24 18:38:14.556195,golden tulip resort dibba
+shamal julphar,united arab emirates,hotels.com,206011,676.0,5.8,4,2018-06-24 18:38:14.556195,bin majid beach hotel
+shamal julphar,united arab emirates,hotels.com,351738,561.0,7.2,4,2018-06-24 18:38:14.556195,doubletree by hilton ras al khaimah
+al rama,jordan,hotels.com,633885024,1865.0,9.4,5,2018-06-24 18:38:14.556195,the house boutique suites
+al rama,jordan,hotels.com,701528864,1617.0,9.0,5,2018-06-24 18:38:14.556195,le grand amman managed by accorhotels
+al rama,jordan,hotels.com,145225,3045.0,9.4,5,2018-06-24 18:38:14.556195,american colony hotel the leading hotels of the world
+gawr as-safi,jordan,hotels.com,153042,2798.0,8.2,5,2018-06-24 18:38:14.556195,herods dead sea
+gawr as-safi,jordan,hotels.com,322279,1627.0,7.0,4,2018-06-24 18:38:14.556195,oasis dead sea
+ajloun,jordan,hotels.com,550795,1158.0,8.6,4,2018-06-24 18:38:14.556195,city rose hotel suites
+ajloun,jordan,hotels.com,689289,1391.0,8.2,4,2018-06-24 18:38:14.556195,harir palace hotel
+ajloun,jordan,hotels.com,395364,966.0,4.0,4,2018-06-24 18:38:14.556195,zamzam towers hotel
+ajloun,jordan,hotels.com,393062,1370.0,8.2,4,2018-06-24 18:38:14.556195,amman international
+al burj,jordan,hotels.com,181258,1161.0,8.2,5,2018-06-24 18:38:14.556195,taba hotel & nelson village
+al burj,jordan,hotels.com,237718,5604.0,8.4,5,2018-06-24 18:38:14.556195,herods palace hotel
+al burj,jordan,hotels.com,138523,4067.0,9.0,5,2018-06-24 18:38:14.556195,dan eilat
+al burj,jordan,hotels.com,308255,2435.0,9.4,5,2018-06-24 18:38:14.556195,kempinski hotel aqaba red sea
+al burj,jordan,hotels.com,138652,3581.0,7.8,5,2018-06-24 18:38:14.556195,u suites hotel eilat
+al burj,jordan,hotels.com,189985,1558.0,8.8,5,2018-06-24 18:38:14.556195,movenpick resort & residences aqaba
+al burj,jordan,hotels.com,534178,1378.0,4.6,5,2018-06-24 18:38:14.556195,oryx aqaba
+al burj,jordan,hotels.com,341940,1472.0,7.0,5,2018-06-24 18:38:14.556195,tala bay aqaba
+al burj,jordan,hotels.com,369844,1040.0,8.0,5,2018-06-24 18:38:14.556195,doubletree by hilton hotel aqaba
+al burj,jordan,hotels.com,192833,3972.0,8.8,5,2018-06-24 18:38:14.556195,royal beach eilat
+al burj,jordan,hotels.com,170322,3558.0,8.8,5,2018-06-24 18:38:14.556195,queen of sheba eilat hotel
+al burj,jordan,hotels.com,217041,1033.0,8.8,5,2018-06-24 18:38:14.556195,sofitel taba heights
+al burj,jordan,hotels.com,246001,1131.0,8.6,5,2018-06-24 18:38:14.556195,movenpick resort taba
+al burj,jordan,hotels.com,170508,4357.0,8.6,4,2018-06-24 18:38:14.556195,isrotel lagoona - all inclusive
+al burj,jordan,hotels.com,798411904,722.0,,4,2018-06-24 18:38:14.556195,lacosta hotel
+al burj,jordan,hotels.com,624474272,768.0,7.4,4,2018-06-24 18:38:14.556195,the bayview taba heights resort
+al burj,jordan,hotels.com,671674176,2722.0,,4,2018-06-24 18:38:14.556195,"al manara, a luxury collection hotel, saraya aqaba"
+al burj,jordan,hotels.com,248014,4636.0,8.8,4,2018-06-24 18:38:14.556195,isrotel sport club - all inclusive
+ma'in,jordan,hotels.com,431744,1839.0,6.2,4,2018-06-24 18:38:14.556195,amman airport hotel
+ma'in,jordan,hotels.com,426993,649.0,7.4,4,2018-06-24 18:38:14.556195,grand hotel madaba
+sweimeh,jordan,hotels.com,359666,1529.0,6.8,4,2018-06-24 18:38:14.556195,dead sea spa hotel
+sweimeh,jordan,hotels.com,390559,1083.0,7.2,4,2018-06-24 18:38:14.556195,ramada resort dead sea
+tabaqat fahl,jordan,hotels.com,617599,936.0,6.2,4,2018-06-24 18:38:14.556195,sedrah hotel
+salt,jordan,hotels.com,206859,3142.0,9.0,5,2018-06-24 18:38:14.556195,four seasons hotel amman
+salt,jordan,hotels.com,226334,1772.0,7.2,5,2018-06-24 18:38:14.556195,kempinski hotel amman jordan
+salt,jordan,hotels.com,139597,2083.0,8.6,5,2018-06-24 18:38:14.556195,grand hyatt amman
+salt,jordan,hotels.com,485207,1610.0,7.6,5,2018-06-24 18:38:14.556195,lagoon hotel & resort
+salt,jordan,hotels.com,477447712,1899.0,8.8,5,2018-06-24 18:38:14.556195,amman rotana
+salt,jordan,hotels.com,700244,1791.0,9.8,5,2018-06-24 18:38:14.556195,fairmont amman
+salt,jordan,hotels.com,267362,1939.0,7.8,5,2018-06-24 18:38:14.556195,sheraton amman al nabil hotel
+salt,jordan,hotels.com,187504,3571.0,6.6,5,2018-06-24 18:38:14.556195,holiday inn amman
+salt,jordan,hotels.com,404355,1520.0,7.4,5,2018-06-24 18:38:14.556195,bristol hotel
+salt,jordan,hotels.com,671677312,1982.0,9.4,5,2018-06-24 18:38:14.556195,w amman
+shoubak,jordan,hotels.com,722975168,864.0,,5,2018-06-24 18:38:14.556195,hyatt zaman hotel and resort petra
+shoubak,jordan,hotels.com,199164,1239.0,8.4,5,2018-06-24 18:38:14.556195,petra marriott hotel
+shoubak,jordan,hotels.com,331077,1269.0,8.8,4,2018-06-24 18:38:14.556195,petra sella hotel
+shoubak,jordan,hotels.com,398079,1040.0,8.8,4,2018-06-24 18:38:14.556195,petra guest house
+cabo negro,morocco,hotels.com,575756,7833.0,9.4,5,2018-06-24 18:38:14.556195,banyan tree tamouda bay
+cabo negro,morocco,hotels.com,372701568,4439.0,8.8,5,2018-06-24 18:38:14.556195,sofitel tamuda bay beach and spa
+cabo negro,morocco,hotels.com,416098,2688.0,8.2,4,2018-06-24 18:38:14.556195,ulises
+cabo negro,morocco,hotels.com,536335,1942.0,8.2,4,2018-06-24 18:38:14.556195,hotel tamuda beach
+cabo negro,morocco,hotels.com,434189,1156.0,8.6,4,2018-06-24 18:38:14.556195,hotel la paloma
+cabo negro,morocco,hotels.com,179280,2208.0,6.8,4,2018-06-24 18:38:14.556195,marina smir hotel & spa
+cabo negro,morocco,hotels.com,490014,1845.0,7.0,4,2018-06-24 18:38:14.556195,hotel chams
+briech,morocco,hotels.com,657987,2519.0,9.6,5,2018-06-24 18:38:14.556195,hilton tanger city center hotel & residences
+briech,morocco,hotels.com,452334,2138.0,8.0,5,2018-06-24 18:38:14.556195,hotel farah tanger
+briech,morocco,hotels.com,436329,1782.0,8.2,5,2018-06-24 18:38:14.556195,grand mogador sea view
+briech,morocco,hotels.com,484466,1850.0,8.8,5,2018-06-24 18:38:14.556195,royal tulip city center tanger
+briech,morocco,hotels.com,378843,1317.0,7.2,4,2018-06-24 18:38:14.556195,kenzi solazur hotel
+briech,morocco,hotels.com,194240,1598.0,7.0,4,2018-06-24 18:38:14.556195,movenpick hotel & casino malabata tanger
+briech,morocco,hotels.com,233223,1665.0,6.2,4,2018-06-24 18:38:14.556195,les almohades tanger city center
+briech,morocco,hotels.com,250184,917.0,6.8,4,2018-06-24 18:38:14.556195,atlas rif and spa
+briech,morocco,hotels.com,405955840,2113.0,8.8,4,2018-06-24 18:38:14.556195,hilton garden inn tanger city center
+briech,morocco,hotels.com,181685,1271.0,7.8,4,2018-06-24 18:38:14.556195,hotel el oumnia puerto
+casablanca (region),morocco,hotels.com,237416,933.0,6.6,5,2018-06-24 18:38:14.556195,farah casablanca
+casablanca (region),morocco,hotels.com,105328,1317.0,7.0,5,2018-06-24 18:38:14.556195,sheraton casablanca hotel & towers
+casablanca (region),morocco,hotels.com,106101,1864.0,8.6,5,2018-06-24 18:38:14.556195,hyatt regency casablanca
+casablanca (region),morocco,hotels.com,429445,561.0,6.2,4,2018-06-24 18:38:14.556195,le trianon luxury hotel & spa
+casablanca (region),morocco,hotels.com,233220,537.0,7.0,4,2018-06-24 18:38:14.556195,atlas almohades casablanca city center
+casablanca (region),morocco,hotels.com,266132,910.0,6.6,4,2018-06-24 18:38:14.556195,diwan casablanca
+casablanca (region),morocco,hotels.com,756261632,985.0,,4,2018-06-24 18:38:14.556195,golden star casablanca
+casablanca (region),morocco,hotels.com,257049,656.0,3.8,4,2018-06-24 18:38:14.556195,hotel transatlantique
+casablanca (region),morocco,hotels.com,412826,1052.0,7.6,4,2018-06-24 18:38:14.556195,park suites hotel & spa
+casablanca (region),morocco,hotels.com,583212,945.0,7.2,4,2018-06-24 18:38:14.556195,the seven hotel and spa
+casablanca (region),morocco,hotels.com,579375,1052.0,8.0,4,2018-06-24 18:38:14.556195,hotel gauthier
+casablanca (region),morocco,hotels.com,573351,966.0,8.4,4,2018-06-24 18:38:14.556195,mogador marina
+casablanca (region),morocco,hotels.com,779176512,775.0,,4,2018-06-24 18:38:14.556195,hotel washington
+casablanca (region),morocco,hotels.com,120630,729.0,7.0,4,2018-06-24 18:38:14.556195,best western hotel toubkal
+casablanca (region),morocco,hotels.com,219320,847.0,7.6,4,2018-06-24 18:38:14.556195,kenzi basma hotel
+casablanca (region),morocco,hotels.com,311756,795.0,7.0,4,2018-06-24 18:38:14.556195,oum palace hotel & spa
+casablanca (region),morocco,hotels.com,560709,918.0,7.4,4,2018-06-24 18:38:14.556195,the fourteen luxury boutique hotel & spa
+casablanca (region),morocco,hotels.com,261724,1076.0,6.8,4,2018-06-24 18:38:14.556195,novotel casablanca city center
+casablanca (region),morocco,hotels.com,111968,729.0,7.6,4,2018-06-24 18:38:14.556195,idou anfa hotel
+casablanca (region),morocco,hotels.com,234087,811.0,5.0,4,2018-06-24 18:38:14.556195,hotel prince de paris
+casablanca (region),morocco,hotels.com,448492,708.0,6.8,4,2018-06-24 18:38:14.556195,hotel imperial casablanca
+casablanca (region),morocco,hotels.com,239347,945.0,7.4,4,2018-06-24 18:38:14.556195,barcelo casablanca
+casablanca (region),morocco,hotels.com,462455,892.0,7.2,4,2018-06-24 18:38:14.556195,hotel les saisons
+casablanca (region),morocco,hotels.com,261111,1030.0,6.8,4,2018-06-24 18:38:14.556195,jm suites hotel
+boufakrane,morocco,hotels.com,569783,1746.0,5.0,4,2018-06-24 18:38:14.556195,hotel transatlantique meknes
+boufakrane,morocco,hotels.com,507464,1045.0,6.0,4,2018-06-24 18:38:14.556195,hotel tafilalet & spa
+boufakrane,morocco,hotels.com,424713,799.0,6.4,4,2018-06-24 18:38:14.556195,hotel menzeh dalia
+bir jdid,morocco,hotels.com,590126,990.0,7.8,4,2018-06-24 18:38:14.556195,eurostars sidi maarouf
+bir jdid,morocco,hotels.com,233518,859.0,5.6,4,2018-06-24 18:38:14.556195,le zenith hotel
+bir jdid,morocco,hotels.com,115632,1289.0,5.8,4,2018-06-24 18:38:14.556195,casablanca le lido thalasso & spa
+bir jdid,morocco,hotels.com,435796,1288.0,7.6,4,2018-06-24 18:38:14.556195,atlas sky airport
+bir jdid,morocco,hotels.com,542928,1168.0,7.8,4,2018-06-24 18:38:14.556195,kenzi sidi maarouf hotel
+bir jdid,morocco,hotels.com,247898,1062.0,5.0,4,2018-06-24 18:38:14.556195,hotel des arts resort & spa
+bir jdid,morocco,hotels.com,228441,1432.0,8.4,4,2018-06-24 18:38:14.556195,club val d anfa
+bir jdid,morocco,hotels.com,532370,969.0,4.4,4,2018-06-24 18:38:14.556195,hotel de la corniche
+bir jdid,morocco,hotels.com,234942,963.0,6.6,4,2018-06-24 18:38:14.556195,hotel azur
+berrechid,morocco,hotels.com,424086,1137.0,7.8,5,2018-06-24 18:38:14.556195,gray boutique hotel & spa
+berrechid,morocco,hotels.com,407198,1631.0,8.4,5,2018-06-24 18:38:14.556195,sofitel casablanca tour blanche
+berrechid,morocco,hotels.com,573075,1489.0,8.2,5,2018-06-24 18:38:14.556195,grand mogador city center - casablanca
+berrechid,morocco,hotels.com,364086,2367.0,8.4,5,2018-06-24 18:38:14.556195,hotel & spa le doge
+berrechid,morocco,hotels.com,148798,1221.0,7.4,5,2018-06-24 18:38:14.556195,movenpick hotel casablanca
+berrechid,morocco,hotels.com,394430272,2558.0,9.0,5,2018-06-24 18:38:14.556195,four seasons hotel casablanca
+berrechid,morocco,hotels.com,267712,1557.0,8.4,5,2018-06-24 18:38:14.556195,hotel kenzi tower
+berrechid,morocco,hotels.com,658886,2482.0,8.4,5,2018-06-24 18:38:14.556195,le casablanca hotel
+berrechid,morocco,hotels.com,366295,2451.0,7.4,5,2018-06-24 18:38:14.556195,art palace suites & spa - chateaux & hotels collection
+berrechid,morocco,hotels.com,227545,1718.0,7.4,5,2018-06-24 18:38:14.556195,le palace d anfa
+ben slimane,morocco,hotels.com,365879,1639.0,7.6,4,2018-06-24 18:38:14.556195,avanti mohammedia hotel
+beni ansar,morocco,hotels.com,647815,836.0,7.2,4,2018-06-24 18:38:14.556195,hotel rusadir
+azemmour,morocco,hotels.com,178573,1170.0,7.4,5,2018-06-24 18:38:14.556195,pullman mazagan royal golf & spa el jadida
+azemmour,morocco,hotels.com,369168,604.0,7.2,4,2018-06-24 18:38:14.556195,art suites el jadida
+asrir n'ilemchane,morocco,hotels.com,331298,738.0,9.4,4,2018-06-24 18:38:14.556195,fibule du draa - kasbah d'hote
+annakhil,morocco,hotels.com,212198,1368.0,8.2,5,2018-06-24 18:38:14.556195,pullman marrakech palmeraie resort and spa
+annakhil,morocco,hotels.com,621886272,2211.0,8.6,4,2018-06-24 18:38:14.556195,la maison blanche - marrakech
+annakhil,morocco,hotels.com,228477,527.0,6.4,4,2018-06-24 18:38:14.556195,kasbah le mirage
+amelkis,morocco,hotels.com,244026,627.0,7.4,4,2018-06-24 18:38:14.556195,kenzi rissani hotel
+amelkis,morocco,hotels.com,93169440,1217.0,6.0,4,2018-06-24 18:38:14.556195,kasbah hotel chergui
+al hoceima,morocco,hotels.com,474518,983.0,7.8,4,2018-06-24 18:38:14.556195,mercure quemado resort
+amegdoul,morocco,hotels.com,423808,2171.0,8.8,5,2018-06-24 18:38:14.556195,villa makassar
+amegdoul,morocco,hotels.com,400776,1328.0,8.2,5,2018-06-24 18:38:14.556195,cesar resort & spa
+amegdoul,morocco,hotels.com,312246,2143.0,7.0,5,2018-06-24 18:38:14.556195,eden andalou aquapark & spa
+amegdoul,morocco,hotels.com,311114,1045.0,6.0,5,2018-06-24 18:38:14.556195,palm plaza marrakech hotel & spa
+amegdoul,morocco,hotels.com,350931,2191.0,9.2,5,2018-06-24 18:38:14.556195,sirayane boutique hotel and spa
+amegdoul,morocco,hotels.com,406364,1140.0,7.4,5,2018-06-24 18:38:14.556195,adam park hotel & spa marrakech
+amegdoul,morocco,hotels.com,332237984,9735.0,8.0,5,2018-06-24 18:38:14.556195,mandarin oriental marrakech
+amegdoul,morocco,hotels.com,251635,1476.0,7.0,5,2018-06-24 18:38:14.556195,domaine des remparts hotel & spa
+amegdoul,morocco,hotels.com,406770,3070.0,9.6,5,2018-06-24 18:38:14.556195,selman marrakech
+amegdoul,morocco,hotels.com,271737,1422.0,8.2,5,2018-06-24 18:38:14.556195,kenzi menara palace & resort
+amegdoul,morocco,hotels.com,614957,4184.0,6.4,4,2018-06-24 18:38:14.556195,club paradisio
+amegdoul,morocco,hotels.com,553761,1907.0,9.2,4,2018-06-24 18:38:14.556195,the source
+amegdoul,morocco,hotels.com,378301,996.0,8.2,4,2018-06-24 18:38:14.556195,les jardins de l'agdal hotel & spa
+amegdoul,morocco,hotels.com,653760,119232.0,,4,2018-06-24 18:38:14.556195,kasbah tamadot
+amegdoul,morocco,hotels.com,338820,1641.0,,4,2018-06-24 18:38:14.556195,o'atlas
+amegdoul,morocco,hotels.com,326021,1244.0,8.2,4,2018-06-24 18:38:14.556195,adama resort
+amegdoul,morocco,hotels.com,539279,1375.0,9.8,4,2018-06-24 18:38:14.556195,palais amador
+amegdoul,morocco,hotels.com,271762,1127.0,9.6,4,2018-06-24 18:38:14.556195,al fassia aguedal
+amegdoul,morocco,hotels.com,485660,871.0,6.8,4,2018-06-24 18:38:14.556195,palais jena hotel & spa
+amegdoul,morocco,hotels.com,487960,1181.0,7.4,4,2018-06-24 18:38:14.556195,palais clementina & spa
+amegdoul,morocco,hotels.com,686503,1788.0,8.4,4,2018-06-24 18:38:14.556195,be live experience marrakech palmeraie - all inclusive
+amegdoul,morocco,hotels.com,266930,609.0,7.4,4,2018-06-24 18:38:14.556195,mogador kasbah
+amegdoul,morocco,hotels.com,85661984,1432.0,6.0,4,2018-06-24 18:38:14.556195,domaine de la roseraie
+amegdoul,morocco,hotels.com,257748,717.0,8.6,4,2018-06-24 18:38:14.556195,la maison des oliviers
+amegdoul,morocco,hotels.com,574308,501.0,8.0,4,2018-06-24 18:38:14.556195,les riads de jouvence
+amegdoul,morocco,hotels.com,449131,1463.0,8.0,4,2018-06-24 18:38:14.556195,kech boutique hotel & spa
+amegdoul,morocco,hotels.com,417020,685.0,5.8,4,2018-06-24 18:38:14.556195,hotel rawabi marrakech & spa- all inclusive
+ait issafen,morocco,hotels.com,240096,648.0,,4,2018-06-24 18:38:14.556195,hotel idou tiznit
+ait hamid,morocco,hotels.com,474812,762.0,7.6,5,2018-06-24 18:38:14.556195,fellah hotel
+ait hamid,morocco,hotels.com,394820,1284.0,9.0,4,2018-06-24 18:38:14.556195,les jardins de zyriab
+ait bouih ben ali,morocco,hotels.com,701533600,553.0,8.0,4,2018-06-24 18:38:14.556195,hotel almounia taroudant
+ait bouih ben ali,morocco,hotels.com,254862,502.0,5.8,4,2018-06-24 18:38:14.556195,palais salam taroudant
+ain cheggag,morocco,hotels.com,336450,1845.0,9.4,5,2018-06-24 18:38:14.556195,la maison bleue batha
+ain cheggag,morocco,hotels.com,231568,645.0,7.6,5,2018-06-24 18:38:14.556195,ramada fes
+ain cheggag,morocco,hotels.com,383122,972.0,8.2,5,2018-06-24 18:38:14.556195,palais medina & spa
+ain cheggag,morocco,hotels.com,462813,2495.0,9.2,5,2018-06-24 18:38:14.556195,hotel sahrai
+ain cheggag,morocco,hotels.com,169571,836.0,7.8,5,2018-06-24 18:38:14.556195,les merinides
+ain el aouda,morocco,hotels.com,669902,1916.0,8.0,5,2018-06-24 18:38:14.556195,the view
+ain cheggag,morocco,hotels.com,374315,5228.0,9.4,5,2018-06-24 18:38:14.556195,hotel michlifen resort & golf
+ain cheggag,morocco,hotels.com,402803,2029.0,9.6,5,2018-06-24 18:38:14.556195,palais faraj suites & spa
+ain cheggag,morocco,hotels.com,235094,799.0,8.2,4,2018-06-24 18:38:14.556195,fes marriott hotel jnan palace
+ain cheggag,morocco,hotels.com,348573,3577.0,8.8,4,2018-06-24 18:38:14.556195,palais d'hotes suites & spa fes
+ain el aouda,morocco,hotels.com,271573,1862.0,7.6,5,2018-06-24 18:38:14.556195,l'amphitrite palace resort & spa
+ain el aouda,morocco,hotels.com,118997,2123.0,8.4,5,2018-06-24 18:38:14.556195,sofitel rabat jardin des roses
+ain el aouda,morocco,hotels.com,138782,2232.0,8.2,5,2018-06-24 18:38:14.556195,la tour hassan
+ain el aouda,morocco,hotels.com,234908,1476.0,7.0,5,2018-06-24 18:38:14.556195,farah rabat
+ain cheggag,morocco,hotels.com,254863,873.0,5.2,4,2018-06-24 18:38:14.556195,menzeh zalagh
+ain cheggag,morocco,hotels.com,777181504,1054.0,,4,2018-06-24 18:38:14.556195,vichy thermalia spa hotel moulay yacoub
+ain cheggag,morocco,hotels.com,394406,609.0,7.2,4,2018-06-24 18:38:14.556195,barcelo fes medina
+ain cheggag,morocco,hotels.com,235822,590.0,2.0,4,2018-06-24 18:38:14.556195,wassim hotel
+ain el aouda,morocco,hotels.com,749112960,3855.0,,5,2018-06-24 18:38:14.556195,vichy celestins spa hotel casablanca
+ain el aouda,morocco,hotels.com,312637,1488.0,7.8,5,2018-06-24 18:38:14.556195,dawliz resort & spa
+ain el aouda,morocco,hotels.com,458516,1179.0,9.0,4,2018-06-24 18:38:14.556195,villa des ambassadors
+ain el aouda,morocco,hotels.com,184451,1120.0,8.0,4,2018-06-24 18:38:14.556195,hotel le diwan mgallery by sofitel
+ain cheggag,morocco,hotels.com,352490,467.0,5.8,4,2018-06-24 18:38:14.556195,hotel moulay yacoub
+ain cheggag,morocco,hotels.com,272506,922.0,8.4,4,2018-06-24 18:38:14.556195,dar al andalous - riad
+ain el aouda,morocco,hotels.com,242570,801.0,8.4,4,2018-06-24 18:38:14.556195,hotel belere rabat
+ain el aouda,morocco,hotels.com,332689,1503.0,6.2,4,2018-06-24 18:38:14.556195,helnan chellah hotel
+ain el aouda,morocco,hotels.com,458515,1291.0,6.0,4,2018-06-24 18:38:14.556195,majliss hotel
+ain el aouda,morocco,hotels.com,599953,984.0,5.8,4,2018-06-24 18:38:14.556195,rihab hotel
+ain el aouda,morocco,hotels.com,375645,1831.0,9.4,4,2018-06-24 18:38:14.556195,villa mandarine
+ain el aouda,morocco,hotels.com,348446,1121.0,4.6,4,2018-06-24 18:38:14.556195,dolce vita thalasso center hotel
+ain el aouda,morocco,hotels.com,566892,1025.0,8.0,4,2018-06-24 18:38:14.556195,cantor hotel rabat terminus
+ain el aouda,morocco,hotels.com,435435,1249.0,6.0,4,2018-06-24 18:38:14.556195,rive hotel
+aghouatim,morocco,hotels.com,169560,1209.0,8.0,5,2018-06-24 18:38:14.556195,le meridien n'fis
+aghouatim,morocco,hotels.com,413272,2583.0,9.0,5,2018-06-24 18:38:14.556195,tigmiza suites & pavillons
+aghouatim,morocco,hotels.com,471153,2427.0,9.8,5,2018-06-24 18:38:14.556195,"la maison arabe hotel, spa and cooking workshops"
+aghouatim,morocco,hotels.com,207482,1493.0,8.0,5,2018-06-24 18:38:14.556195,palmeraie palace
+aghouatim,morocco,hotels.com,469637,5134.0,9.8,5,2018-06-24 18:38:14.556195,la villa des orangers - relais & chateaux
+agadir el ghazi,morocco,hotels.com,271880,1605.0,9.6,5,2018-06-24 18:38:14.556195,tikida golf palace
+agadir el ghazi,morocco,hotels.com,395679,1387.0,6.6,5,2018-06-24 18:38:14.556195,bianca beach family & resort
+agadir el ghazi,morocco,hotels.com,188195,1738.0,7.2,5,2018-06-24 18:38:14.556195,hotel atlantic palace
+agadir el ghazi,morocco,hotels.com,396209,2601.0,7.2,5,2018-06-24 18:38:14.556195,royal atlas
+agadir el ghazi,morocco,hotels.com,211387,2325.0,8.0,5,2018-06-24 18:38:14.556195,sofitel agadir royal bay resort
+agadir el ghazi,morocco,hotels.com,407764,2681.0,8.6,5,2018-06-24 18:38:14.556195,paradis plage surf yoga & spa resort
+agadir el ghazi,morocco,hotels.com,404817,2990.0,8.0,5,2018-06-24 18:38:14.556195,sofitel agadir thalassa sea & spa
+agadir el ghazi,morocco,hotels.com,515559,1653.0,8.6,5,2018-06-24 18:38:14.556195,hyatt place taghazout bay
+agadir el ghazi,morocco,hotels.com,347660,3310.0,8.0,4,2018-06-24 18:38:14.556195,iberostar founty beach
+agadir el ghazi,morocco,hotels.com,277134,991.0,6.2,4,2018-06-24 18:38:14.556195,best western odyssee park hotel
+agadir el ghazi,morocco,hotels.com,115631,1832.0,7.4,4,2018-06-24 18:38:14.556195,kenzi europa
+agadir el ghazi,morocco,hotels.com,233394,2152.0,6.6,4,2018-06-24 18:38:14.556195,labranda atlas amadil
+agadir el ghazi,morocco,hotels.com,233393,1168.0,7.4,4,2018-06-24 18:38:14.556195,lti-agadir beach club
+agadir el ghazi,morocco,hotels.com,233528,1052.0,6.0,4,2018-06-24 18:38:14.556195,hotel argana
+agadir el ghazi,morocco,hotels.com,686558368,2152.0,4.0,4,2018-06-24 18:38:14.556195,labranda les dunes d'or
+agadir el ghazi,morocco,hotels.com,234321,1375.0,7.0,4,2018-06-24 18:38:14.556195,anezi tower hotel
+agadir el ghazi,morocco,hotels.com,563287,1992.0,8.4,4,2018-06-24 18:38:14.556195,sol house taghazout bay - surf
+agadir el ghazi,morocco,hotels.com,255339,1318.0,8.6,4,2018-06-24 18:38:14.556195,timoulay hotel & spa agadir
+agadir el ghazi,morocco,hotels.com,736820096,1695.0,,4,2018-06-24 18:38:14.556195,sahara hotel agadir - adults only
+agadir el ghazi,morocco,hotels.com,233836,1516.0,6.6,4,2018-06-24 18:38:14.556195,palais des roses hotel & spa
+agadir el ghazi,morocco,hotels.com,448887,985.0,7.2,4,2018-06-24 18:38:14.556195,mogador al madina
+afrate haissoun,morocco,hotels.com,272280,1156.0,8.2,5,2018-06-24 18:38:14.556195,atlas essaouira & spa
+afrate haissoun,morocco,hotels.com,193518,1622.0,8.2,5,2018-06-24 18:38:14.556195,le medina essaouira sea & spa - mgallery by sofitel
+afrate haissoun,morocco,hotels.com,365108,2203.0,8.4,5,2018-06-24 18:38:14.556195,sofitel essaouira mogador golf & spa
+afrate haissoun,morocco,hotels.com,499648,726.0,9.0,4,2018-06-24 18:38:14.556195,essaouira lodge
+afrate haissoun,morocco,hotels.com,498641,2164.0,8.6,4,2018-06-24 18:38:14.556195,villa de l'o
+afrate haissoun,morocco,hotels.com,233901,1685.0,7.4,4,2018-06-24 18:38:14.556195,hotel des iles
+afourer,morocco,hotels.com,347523,2630.0,6.4,4,2018-06-24 18:38:14.556195,widiane suites & spa
+afourer,morocco,hotels.com,385613,799.0,6.4,4,2018-06-24 18:38:14.556195,hotel ouzoud beni mellal
+afeggou,morocco,hotels.com,377462,1853.0,8.2,5,2018-06-24 18:38:14.556195,le temple des arts
+afeggou,morocco,hotels.com,151320,2029.0,8.0,5,2018-06-24 18:38:14.556195,le berbere palace
+afeggou,morocco,hotels.com,228778,544.0,6.0,4,2018-06-24 18:38:14.556195,kenzi azghor
+afeggou,morocco,hotels.com,344590,716.0,6.4,4,2018-06-24 18:38:14.556195,hotel karam palace
+afeggou,morocco,hotels.com,258426,332.0,7.2,4,2018-06-24 18:38:14.556195,le zat
+ait ourir,morocco,hotels.com,109312,4994.0,9.2,5,2018-06-24 18:38:14.556195,la mamounia
+ait ourir,morocco,hotels.com,196613,1455.0,8.8,5,2018-06-24 18:38:14.556195,movenpick hotel mansour eddahbi marrakech
+ait ourir,morocco,hotels.com,252942,989.0,7.6,5,2018-06-24 18:38:14.556195,pavillon du golf
+ait ourir,morocco,hotels.com,404491,3698.0,9.4,5,2018-06-24 18:38:14.556195,palais namaskar
+ait ourir,morocco,hotels.com,246284,2404.0,8.0,5,2018-06-24 18:38:14.556195,sofitel marrakech lounge and spa
+ait ourir,morocco,hotels.com,258316,1048.0,6.6,5,2018-06-24 18:38:14.556195,mogador palace agdal & spa
+ait ourir,morocco,hotels.com,323372,2482.0,7.8,5,2018-06-24 18:38:14.556195,sofitel marrakech palais imperial
+ait ourir,morocco,hotels.com,331310,1279.0,10.0,5,2018-06-24 18:38:14.556195,jnane allia
+ait ourir,morocco,hotels.com,388907,4194.0,7.8,5,2018-06-24 18:38:14.556195,al maaden villahotel & spa
+ait ourir,morocco,hotels.com,413003,3901.0,9.6,5,2018-06-24 18:38:14.556195,la sultana marrakech
+tozeur,tunisia,hotels.com,263174,684.0,6.4,4,2018-06-24 18:38:14.556195,ksar rouge
+tozeur,tunisia,hotels.com,328204,597.0,6.6,4,2018-06-24 18:38:14.556195,el mouradi tozeur
+tozeur,tunisia,hotels.com,220697,680.0,7.2,4,2018-06-24 18:38:14.556195,hotel ras el ain
+tabarka,tunisia,hotels.com,647590656,1329.0,7.0,5,2018-06-24 18:38:14.556195,hotel dar ismail tabarka
+tabarka,tunisia,hotels.com,591530,927.0,6.2,4,2018-06-24 18:38:14.556195,itropika hotel
+tabarka,tunisia,hotels.com,571540,1722.0,8.2,4,2018-06-24 18:38:14.556195,hotel marina prestige tabarka
+sousse governorate,tunisia,hotels.com,220952,993.0,8.2,5,2018-06-24 18:38:14.556195,hotel la kasbah
+sfax,tunisia,hotels.com,656475648,1383.0,5.0,5,2018-06-24 18:38:14.556195,hotel plaza sfax & spa
+sfax,tunisia,hotels.com,308119,1359.0,8.0,5,2018-06-24 18:38:14.556195,hotel borj dhiafa
+sfax,tunisia,hotels.com,258678,1422.0,7.4,5,2018-06-24 18:38:14.556195,les oliviers palace
+sfax,tunisia,hotels.com,237776,1229.0,7.8,4,2018-06-24 18:38:14.556195,golden tulip sfax
+zaafrane,tunisia,hotels.com,258687,650.0,,4,2018-06-24 18:38:14.556195,sun palm douz
+zaafrane,tunisia,hotels.com,253663,429.0,6.2,4,2018-06-24 18:38:14.556195,el mouradi douz
+soliman,tunisia,hotels.com,479754,980.0,6.6,5,2018-06-24 18:38:14.556195,hotel samarons
+soliman,tunisia,hotels.com,236829,1353.0,7.8,5,2018-06-24 18:38:14.556195,carthage thalasso resort
+soliman,tunisia,hotels.com,241189,1895.0,7.4,5,2018-06-24 18:38:14.556195,concorde les berges du lac
+soliman,tunisia,hotels.com,227881,1432.0,6.2,5,2018-06-24 18:38:14.556195,el mouradi gammarth
+soliman,tunisia,hotels.com,490558,1318.0,8.6,5,2018-06-24 18:38:14.556195,palais bayram
+soliman,tunisia,hotels.com,435770,1503.0,8.6,5,2018-06-24 18:38:14.556195,"radisson blu resort & thalasso, hammamet"
+soliman,tunisia,hotels.com,210766,1012.0,5.6,5,2018-06-24 18:38:14.556195,hotel la maison blanche
+soliman,tunisia,hotels.com,196945,1629.0,7.0,5,2018-06-24 18:38:14.556195,regency tunis hotel
+soliman,tunisia,hotels.com,242026,973.0,7.4,5,2018-06-24 18:38:14.556195,hotel africa
+soliman,tunisia,hotels.com,333673,903.0,8.2,5,2018-06-24 18:38:14.556195,tunis grand hotel
+soliman,tunisia,hotels.com,459137,1878.0,8.6,5,2018-06-24 18:38:14.556195,hotel oceana hammamet - adults only
+soliman,tunisia,hotels.com,169861,1192.0,7.4,5,2018-06-24 18:38:14.556195,golden tulip carthage tunis hotel
+soliman,tunisia,hotels.com,231050,1207.0,6.6,5,2018-06-24 18:38:14.556195,le palace hotel
+soliman,tunisia,hotels.com,212364,1457.0,7.8,5,2018-06-24 18:38:14.556195,le royal hotels & resorts - hammamet
+soliman,tunisia,hotels.com,649122848,3254.0,9.2,5,2018-06-24 18:38:14.556195,four seasons hotel tunis
+soliman,tunisia,hotels.com,449958,3579.0,9.2,5,2018-06-24 18:38:14.556195,la villa bleue
+soliman,tunisia,hotels.com,453806,2326.0,8.6,5,2018-06-24 18:38:14.556195,dar el marsa
+soliman,tunisia,hotels.com,458167,3363.0,9.4,5,2018-06-24 18:38:14.556195,la badira
+soliman,tunisia,hotels.com,113098,1954.0,7.8,5,2018-06-24 18:38:14.556195,sheraton tunis hotel
+soliman,tunisia,hotels.com,377303,3050.0,8.8,5,2018-06-24 18:38:14.556195,the residence tunis
+soliman,tunisia,hotels.com,274897,2925.0,8.2,5,2018-06-24 18:38:14.556195,movenpick hotel gammarth tunis
+soliman,tunisia,hotels.com,222441,2158.0,8.4,5,2018-06-24 18:38:14.556195,the sindbad
+soliman,tunisia,hotels.com,741029952,1528.0,9.0,4,2018-06-24 18:38:14.556195,movenpick hotel du lac tunis
+soliman,tunisia,hotels.com,223254,819.0,7.0,4,2018-06-24 18:38:14.556195,golden tulip el mechtel
+soliman,tunisia,hotels.com,551199,1384.0,6.6,4,2018-06-24 18:38:14.556195,hotel lac leman
+soliman,tunisia,hotels.com,253469,1445.0,7.0,4,2018-06-24 18:38:14.556195,hammamet serail
+soliman,tunisia,hotels.com,337188,1172.0,2.4,4,2018-06-24 18:38:14.556195,african queen
+soliman,tunisia,hotels.com,508707,1124.0,6.8,4,2018-06-24 18:38:14.556195,business hotel tunis
+soliman,tunisia,hotels.com,406836,1205.0,8.2,4,2018-06-24 18:38:14.556195,africa jade thalasso
+soliman,tunisia,hotels.com,230192,2041.0,5.8,4,2018-06-24 18:38:14.556195,hammamet garden resort and spa
+soliman,tunisia,hotels.com,327487,1016.0,5.4,4,2018-06-24 18:38:14.556195,hotel diplomat
+soliman,tunisia,hotels.com,372542,706.0,5.6,4,2018-06-24 18:38:14.556195,hotel phebus
+soliman,tunisia,hotels.com,378948,692.0,7.4,4,2018-06-24 18:38:14.556195,majestic hotel
+soliman,tunisia,hotels.com,341601,1135.0,6.8,4,2018-06-24 18:38:14.556195,hotel acropole tunis
+soliman,tunisia,hotels.com,624765,927.0,9.4,4,2018-06-24 18:38:14.556195,hotel belvedere fourati
+soliman,tunisia,hotels.com,234107,1090.0,4.4,4,2018-06-24 18:38:14.556195,hotel nesrine
+soliman,tunisia,hotels.com,234105,1445.0,6.0,4,2018-06-24 18:38:14.556195,el mouradi beach
+soliman,tunisia,hotels.com,396679,1223.0,8.0,4,2018-06-24 18:38:14.556195,novotel tunis
+soliman,tunisia,hotels.com,628894,922.0,8.4,4,2018-06-24 18:38:14.556195,hotel le consul
+soliman,tunisia,hotels.com,622777,942.0,8.6,4,2018-06-24 18:38:14.556195,hotel royal victoria
+soliman,tunisia,hotels.com,442293,1528.0,7.6,4,2018-06-24 18:38:14.556195,hotel paris concorde
+soliman,tunisia,hotels.com,491197,916.0,7.2,4,2018-06-24 18:38:14.556195,hotel menara
+soliman,tunisia,hotels.com,266469,1353.0,8.6,4,2018-06-24 18:38:14.556195,hotel ezzahra dar tunis
+soliman,tunisia,hotels.com,443108,1845.0,9.0,4,2018-06-24 18:38:14.556195,khayam garden beach resort & spa
+soliman,tunisia,hotels.com,323315,667.0,4.8,4,2018-06-24 18:38:14.556195,residence dar hayet
+soliman,tunisia,hotels.com,440561,1643.0,8.2,4,2018-06-24 18:38:14.556195,corail suites hotel
+soliman,tunisia,hotels.com,211967,1690.0,8.8,4,2018-06-24 18:38:14.556195,sentido le sultan
+sangho,tunisia,hotels.com,188347,1709.0,6.0,5,2018-06-24 18:38:14.556195,hasdrubal thalassa & spa djerba
+sangho,tunisia,hotels.com,311747,2211.0,9.6,5,2018-06-24 18:38:14.556195,hasdrubal prestige thalassa & spa djerba
+sangho,tunisia,hotels.com,335828,2108.0,8.0,5,2018-06-24 18:38:14.556195,"radisson blu ulysse resort & thalasso, djerba"
+sangho,tunisia,hotels.com,246650,2271.0,7.6,5,2018-06-24 18:38:14.556195,"radisson blu palace resort & thalasso, djerba"
+sangho,tunisia,hotels.com,333595,1743.0,6.0,4,2018-06-24 18:38:14.556195,cesar thalasso
+sangho,tunisia,hotels.com,645095872,1018.0,,4,2018-06-24 18:38:14.556195,zephir hotel & spa
+sangho,tunisia,hotels.com,385842,1312.0,7.2,4,2018-06-24 18:38:14.556195,hotel green palm
+sangho,tunisia,hotels.com,253675,439.0,2.6,4,2018-06-24 18:38:14.556195,rodes
+sangho,tunisia,hotels.com,234483,1949.0,8.0,4,2018-06-24 18:38:14.556195,eden star
+sayada,tunisia,hotels.com,254342,1538.0,7.0,5,2018-06-24 18:38:14.556195,el mouradi palace
+sayada,tunisia,hotels.com,236947,1577.0,8.2,5,2018-06-24 18:38:14.556195,sousse palace hotel & spa
+sayada,tunisia,hotels.com,187924,1538.0,6.6,5,2018-06-24 18:38:14.556195,el mouradi mahdia
+sayada,tunisia,hotels.com,233372,2961.0,8.4,5,2018-06-24 18:38:14.556195,iberostar diar el andalous
+sayada,tunisia,hotels.com,326060,1868.0,7.6,5,2018-06-24 18:38:14.556195,movenpick resort & marine spa sousse
+sayada,tunisia,hotels.com,458550,2062.0,7.2,5,2018-06-24 18:38:14.556195,lti bellevue park
+sayada,tunisia,hotels.com,222257,1399.0,7.6,5,2018-06-24 18:38:14.556195,royal thalassa monastir
+sayada,tunisia,hotels.com,332635,1673.0,7.4,5,2018-06-24 18:38:14.556195,jaz tour khalef
+sayada,tunisia,hotels.com,350816,2607.0,9.0,5,2018-06-24 18:38:14.556195,iberostar royal el mansour
+sayada,tunisia,hotels.com,254064,1734.0,5.6,5,2018-06-24 18:38:14.556195,el mouradi palm marina
+sayada,tunisia,hotels.com,172409,1138.0,8.4,5,2018-06-24 18:38:14.556195,mahdia palace thalasso
+sayada,tunisia,hotels.com,469262,1611.0,4.4,4,2018-06-24 18:38:14.556195,thalassa sousse resort & aquapark
+sayada,tunisia,hotels.com,254088,1717.0,8.0,4,2018-06-24 18:38:14.556195,seabel alhambra beach golf & spa
+sayada,tunisia,hotels.com,236941,1066.0,5.4,4,2018-06-24 18:38:14.556195,alassio hotel and thalasso
+sayada,tunisia,hotels.com,237459,1107.0,6.6,4,2018-06-24 18:38:14.556195,hotel thapsus club
+sayada,tunisia,hotels.com,222481,1295.0,10.0,4,2018-06-24 18:38:14.556195,thalassa mahdia
+sayada,tunisia,hotels.com,255279,1439.0,6.6,4,2018-06-24 18:38:14.556195,el mouradi port el kantaoui
+sayada,tunisia,hotels.com,240941,1734.0,6.8,4,2018-06-24 18:38:14.556195,lti mahdia beach
+sayada,tunisia,hotels.com,256454,908.0,6.6,4,2018-06-24 18:38:14.556195,delphin el habib
+sayada,tunisia,hotels.com,253637,1353.0,6.6,4,2018-06-24 18:38:14.556195,el mouradi skanes
+sayada,tunisia,hotels.com,233945,1051.0,6.2,4,2018-06-24 18:38:14.556195,l'orient palace resort & spa
+sayada,tunisia,hotels.com,409061,1369.0,7.2,4,2018-06-24 18:38:14.556195,vendome el ksar resort & thalasso
+sayada,tunisia,hotels.com,254304,1439.0,5.6,4,2018-06-24 18:38:14.556195,el mouradi club el kantaoui
+sayada,tunisia,hotels.com,492524,795.0,6.6,4,2018-06-24 18:38:14.556195,ruspina hotel and spa
+sayada,tunisia,hotels.com,234088,1053.0,6.0,4,2018-06-24 18:38:14.556195,amir palace
+sayada,tunisia,hotels.com,234093,1129.0,7.2,4,2018-06-24 18:38:14.556195,riadh palms - family and couples only
+sayada,tunisia,hotels.com,266617,869.0,6.6,4,2018-06-24 18:38:14.556195,hotel liberty resort
+yasmine,tunisia,hotels.com,235146,1748.0,7.0,5,2018-06-24 18:38:14.556195,saphir palace & spa
+yasmine,tunisia,hotels.com,239246,1527.0,6.6,5,2018-06-24 18:38:14.556195,golden tulip taj sultan resort
+yasmine,tunisia,hotels.com,275379,1160.0,7.0,5,2018-06-24 18:38:14.556195,mehari hammamet
+yasmine,tunisia,hotels.com,254300,1473.0,7.2,5,2018-06-24 18:38:14.556195,alhambra thalasso
+yasmine,tunisia,hotels.com,351590,2446.0,8.8,5,2018-06-24 18:38:14.556195,the russelior hotel & spa
+yasmine,tunisia,hotels.com,398442,2471.0,9.4,5,2018-06-24 18:38:14.556195,hasdrubal thalassa & spa hammamet
+yasmine,tunisia,hotels.com,343435,1148.0,7.6,4,2018-06-24 18:38:14.556195,vincci flora park
+yasmine,tunisia,hotels.com,347671,2884.0,8.4,4,2018-06-24 18:38:14.556195,iberostar averroes
+yasmine,tunisia,hotels.com,347673,1643.0,8.2,4,2018-06-24 18:38:14.556195,medina belisaire & thalasso
+yasmine,tunisia,hotels.com,347672,1353.0,5.6,4,2018-06-24 18:38:14.556195,chich khan
+yasmine,tunisia,hotels.com,432931,813.0,7.2,4,2018-06-24 18:38:14.556195,eden yasmine hotel & spa
+yasmine,tunisia,hotels.com,234159,780.0,4.4,4,2018-06-24 18:38:14.556195,majesty golf hotel
+yasmine,tunisia,hotels.com,253490,1322.0,5.8,4,2018-06-24 18:38:14.556195,hotel marina palace
+yasmine,tunisia,hotels.com,237626,1076.0,4.0,4,2018-06-24 18:38:14.556195,dar el olf
+yasmine,tunisia,hotels.com,449743,1052.0,5.4,4,2018-06-24 18:38:14.556195,l' atrium hotel
+yasmine,tunisia,hotels.com,253665,1537.0,6.8,4,2018-06-24 18:38:14.556195,el mouradi el menzah
+yasmine,tunisia,hotels.com,239482,1802.0,8.2,4,2018-06-24 18:38:14.556195,diar lemdina hotel
+yasmine,tunisia,hotels.com,236922,1112.0,6.4,4,2018-06-24 18:38:14.556195,houda yasmine hammamet
+joubb jannine,lebanon,hotels.com,806670784,1311.0,,5,2018-06-24 18:38:14.556195,louis v hotel
+jezzine,lebanon,hotels.com,331168,3083.0,6.8,5,2018-06-24 18:38:14.556195,"grand hills, a luxury collection hotel & spa, broumana"
+jezzine,lebanon,hotels.com,411864,1640.0,8.6,4,2018-06-24 18:38:14.556195,beirut promenade hotel
+jezzine,lebanon,hotels.com,488062,1319.0,8.2,4,2018-06-24 18:38:14.556195,warwick stone 55 hotel
+jezzine,lebanon,hotels.com,411863,1393.0,8.8,4,2018-06-24 18:38:14.556195,boutique hotel
+jezzine,lebanon,hotels.com,576993,1253.0,,4,2018-06-24 18:38:14.556195,valley view hotel - hammana
+qornet el hamra,lebanon,hotels.com,495734,1874.0,7.4,5,2018-06-24 18:38:14.556195,printania palace
+tannourine,lebanon,hotels.com,371094,1455.0,7.6,5,2018-06-24 18:38:14.556195,portaluna hotel & resort
+tannourine,lebanon,hotels.com,311895040,1892.0,9.2,5,2018-06-24 18:38:14.556195,monte cassino boutique hotel
+tannourine,lebanon,hotels.com,362825,1523.0,6.6,5,2018-06-24 18:38:14.556195,portemilio hotel and resort
+tannourine,lebanon,hotels.com,346595,2577.0,6.0,5,2018-06-24 18:38:14.556195,regency palace hotel
+tannourine,lebanon,hotels.com,740921536,992.0,,4,2018-06-24 18:38:14.556195,maximus hotel byblos
+tannourine,lebanon,hotels.com,379399,928.0,6.0,4,2018-06-24 18:38:14.556195,rivoli palace
+tannourine,lebanon,hotels.com,669839,1991.0,,4,2018-06-24 18:38:14.556195,siena hotel
+tannourine,lebanon,hotels.com,416399,830.0,8.6,4,2018-06-24 18:38:14.556195,madisson hotel
+tannourine,lebanon,hotels.com,438541,1173.0,8.2,4,2018-06-24 18:38:14.556195,jounieh suites hotel
+tannourine,lebanon,hotels.com,483475,1634.0,5.8,4,2018-06-24 18:38:14.556195,le tournant hotel & resort
+tannourine,lebanon,hotels.com,376862,1288.0,8.6,4,2018-06-24 18:38:14.556195,bel azur
+tannourine,lebanon,hotels.com,386988,2342.0,9.2,4,2018-06-24 18:38:14.556195,bay lodge
+tannourine,lebanon,hotels.com,689338,728.0,5.8,4,2018-06-24 18:38:14.556195,aquarium hotel & resort
+tannourine,lebanon,hotels.com,336950,633.0,6.4,4,2018-06-24 18:38:14.556195,zoukotel hotel
+tannourine,lebanon,hotels.com,463665,689.0,8.0,4,2018-06-24 18:38:14.556195,al murjan palace hotel
+tannourine,lebanon,hotels.com,647659680,1885.0,9.6,4,2018-06-24 18:38:14.556195,the rooms boutique hotel
+tannourine,lebanon,hotels.com,394043,1288.0,7.2,4,2018-06-24 18:38:14.556195,lamedina hotel
+tannourine,lebanon,hotels.com,747328320,991.0,,4,2018-06-24 18:38:14.556195,hotel grand gabriel
+tannourine,lebanon,hotels.com,357448,1051.0,8.6,4,2018-06-24 18:38:14.556195,princessa hotel
+tannourine,lebanon,hotels.com,571736,937.0,,4,2018-06-24 18:38:14.556195,hotel arcada marina
+tannourine,lebanon,hotels.com,362833,1340.0,9.2,4,2018-06-24 18:38:14.556195,monoberge byblos hotel
+tannourine,lebanon,hotels.com,777383040,794.0,8.0,4,2018-06-24 18:38:14.556195,sea view hotel
+tannourine,lebanon,hotels.com,671318,1652.0,8.0,4,2018-06-24 18:38:14.556195,bzommar palace hotel
+tannourine,lebanon,hotels.com,407781,885.0,9.2,4,2018-06-24 18:38:14.556195,reston hotel
+tannourine,lebanon,hotels.com,345824,949.0,5.0,4,2018-06-24 18:38:14.556195,hollywood inn hotel
+tannourine,lebanon,hotels.com,339703,820.0,8.0,4,2018-06-24 18:38:14.556195,victory byblos hotel & spa
+tannourine,lebanon,hotels.com,475505,731.0,6.2,4,2018-06-24 18:38:14.556195,bay inn hotel
+tabarja,lebanon,hotels.com,646866368,826.0,10.0,4,2018-06-24 18:38:14.556195,ibiza hotel
+tabarja,lebanon,hotels.com,699914,1229.0,9.0,5,2018-06-24 18:38:14.556195,burj on bay hotel
+saghbine,lebanon,hotels.com,218119,2928.0,8.2,5,2018-06-24 18:38:14.556195,le royal hotel- beirut
+saida,lebanon,hotels.com,232451,2081.0,8.6,5,2018-06-24 18:38:14.556195,hilton beirut habtoor grand
+saida,lebanon,hotels.com,191492,1218.0,8.8,5,2018-06-24 18:38:14.556195,"radisson blu hotel, beirut verdun"
+saida,lebanon,hotels.com,386306,1991.0,7.6,5,2018-06-24 18:38:14.556195,le patio boutique hotel
+saida,lebanon,hotels.com,536323,1729.0,9.0,5,2018-06-24 18:38:14.556195,sofitel beirut le gabriel
+saida,lebanon,hotels.com,195855,1344.0,8.2,5,2018-06-24 18:38:14.556195,gefinor rotana
+saida,lebanon,hotels.com,439839,1404.0,8.8,5,2018-06-24 18:38:14.556195,the smallville hotel
+saida,lebanon,hotels.com,132397,1763.0,8.6,5,2018-06-24 18:38:14.556195,al bustan hotel & spa
+saida,lebanon,hotels.com,321847,5280.0,9.4,5,2018-06-24 18:38:14.556195,le gray
+saida,lebanon,hotels.com,225601,1595.0,8.8,5,2018-06-24 18:38:14.556195,four points by sheraton le verdun
+saida,lebanon,hotels.com,412515520,2108.0,9.0,5,2018-06-24 18:38:14.556195,royal tulip achrafieh
+saida,lebanon,hotels.com,333665,4685.0,8.8,5,2018-06-24 18:38:14.556195,four seasons hotel beirut
+saida,lebanon,hotels.com,174192,1218.0,8.6,5,2018-06-24 18:38:14.556195,"radisson blu martinez hotel, beirut"
+saida,lebanon,hotels.com,125302,2577.0,7.0,5,2018-06-24 18:38:14.556195,riviera hotel beirut
+saida,lebanon,hotels.com,372364,2786.0,8.4,5,2018-06-24 18:38:14.556195,coral beach hotel and resort beirut
+saida,lebanon,hotels.com,119180,1374.0,8.8,5,2018-06-24 18:38:14.556195,le bristol hotel
+saida,lebanon,hotels.com,623763,3280.0,9.2,5,2018-06-24 18:38:14.556195,hotel albergo
+saida,lebanon,hotels.com,204190,2717.0,8.2,5,2018-06-24 18:38:14.556195,movenpick hotel beirut
+saida,lebanon,hotels.com,122278,1190.0,6.6,5,2018-06-24 18:38:14.556195,le commodore
+saida,lebanon,hotels.com,435650,2202.0,8.8,5,2018-06-24 18:38:14.556195,o monot hotel
+saida,lebanon,hotels.com,204741,1683.0,6.8,5,2018-06-24 18:38:14.556195,hilton beirut metropolitan palace
+saida,lebanon,hotels.com,393933,1265.0,7.2,5,2018-06-24 18:38:14.556195,ramada plaza beirut raouche
+saida,lebanon,hotels.com,490186,1338.0,8.8,5,2018-06-24 18:38:14.556195,1866 court & suites
+saida,lebanon,hotels.com,774084800,2202.0,,5,2018-06-24 18:38:14.556195,safir bhamdoun hotel
+saida,lebanon,hotels.com,329443,1156.0,8.4,5,2018-06-24 18:38:14.556195,markazia suites
+saida,lebanon,hotels.com,495574368,2492.0,8.8,5,2018-06-24 18:38:14.556195,lancaster plaza beirut
+saida,lebanon,hotels.com,774257056,3341.0,,4,2018-06-24 18:38:14.556195,lancaster eden bay
+saida,lebanon,hotels.com,476065,2688.0,9.0,4,2018-06-24 18:38:14.556195,saifi suites
+saida,lebanon,hotels.com,276740,1288.0,8.0,4,2018-06-24 18:38:14.556195,ramada downtown beirut
+saida,lebanon,hotels.com,365319,1032.0,8.2,4,2018-06-24 18:38:14.556195,golden tulip midtown hotel and suites
+saida,lebanon,hotels.com,398081,1288.0,8.2,4,2018-06-24 18:38:14.556195,the bayview hotel
+saida,lebanon,hotels.com,629991552,1055.0,10.0,4,2018-06-24 18:38:14.556195,blue lake hotel
+saida,lebanon,hotels.com,373259,1054.0,8.4,4,2018-06-24 18:38:14.556195,cavalier hotel
+saida,lebanon,hotels.com,336403,600.0,4.6,4,2018-06-24 18:38:14.556195,grand hotel beirut
+saida,lebanon,hotels.com,276511,764.0,6.2,4,2018-06-24 18:38:14.556195,plaza hotel
+saida,lebanon,hotels.com,489264,1124.0,8.0,4,2018-06-24 18:38:14.556195,three onine urban house
+saida,lebanon,hotels.com,623921,991.0,8.4,4,2018-06-24 18:38:14.556195,lancaster tamar hotel
+saida,lebanon,hotels.com,623927,1103.0,8.0,4,2018-06-24 18:38:14.556195,lancaster hotel raouche
+saida,lebanon,hotels.com,376635,758.0,5.4,4,2018-06-24 18:38:14.556195,napoleon hotel
+saida,lebanon,hotels.com,371514,1933.0,8.4,4,2018-06-24 18:38:14.556195,etoile suites boutique hotel down town
+saida,lebanon,hotels.com,370244,822.0,6.2,4,2018-06-24 18:38:14.556195,duroy hotel
+saida,lebanon,hotels.com,506436,858.0,5.8,4,2018-06-24 18:38:14.556195,the j hotel & spa
+saida,lebanon,hotels.com,376641,750.0,7.4,4,2018-06-24 18:38:14.556195,lavender home
+saida,lebanon,hotels.com,413262,2522.0,6.6,4,2018-06-24 18:38:14.556195,pangea beach resort
+saida,lebanon,hotels.com,614336192,991.0,8.6,4,2018-06-24 18:38:14.556195,beverly hotel beirut
+saida,lebanon,hotels.com,325979,872.0,7.8,4,2018-06-24 18:38:14.556195,coral beirut al hamra hotel
+saida,lebanon,hotels.com,467311,1171.0,6.6,4,2018-06-24 18:38:14.556195,elite hotel & spa
+saida,lebanon,hotels.com,377194,839.0,7.6,4,2018-06-24 18:38:14.556195,bella riva hotel
+saida,lebanon,hotels.com,475517,5856.0,,4,2018-06-24 18:38:14.556195,orient queen homes
+saida,lebanon,hotels.com,365459,995.0,7.4,4,2018-06-24 18:38:14.556195,the cosmopolitan hotel
+saida,lebanon,hotels.com,418970,928.0,7.6,4,2018-06-24 18:38:14.556195,wh hotel
+saida,lebanon,hotels.com,437415,1102.0,10.0,4,2018-06-24 18:38:14.556195,assaha lebanese traditional village
+saida,lebanon,hotels.com,630028064,1643.0,6.0,4,2018-06-24 18:38:14.556195,platinum hotel
+saida,lebanon,hotels.com,375230,2013.0,9.6,4,2018-06-24 18:38:14.556195,parktower suites
+saida,lebanon,hotels.com,499904,1148.0,7.6,4,2018-06-24 18:38:14.556195,imperial suites hotel
+saida,lebanon,hotels.com,726459520,1025.0,,4,2018-06-24 18:38:14.556195,monteverde hotel
+saida,lebanon,hotels.com,351177,1347.0,7.6,4,2018-06-24 18:38:14.556195,warwick palm beach hotel
+saida,lebanon,hotels.com,324554,1180.0,7.0,4,2018-06-24 18:38:14.556195,golden tulip serenada hotel hamra
+saida,lebanon,hotels.com,436432,853.0,8.2,4,2018-06-24 18:38:14.556195,q- hotel
+saida,lebanon,hotels.com,329436,1272.0,7.4,4,2018-06-24 18:38:14.556195,monroe hotel beirut
+saida,lebanon,hotels.com,418779,696.0,7.4,4,2018-06-24 18:38:14.556195,orient prince hotel
+saida,lebanon,hotels.com,445145,697.0,7.6,4,2018-06-24 18:38:14.556195,vie boutique hotel
+saida,lebanon,hotels.com,584174,879.0,8.4,4,2018-06-24 18:38:14.556195,alexandre
+saida,lebanon,hotels.com,332265,1045.0,7.8,4,2018-06-24 18:38:14.556195,padova hotel
+saida,lebanon,hotels.com,563175,914.0,9.0,4,2018-06-24 18:38:14.556195,urban central suites - beirut
+saida,lebanon,hotels.com,337642,1302.0,8.6,4,2018-06-24 18:38:14.556195,raouche arjaan by rotana
+saida,lebanon,hotels.com,406257,893.0,7.2,4,2018-06-24 18:38:14.556195,queen's suite hotel
+saida,lebanon,hotels.com,151290,720.0,7.4,4,2018-06-24 18:38:14.556195,mayflower hotel
+saida,lebanon,hotels.com,331771,837.0,6.0,4,2018-06-24 18:38:14.556195,mediterranee
+saida,lebanon,hotels.com,138820160,2342.0,,4,2018-06-24 18:38:14.556195,safir bhamdoun hotel

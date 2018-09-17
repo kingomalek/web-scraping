@@ -1,0 +1,1399 @@
+city,country,host,id,price,review,stars,timestamp,titre
+gammarth,tunisia,booking.com,179422,3472.0,8.6,5,2018-06-24 21:37:02.802253,the residence tunis
+"tunis centre , tunis",tunisia,booking.com,255777,896.0,8.0,3,2018-06-24 21:37:02.802253,hotel carlton
+gammarth,tunisia,booking.com,42038,1666.0,6.1,5,2018-06-24 21:37:02.802253,el mouradi gammarth
+yasmine hammamet,tunisia,booking.com,235214,2784.0,8.5,5,2018-06-24 21:37:02.802253,the russelior hotel & spa
+tunis,tunisia,booking.com,42040,938.0,6.9,4,2018-06-24 21:37:02.802253,golden tulip el mechtel
+yasmine hammamet,tunisia,booking.com,42058,1546.0,5.7,3,2018-06-24 21:37:02.802253,hotel la couronne
+midoun,tunisia,booking.com,42068,2620.0,7.7,4,2018-06-24 21:37:02.802253,caribbean world thalasso djerba - all inclusive
+"tunis centre , tunis",tunisia,booking.com,42028,1142.0,7.2,5,2018-06-24 21:37:02.802253,el mouradi hotel africa tunis
+yasmine hammamet,tunisia,booking.com,175586,3049.0,8.3,4,2018-06-24 21:37:02.802253,iberostar averroes
+yasmine hammamet,tunisia,booking.com,42032,1924.0,8.3,4,2018-06-24 21:37:02.802253,sentido le sultan
+yasmine hammamet,tunisia,booking.com,42114,2457.0,8.1,5,2018-06-24 21:37:02.802253,the sindbad
+port el kantaoui,tunisia,booking.com,42103,2596.0,8.1,4,2018-06-24 21:37:02.802253,seabel alhambra beach golf & spa
+tunis,tunisia,booking.com,238176,1864.0,6.4,3,2018-06-24 21:37:02.802253,ambassadeurs hotel
+tunis,tunisia,booking.com,180072,1060.0,7.2,5,2018-06-24 21:37:02.802253,tunis grand hotel
+yasmine hammamet,tunisia,booking.com,175643,1871.0,7.5,4,2018-06-24 21:37:02.802253,medina belisaire and thalasso
+broummana,lebanon,booking.com,73125,3549.0,8.5,5,2018-06-24 21:37:02.802253,"grand hills, a luxury collection hotel & spa"
+beirut,lebanon,booking.com,295808,5473.0,8.9,5,2018-06-24 21:37:02.802253,four seasons hotel beirut
+beirut,lebanon,booking.com,69909,777.0,7.6,4,2018-06-24 21:37:02.802253,the mayflower hotel
+jounieh,lebanon,booking.com,249227,1564.0,7.1,5,2018-06-24 21:37:02.802253,portemilio hotel & resort
+beirut,lebanon,booking.com,3130070,842.0,8.8,4,2018-06-24 21:37:02.802253,hamra urban gardens
+beirut,lebanon,booking.com,73297,3007.0,8.1,5,2018-06-24 21:37:02.802253,le royal hotels - beirut
+beirut,lebanon,booking.com,1239969,1462.0,8.8,5,2018-06-24 21:37:02.802253,1866 court & suites hotel
+beirut,lebanon,booking.com,378884,962.0,8.5,4,2018-06-24 21:37:02.802253,santonaresidence
+beirut,lebanon,booking.com,78602,1383.0,7.5,4,2018-06-24 21:37:02.802253,monroe hotel beirut
+beirut,lebanon,booking.com,248297,974.0,9.0,4,2018-06-24 21:37:02.802253,the living by beirut homes
+beirut,lebanon,booking.com,299167,2189.0,9.0,4,2018-06-24 21:37:02.802253,parktower suites
+jounieh,lebanon,booking.com,1006337,629.0,8.0,3,2018-06-24 21:37:02.802253,vista del mar hotel
+amman,jordan,booking.com,2701065,1599.0,9.2,5,2018-06-24 21:37:02.802253,the house boutique suites
+wadi musa,jordan,booking.com,393582,627.0,7.0,3,2018-06-24 21:37:02.802253,petra palace hotel
+wadi musa,jordan,booking.com,182402,559.0,8.2,3,2018-06-24 21:37:02.802253,la maison hotel
+amman,jordan,booking.com,1142364,1599.0,8.2,5,2018-06-24 21:37:02.802253,the boulevard arjaan by rotana
+amman,jordan,booking.com,1724985,1697.0,8.6,5,2018-06-24 21:37:02.802253,amman rotana
+amman,jordan,booking.com,379811,576.0,8.1,2,2018-06-24 21:37:02.802253,amman pasha hotel
+wadi musa,jordan,booking.com,405702,593.0,8.0,3,2018-06-24 21:37:02.802253,seven wonders hotel
+amman,jordan,booking.com,182408,792.0,8.1,3,2018-06-24 21:37:02.802253,toledo amman hotel
+amman,jordan,booking.com,1879599,728.0,8.3,4,2018-06-24 21:37:02.802253,tilal almadina hotel & suites
+amman,jordan,booking.com,381959,1080.0,8.9,4,2018-06-24 21:37:02.802253,ayass hotel
+wadi musa,jordan,booking.com,21959,671.0,8.3,4,2018-06-24 21:37:02.802253,petra sella hotel
+amman,jordan,booking.com,72285,1732.0,8.2,5,2018-06-24 21:37:02.802253,sheraton amman al-nabil hotel
+sowayma,jordan,booking.com,1565221,1987.0,8.2,5,2018-06-24 21:37:02.802253,hilton dead sea resort & spa
+amman,jordan,booking.com,1639589,1113.0,8.3,4,2018-06-24 21:37:02.802253,seven roses hotel
+essaouira,morocco,booking.com,289970,2318.0,8.9,5,2018-06-24 21:37:02.802253,heure bleue palais - relais & chateaux
+"hivernage, marrakech",morocco,booking.com,435314,686.0,7.8,3,2018-06-24 21:37:02.802253,hotel lawrence d'arabie
+douar soukkane,morocco,booking.com,722702,4116.0,9.0,5,2018-06-24 21:37:02.802253,palais namaskar
+marrakech,morocco,booking.com,386081,3497.0,9.2,5,2018-06-24 21:37:02.802253,selman marrakech
+"hassan, rabat",morocco,booking.com,3099254,1134.0,7.9,3,2018-06-24 21:37:02.802253,annakhil
+alger,algeria,booking.com,2542544,1734.0,9.3,4,2018-06-24 21:37:02.802253,lamaraz arts hotel
+alger,algeria,booking.com,1990334,1108.0,8.1,3,2018-06-24 21:37:02.802253,city hotel alger
+oran,algeria,booking.com,400989,2595.0,7.4,5,2018-06-24 21:37:02.802253,le meridien oran hotel
+alger,algeria,booking.com,2151954,1301.0,8.2,4,2018-06-24 21:37:02.802253,az hotel vieux kouba
+alger,algeria,booking.com,1772780,1283.0,8.5,4,2018-06-24 21:37:02.802253,az hotel kouba
+alger,algeria,booking.com,1970790,1425.0,8.2,4,2018-06-24 21:37:02.802253,az hotel vague d'or
+zeralda,algeria,booking.com,1668244,1384.0,8.3,4,2018-06-24 21:37:02.802253,az hotel zeralda
+blida,algeria,booking.com,3034341,1091.0,,3,2018-06-24 21:37:02.802253,clean hotel
+oran,algeria,booking.com,2857250,1220.0,7.0,4,2018-06-24 21:37:02.802253,le zenith hotel oran
+abu dhabi,united arab emirates,booking.com,239800,980.0,8.8,5,2018-06-24 21:37:02.802253,"khalidiya palace rayhaan by rotana, abu dhabi"
+"jumeirah beach residence, dubai",united arab emirates,booking.com,183420,1497.0,8.7,5,2018-06-24 21:37:02.802253,sofitel dubai jumeirah beach
+"al barsha, dubai",united arab emirates,booking.com,1015979,693.0,7.7,4,2018-06-24 21:37:02.802253,doubletree by hilton hotel and residences dubai - al barsha
+dubai,united arab emirates,booking.com,551509,1703.0,9.0,5,2018-06-24 21:37:02.802253,the oberoi dubai
+dubai,united arab emirates,booking.com,67293,979.0,8.5,4,2018-06-24 21:37:02.802253,flora park deluxe hotel apartments
+"downtown dubai, dubai",united arab emirates,booking.com,2572650,1577.0,8.8,5,2018-06-24 21:37:02.802253,damac maison royale the distinction
+"bur dubai, dubai",united arab emirates,booking.com,397764,2620.0,8.5,5,2018-06-24 21:37:02.802253,grand hyatt residence
+"bur dubai, dubai",united arab emirates,booking.com,1374533,1179.0,8.4,5,2018-06-24 21:37:02.802253,hyatt regency creek heights residences
+"bur dubai, dubai",united arab emirates,booking.com,266400,707.0,8.0,5,2018-06-24 21:37:02.802253,park regis kris kin hotel
+yasmine hammamet,tunisia,booking.com,179734,1876.0,7.3,4,2018-06-24 21:37:02.802253,hotel paradis palace
+"les berges du lac, tunis",tunisia,booking.com,605536,2030.0,7.8,4,2018-06-24 21:37:02.802253,le corail suites hotel
+triffa,tunisia,booking.com,180077,2677.0,9.4,5,2018-06-24 21:37:02.802253,hasdrubal prestige djerba
+kairouan,tunisia,booking.com,1929496,714.0,8.0,3,2018-06-24 21:37:02.802253,hotel continental
+yasmine hammamet,tunisia,booking.com,180051,1758.0,7.0,5,2018-06-24 21:37:02.802253,le royal hammamet
+sousse,tunisia,booking.com,42102,2240.0,8.0,5,2018-06-24 21:37:02.802253,sousse palace hotel & spa
+gammarth,tunisia,booking.com,42001,1623.0,7.3,5,2018-06-24 21:37:02.802253,golden tulip carthage tunis
+tunis,tunisia,booking.com,1006936,980.0,8.0,4,2018-06-24 21:37:02.802253,sofie appart hotel
+yasmine hammamet,tunisia,booking.com,1176363,3829.0,9.2,5,2018-06-24 21:37:02.802253,la badira - adult only
+yasmine hammamet,tunisia,booking.com,535950,1047.0,7.2,4,2018-06-24 21:37:02.802253,eden yasmine hotel & spa
+taguermess,tunisia,booking.com,42101,5508.0,7.9,4,2018-06-24 21:37:02.802253,seabel rym beach djerba
+yasmine hammamet,tunisia,booking.com,42113,2174.0,7.5,4,2018-06-24 21:37:02.802253,diar lemdina hotel
+jounieh,lebanon,booking.com,315545,1444.0,9.7,4,2018-06-24 21:37:02.802253,adma blue screen
+beirut,lebanon,booking.com,68720,1083.0,8.0,4,2018-06-24 21:37:02.802253,lancaster tamar hotel- hadath
+broummana,lebanon,booking.com,2618330,1143.0,9.1,3,2018-06-24 21:37:02.802253,quartier suisse hotel
+beirut,lebanon,booking.com,647547,2647.0,8.7,5,2018-06-24 21:37:02.802253,staybridge suites hotel.
+kfardebian,lebanon,booking.com,2092929,115484.0,,5,2018-06-24 21:37:02.802253,faqra palace
+beirut,lebanon,booking.com,182802,4812.0,8.6,5,2018-06-24 21:37:02.802253,le gray
+beirut,lebanon,booking.com,433057,1895.0,9.1,4,2018-06-24 21:37:02.802253,saifi suites
+amman,jordan,booking.com,446585,3303.0,8.5,5,2018-06-24 21:37:02.802253,four seasons hotel amman
+amman,jordan,booking.com,68561,1737.0,8.5,5,2018-06-24 21:37:02.802253,intercontinental jordan
+amman,jordan,booking.com,250211,662.0,8.0,3,2018-06-24 21:37:02.802253,larsa hotel
+amman,jordan,booking.com,2497396,1601.0,9.1,5,2018-06-24 21:37:02.802253,fairmont amman
+aqaba,jordan,booking.com,292186,1008.0,7.7,5,2018-06-24 21:37:02.802253,doubletree by hilton hotel aqaba
+amman,jordan,booking.com,263894,732.0,8.2,3,2018-06-24 21:37:02.802253,gardenia hotel
+amman,jordan,booking.com,250184,847.0,7.2,3,2018-06-24 21:37:02.802253,hisham hotel
+amman,jordan,booking.com,73636,1492.0,7.9,5,2018-06-24 21:37:02.802253,amman marriott hotel
+amman,jordan,booking.com,426427,1490.0,8.1,5,2018-06-24 21:37:02.802253,grand millennium hotel amman
+amman,jordan,booking.com,2116336,1037.0,8.5,4,2018-06-24 21:37:02.802253,harir palace hotel
+amman,jordan,booking.com,73204,1486.0,8.3,5,2018-06-24 21:37:02.802253,le grand amman managed by accorhotels
+aqaba,jordan,booking.com,68669,2024.0,8.3,5,2018-06-24 21:37:02.802253,intercontinental aqaba
+amman,jordan,booking.com,296798,1715.0,7.9,5,2018-06-24 21:37:02.802253,grand hyatt amman
+"medina, marrakech",morocco,booking.com,1306773,2520.0,9.1,5,2018-06-24 21:37:02.802253,hotel & ryad art place marrakech
+"hivernage, marrakech",morocco,booking.com,98918,2846.0,8.0,5,2018-06-24 21:37:02.802253,sofitel marrakech palais imperial
+"gueliz, marrakech",morocco,booking.com,1728264,1428.0,9.2,4,2018-06-24 21:37:02.802253,2ciels boutique hotel
+nouaseur,morocco,booking.com,254379,1134.0,7.4,3,2018-06-24 21:37:02.802253,relax airport
+"gueliz, marrakech",morocco,booking.com,1352293,2094.0,8.8,5,2018-06-24 21:37:02.802253,"radisson blu marrakech, carre eden"
+casablanca,morocco,booking.com,98239,964.0,7.9,4,2018-06-24 21:37:02.802253,kenzi basma
+"medina, marrakech",morocco,booking.com,98808,3178.0,8.9,5,2018-06-24 21:37:02.802253,les jardins de la koutoubia
+tangier,morocco,booking.com,254322,1110.0,7.3,4,2018-06-24 21:37:02.802253,atlas rif & spa
+tangier,morocco,booking.com,301759,1499.0,7.6,4,2018-06-24 21:37:02.802253,kenzi solazur
+oran,algeria,booking.com,3418729,2636.0,,5,2018-06-24 21:37:02.802253,royal oran
+akbou,algeria,booking.com,2972660,931.0,,4,2018-06-24 21:37:02.802253,atlantis hotel akbou
+deli ibrahim,algeria,booking.com,1737753,1196.0,8.0,4,2018-06-24 21:37:02.802253,holiday inn algiers - cheraga tower
+constantine,algeria,booking.com,1916714,1138.0,,4,2018-06-24 21:37:02.802253,hotel el khayem
+skikda,algeria,booking.com,2078270,2607.0,8.1,5,2018-06-24 21:37:02.802253,royal tulip skikda
+constantine,algeria,booking.com,1495828,1910.0,8.8,5,2018-06-24 21:37:02.802253,constantine marriott hotel
+cheraga,algeria,booking.com,3391646,1159.0,,3,2018-06-24 21:37:02.802253,dar diaf bouchaoui
+constantine,algeria,booking.com,3418176,790.0,,3,2018-06-24 21:37:02.802253,el bey
+"downtown dubai, dubai",united arab emirates,booking.com,185116,1569.0,8.2,4,2018-06-24 21:37:02.802253,ramada downtown dubai
+dubai,united arab emirates,booking.com,237024,573.0,7.8,2,2018-06-24 21:37:02.802253,holiday inn express dubai airport
+"jumeirah beach residence, dubai",united arab emirates,booking.com,2262135,1710.0,8.6,5,2018-06-24 21:37:02.802253,rixos premium dubai
+"dubai internet city, dubai",united arab emirates,booking.com,68468,635.0,7.8,2,2018-06-24 21:37:02.802253,holiday inn express dubai internet city
+dubai,united arab emirates,booking.com,69126,979.0,8.6,4,2018-06-24 21:37:02.802253,flora creek deluxe hotel apartments
+"garhoud, dubai",united arab emirates,booking.com,67249,842.0,8.5,5,2018-06-24 21:37:02.802253,le meridien dubai hotel & conference centre
+"bur dubai, dubai",united arab emirates,booking.com,877948,1246.0,8.8,4,2018-06-24 21:37:02.802253,marriott executive apartments dubai al jaddaf
+"trade centre, dubai",united arab emirates,booking.com,69870,786.0,8.1,4,2018-06-24 21:37:02.802253,novotel world trade centre dubai
+"trade centre, dubai",united arab emirates,booking.com,1388494,2082.0,8.7,5,2018-06-24 21:37:02.802253,shangri-la apartments
+"dubai media city, dubai",united arab emirates,booking.com,73579,1342.0,8.3,4,2018-06-24 21:37:02.802253,arjaan by rotana - dubai media city
+port el kantaoui,tunisia,booking.com,175571,3339.0,8.2,5,2018-06-24 21:37:02.802253,iberostar diar el andalous
+tunis,tunisia,booking.com,276719,770.0,6.9,4,2018-06-24 21:37:02.802253,majestic hotel
+mahdia,tunisia,booking.com,175578,2940.0,8.3,5,2018-06-24 21:37:02.802253,iberostar royal el mansour
+midoun,tunisia,booking.com,179908,2062.0,7.2,3,2018-06-24 21:37:02.802253,cedriana - all inclusive
+"les berges du lac, tunis",tunisia,booking.com,622433,1790.0,7.9,4,2018-06-24 21:37:02.802253,concorde hotel paris
+tozeur,tunisia,booking.com,179415,977.0,7.9,4,2018-06-24 21:37:02.802253,ras el ain
+yasmine hammamet,tunisia,booking.com,175648,2412.0,7.7,5,2018-06-24 21:37:02.802253,medina solaria and thalasso
+yasmine hammamet,tunisia,booking.com,42095,1778.0,6.7,5,2018-06-24 21:37:02.802253,alhambra thalasso
+yasmine hammamet,tunisia,booking.com,264229,6720.0,7.0,3,2018-06-24 21:37:02.802253,hotel club president
+"tunis centre , tunis",tunisia,booking.com,248364,934.0,7.6,3,2018-06-24 21:37:02.802253,golf royal hotel
+yasmine hammamet,tunisia,booking.com,249834,1386.0,7.7,4,2018-06-24 21:37:02.802253,vincci flora park
+midoun,tunisia,booking.com,250260,3994.0,7.8,4,2018-06-24 21:37:02.802253,vincci helios beach
+tunis,tunisia,booking.com,1192462,2261.0,8.1,5,2018-06-24 21:37:02.802253,the penthouse suites hotel
+"les berges du lac, tunis",tunisia,booking.com,180089,2220.0,7.5,5,2018-06-24 21:37:02.802253,concorde hotel les berges du lac
+sidi bou said,tunisia,booking.com,733392,4200.0,8.9,5,2018-06-24 21:37:02.802253,la villa bleue
+jounieh,lebanon,booking.com,1981248,1323.0,9.0,5,2018-06-24 21:37:02.802253,burj on bay hotel
+beit meri,lebanon,booking.com,273332,1867.0,8.1,5,2018-06-24 21:37:02.802253,hotel al bustan
+kfardebian,lebanon,booking.com,74938,4094.0,7.7,5,2018-06-24 21:37:02.802253,intercontinental mzaar lebanon mountain resort & spa
+beirut,lebanon,booking.com,1845674,3176.0,8.7,5,2018-06-24 21:37:02.802253,kempinski summerland hotel & resort beirut
+beirut,lebanon,booking.com,2473464,1083.0,8.7,4,2018-06-24 21:37:02.802253,beverly hotel beirut
+beirut,lebanon,booking.com,1054952,2165.0,8.6,5,2018-06-24 21:37:02.802253,o monot boutique hotel beirut
+jbeil,lebanon,booking.com,1407384,1323.0,7.9,3,2018-06-24 21:37:02.802253,bourj al fidar resort
+beirut,lebanon,booking.com,72857,1251.0,8.2,5,2018-06-24 21:37:02.802253,radisson blu martinez beirut
+beirut,lebanon,booking.com,68726,1469.0,8.2,5,2018-06-24 21:37:02.802253,gefinor rotana - beirut
+beirut,lebanon,booking.com,74975,2791.0,7.9,5,2018-06-24 21:37:02.802253,movenpick hotel beirut
+"ras beirut, beirut",lebanon,booking.com,72819,2647.0,7.1,5,2018-06-24 21:37:02.802253,riviera hotel beirut
+amman,jordan,booking.com,291665,1169.0,9.1,4,2018-06-24 21:37:02.802253,amman international hotel
+amman,jordan,booking.com,1607467,508.0,6.8,3,2018-06-24 21:37:02.802253,president hotel
+amman,jordan,booking.com,68699,1606.0,7.7,5,2018-06-24 21:37:02.802253,crowne plaza amman
+amman,jordan,booking.com,506113,1067.0,8.8,3,2018-06-24 21:37:02.802253,celino hotel
+amman,jordan,booking.com,73934,1694.0,7.5,5,2018-06-24 21:37:02.802253,le royal amman
+amman,jordan,booking.com,1900024,1575.0,8.6,4,2018-06-24 21:37:02.802253,sulaf luxury hotel
+amman,jordan,booking.com,2647900,864.0,8.7,3,2018-06-24 21:37:02.802253,viola hotel suites
+amman,jordan,booking.com,1431074,1085.0,7.6,4,2018-06-24 21:37:02.802253,olive tree hotel amman
+amman,jordan,booking.com,909912,474.0,7.8,3,2018-06-24 21:37:02.802253,milano hotel suites
+amman,jordan,booking.com,68460,1584.0,7.4,5,2018-06-24 21:37:02.802253,kempinski hotel amman
+"hivernage, marrakech",morocco,booking.com,98956,3591.0,9.1,5,2018-06-24 21:37:02.802253,es saadi marrakech resort - palace
+"hivernage, marrakech",morocco,booking.com,327244,6815.0,9.1,5,2018-06-24 21:37:02.802253,"dar rhizlane, palais table d'hotes & spa"
+sale,morocco,booking.com,287091,1802.0,8.3,5,2018-06-24 21:37:02.802253,dawliz resort & spa
+"hivernage, marrakech",morocco,booking.com,1606338,1880.0,8.4,5,2018-06-24 21:37:02.802253,savoy le grand hotel marrakech
+oran,algeria,booking.com,1318991,1159.0,8.1,4,2018-06-24 21:37:02.802253,best western hotel colombe
+alger,algeria,booking.com,3359701,1390.0,,4,2018-06-24 21:37:02.802253,soltane hotel
+alger,algeria,booking.com,3080350,1518.0,,3,2018-06-24 21:37:02.802253,suisse
+tlemcen,algeria,booking.com,2739710,769.0,7.7,2,2018-06-24 21:37:02.802253,hotel grand bassin
+alger,algeria,booking.com,2726154,2231.0,5.5,5,2018-06-24 21:37:02.802253,el djazair
+oran,algeria,booking.com,3614928,1046.0,,3,2018-06-24 21:37:02.802253,l'escale hotel
+alger,algeria,booking.com,3614051,1026.0,,3,2018-06-24 21:37:02.802253,dar el aaz
+bab ezzouar,algeria,booking.com,3011494,2123.0,,4,2018-06-24 21:37:02.802253,jardy hotel
+constantine,algeria,booking.com,3046181,513.0,7.8,2,2018-06-24 21:37:02.802253,hotel remes
+alger,algeria,booking.com,2850043,1067.0,,3,2018-06-24 21:37:02.802253,hotel dar el ikram
+alger,algeria,booking.com,3423571,1169.0,,3,2018-06-24 21:37:02.802253,st hotel
+alger,algeria,booking.com,3092937,626.0,7.4,3,2018-06-24 21:37:02.802253,hotel samir
+"al barsha, dubai",united arab emirates,booking.com,1405670,688.0,8.7,4,2018-06-24 21:37:02.802253,flora al barsha
+"palm jumeirah, dubai",united arab emirates,booking.com,2233644,1441.0,8.0,5,2018-06-24 21:37:02.802253,dukes dubai hotel - palm jumeirah
+"downtown dubai, dubai",united arab emirates,booking.com,67267,1597.0,8.7,4,2018-06-24 21:37:02.802253,vida downtown
+"jumeirah, dubai",united arab emirates,booking.com,68194,1198.0,7.8,5,2018-06-24 21:37:02.802253,dubai marine beach resort & spa
+"al wasl, dubai",united arab emirates,booking.com,74418,606.0,7.8,2,2018-06-24 21:37:02.802253,holiday inn express dubai safa park
+"bur dubai, dubai",united arab emirates,booking.com,67310,427.0,7.2,3,2018-06-24 21:37:02.802253,admiral plaza hotel
+dubai,united arab emirates,booking.com,67305,812.0,8.6,5,2018-06-24 21:37:02.802253,pullman dubai creek city centre
+dubai,united arab emirates,booking.com,299892,734.0,7.5,4,2018-06-24 21:37:02.802253,m hotel downtown by millennium
+dubai,united arab emirates,booking.com,177384,593.0,7.4,3,2018-06-24 21:37:02.802253,florida city hotel apartments (previously flora hotel apartments)
+yasmine hammamet,tunisia,booking.com,44743,3094.0,7.3,4,2018-06-24 21:37:02.802253,hotel bel azur thalasso & bungalows
+"la medina, tunis",tunisia,booking.com,1283651,1547.0,8.4,5,2018-06-24 21:37:02.802253,palais bayram
+yasmine hammamet,tunisia,booking.com,340717,4480.0,6.5,4,2018-06-24 21:37:02.802253,shell beach hotel & spa
+la marsa,tunisia,booking.com,1004013,2730.0,8.6,5,2018-06-24 21:37:02.802253,dar el marsa hotel & spa
+yasmine hammamet,tunisia,booking.com,1773192,2121.0,7.8,4,2018-06-24 21:37:02.802253,vincci marillia
+tunis,tunisia,booking.com,1535731,1092.0,7.8,4,2018-06-24 21:37:02.802253,business hotel
+yasmine hammamet,tunisia,booking.com,42107,672.0,,2,2018-06-24 21:37:02.802253,hotel residence la paix
+jbeil,lebanon,booking.com,248303,1444.0,8.1,3,2018-06-24 21:37:02.802253,ahiram hotel byblos
+beirut,lebanon,booking.com,1592008,998.0,9.2,4,2018-06-24 21:37:02.802253,urban central suites - beirut
+beirut,lebanon,booking.com,184904,1337.0,8.2,4,2018-06-24 21:37:02.802253,raouche arjaan by rotana
+beirut,lebanon,booking.com,73511,3935.0,8.8,5,2018-06-24 21:37:02.802253,intercontinental phoenicia beirut
+beirut,lebanon,booking.com,46875,1155.0,8.3,4,2018-06-24 21:37:02.802253,lancaster raouche hotel
+beirut,lebanon,booking.com,23832,1323.0,8.1,4,2018-06-24 21:37:02.802253,ramada beirut downtown
+beirut,lebanon,booking.com,341197,1203.0,7.7,4,2018-06-24 21:37:02.802253,bayview hotel beirut
+beirut,lebanon,booking.com,184754,974.0,7.7,4,2018-06-24 21:37:02.802253,coral beirut al hamra hotel
+beirut,lebanon,booking.com,1592983,1564.0,8.8,4,2018-06-24 21:37:02.802253,gems hotel
+beirut,lebanon,booking.com,1850955,1630.0,8.2,5,2018-06-24 21:37:02.802253,royal tulip achrafieh
+trablous,lebanon,booking.com,579552,1501.0,7.6,5,2018-06-24 21:37:02.802253,lamunia hotel
+beirut,lebanon,booking.com,292832,1380.0,8.3,4,2018-06-24 21:37:02.802253,lancaster suites raouche
+beirut,lebanon,booking.com,248298,1083.0,8.4,4,2018-06-24 21:37:02.802253,hotel cavalier
+amman,jordan,booking.com,182404,676.0,7.2,3,2018-06-24 21:37:02.802253,ibis amman
+amman,jordan,booking.com,2163541,838.0,8.4,4,2018-06-24 21:37:02.802253,gerasa hotel
+amman,jordan,booking.com,68689,1440.0,6.8,5,2018-06-24 21:37:02.802253,regency palace amman
+amman,jordan,booking.com,72595,1338.0,8.2,5,2018-06-24 21:37:02.802253,landmark amman hotel & conference center
+amman,jordan,booking.com,1502173,360.0,7.7,2,2018-06-24 21:37:02.802253,zaina plaza hotel
+amman,jordan,booking.com,191491,1400.0,7.8,5,2018-06-24 21:37:02.802253,bristol hotel
+"maarif, casablanca",morocco,booking.com,1957883,1322.0,9.1,4,2018-06-24 21:37:02.802253,down town hotel by business & leisure hotels
+"agdal-ryad, rabat",morocco,booking.com,651847,1853.0,7.3,4,2018-06-24 21:37:02.802253,hotel atlantic agdal
+"medina, marrakech",morocco,booking.com,1916894,1799.0,7.9,4,2018-06-24 21:37:02.802253,medina gardens - adults only - all inclusive available
+marrakech,morocco,booking.com,366217,2940.0,9.0,5,2018-06-24 21:37:02.802253,tigmiza suites & pavillons
+essaouira,morocco,booking.com,98298,1832.0,8.5,5,2018-06-24 21:37:02.802253,"le medina essaouira hotel thalassa sea & spa, mgallery collection"
+"hivernage, marrakech",morocco,booking.com,417235,4900.0,9.2,5,2018-06-24 21:37:02.802253,four seasons resort marrakech
+taghazout,morocco,booking.com,370912,3052.0,8.7,4,2018-06-24 21:37:02.802253,paradis plage surf yoga & spa
+alger,algeria,booking.com,2850026,1292.0,6.6,4,2018-06-24 21:37:02.802253,hotel el biar
+constantine,algeria,booking.com,2675268,1077.0,7.1,4,2018-06-24 21:37:02.802253,hotel hocine
+tlemcen,algeria,booking.com,357811,1780.0,8.8,5,2018-06-24 21:37:02.802253,renaissance tlemcen hotel
+oran,algeria,booking.com,3254971,1251.0,,3,2018-06-24 21:37:02.802253,assala hotel
+annaba,algeria,booking.com,3045357,1138.0,,4,2018-06-24 21:37:02.802253,hotel sabri
+alger,algeria,booking.com,1668227,1743.0,8.4,3,2018-06-24 21:37:02.802253,hotel best night
+oran,algeria,booking.com,3422966,892.0,,3,2018-06-24 21:37:02.802253,charm el cheikh hotel
+setif,algeria,booking.com,3375470,892.0,,3,2018-06-24 21:37:02.802253,el kenz
+alger,algeria,booking.com,3391411,1120.0,,3,2018-06-24 21:37:02.802253,space telemly hotel
+alger,algeria,booking.com,2850031,1631.0,5.5,3,2018-06-24 21:37:02.802253,dar diaf alger
+oran,algeria,booking.com,3423292,656.0,,2,2018-06-24 21:37:02.802253,lalla mokhtara
+annaba,algeria,booking.com,3045334,1026.0,,4,2018-06-24 21:37:02.802253,hotel rym el djamil
+oran,algeria,booking.com,2857986,660.0,,3,2018-06-24 21:37:02.802253,hotel timgad
+chlef,algeria,booking.com,2920731,718.0,,3,2018-06-24 21:37:02.802253,hotel castellum
+dubai,united arab emirates,booking.com,187984,508.0,6.9,4,2018-06-24 21:37:02.802253,pearl park hotel apartments
+"trade centre, dubai",united arab emirates,booking.com,1588460,505.0,7.7,3,2018-06-24 21:37:02.802253,ibis one central - world trade centre dubai
+"al barsha, dubai",united arab emirates,booking.com,1956476,5729.0,9.7,5,2018-06-24 21:37:02.802253,aspen chalets by kempinski
+dubai,united arab emirates,booking.com,1630603,1258.0,7.8,5,2018-06-24 21:37:02.802253,the westin dubai al habtoor city
+ras al khaimah,united arab emirates,booking.com,582573,1670.0,9.0,5,2018-06-24 21:37:02.802253,waldorf astoria ras al khaimah
+abu dhabi,united arab emirates,booking.com,1880958,1261.0,8.9,5,2018-06-24 21:37:02.802253,bab al qasr hotel
+dubai,united arab emirates,booking.com,1566221,1965.0,8.8,5,2018-06-24 21:37:02.802253,the st. regis dubai
+"al maryah island, abu dhabi",united arab emirates,booking.com,536022,1646.0,9.1,5,2018-06-24 21:37:02.802253,rosewood abu dhabi
+"al barsha, dubai",united arab emirates,booking.com,239804,553.0,7.9,4,2018-06-24 21:37:02.802253,ramada chelsea hotel al barsha
+nefza,tunisia,booking.com,1239351,588.0,7.5,3,2018-06-24 21:37:02.802253,hotel alrawabi
+gammarth,tunisia,booking.com,42031,2520.0,7.3,5,2018-06-24 21:37:02.802253,carthage thalasso resort
+gammarth,tunisia,booking.com,42037,1624.0,7.4,5,2018-06-24 21:37:02.802253,ramada plaza tunis
+gammarth,tunisia,booking.com,248736,3330.0,7.6,5,2018-06-24 21:37:02.802253,movenpick hotel gammarth tunis
+beirut,lebanon,booking.com,293146,2225.0,8.1,5,2018-06-24 21:37:02.802253,le patio boutique hotel beirut downtown
+jbeil,lebanon,booking.com,261871,1383.0,8.6,3,2018-06-24 21:37:02.802253,monoberge hotel
+beirut,lebanon,booking.com,402061,782.0,7.9,4,2018-06-24 21:37:02.802253,wh hotel
+dbayeh,lebanon,booking.com,572174,1023.0,8.3,4,2018-06-24 21:37:02.802253,liqaa hotel
+beirut,lebanon,booking.com,72321,1501.0,8.4,5,2018-06-24 21:37:02.802253,le bristol hotel beirut
+beirut,lebanon,booking.com,310216,3368.0,9.1,5,2018-06-24 21:37:02.802253,albergo hotel
+trablous,lebanon,booking.com,1270283,2406.0,8.2,5,2018-06-24 21:37:02.802253,miramar hotel resort and spa
+beirut,lebanon,booking.com,576544,1534.0,8.9,5,2018-06-24 21:37:02.802253,the smallville hotel
+beirut,lebanon,booking.com,1257459,1155.0,8.4,4,2018-06-24 21:37:02.802253,three o nine hotel
+beirut,lebanon,booking.com,22794,3465.0,8.7,5,2018-06-24 21:37:02.802253,intercontinental le vendome beirut
+jbeil,lebanon,booking.com,22336,902.0,8.3,3,2018-06-24 21:37:02.802253,victory byblos hotel & spa
+beirut,lebanon,booking.com,75568,818.0,7.9,4,2018-06-24 21:37:02.802253,plaza hotel beirut
+amman,jordan,booking.com,263897,664.0,8.2,3,2018-06-24 21:37:02.802253,misk hotel
+amman,jordan,booking.com,372164,610.0,8.0,3,2018-06-24 21:37:02.802253,crystal hotel
+amman,jordan,booking.com,68703,1443.0,7.8,5,2018-06-24 21:37:02.802253,holiday inn amman
+amman,jordan,booking.com,487848,864.0,7.7,4,2018-06-24 21:37:02.802253,corp amman hotel
+amman,jordan,booking.com,1139422,677.0,7.7,3,2018-06-24 21:37:02.802253,prime hotel
+amman,jordan,booking.com,1265060,1067.0,8.8,4,2018-06-24 21:37:02.802253,city rose hotel suites
+amman,jordan,booking.com,782172,559.0,8.3,2,2018-06-24 21:37:02.802253,bashtamal hotel suites
+amman,jordan,booking.com,1415406,728.0,8.3,3,2018-06-24 21:37:02.802253,easy inn hotel suites
+wadi musa,jordan,booking.com,73742,1200.0,8.1,5,2018-06-24 21:37:02.802253,petra marriott hotel
+wadi musa,jordan,booking.com,252475,1016.0,8.6,4,2018-06-24 21:37:02.802253,petra guest house hotel
+ifrane,morocco,booking.com,242129,4761.0,9.1,5,2018-06-24 21:37:02.802253,michlifen resort & golf
+"hassan, rabat",morocco,booking.com,2386028,910.0,8.5,3,2018-06-24 21:37:02.802253,hotel le musee
+casablanca,morocco,booking.com,352966,1335.0,7.5,5,2018-06-24 21:37:02.802253,gray boutique hotel and spa
+marrakech,morocco,booking.com,826279,3150.0,9.0,5,2018-06-24 21:37:02.802253,fairmont royal palm marrakech
+hammam guergour,algeria,booking.com,3643206,308.0,,3,2018-06-24 21:37:02.802253,hotel krima
+alger,algeria,booking.com,2830164,1315.0,3.5,5,2018-06-24 21:37:02.802253,oasis hotel
+tissemsilt,algeria,booking.com,3563606,872.0,,4,2018-06-24 21:37:02.802253,hotel mellasse
+oran,algeria,booking.com,3418976,1282.0,,4,2018-06-24 21:37:02.802253,liberte oran
+annaba,algeria,booking.com,3250526,738.0,6.2,3,2018-06-24 21:37:02.802253,el mountazah
+oran,algeria,booking.com,1956833,933.0,6.6,3,2018-06-24 21:37:02.802253,hotel eden airport
+oran,algeria,booking.com,2143095,1538.0,6.4,4,2018-06-24 21:37:02.802253,hotel adef
+adjahil,algeria,booking.com,3347487,820.0,,3,2018-06-24 21:37:02.802253,hotel tenere djanet
+alger,algeria,booking.com,2907821,861.0,4.5,3,2018-06-24 21:37:02.802253,hotel de l'aeroport
+dubai,united arab emirates,booking.com,1474360,562.0,7.9,4,2018-06-24 21:37:02.802253,fakhruddin hotel apartments
+"trade centre, dubai",united arab emirates,booking.com,68133,998.0,7.9,5,2018-06-24 21:37:02.802253,crowne plaza dubai
+"al barsha, dubai",united arab emirates,booking.com,238650,449.0,7.3,3,2018-06-24 21:37:02.802253,citymax hotel al barsha
+dubai,united arab emirates,booking.com,610578,586.0,7.7,2,2018-06-24 21:37:02.802253,florida al souq hotel (previously known flora al souq hotel)
+abu dhabi,united arab emirates,booking.com,67527,844.0,8.5,5,2018-06-24 21:37:02.802253,le royal meridien abu dhabi
+sharjah,united arab emirates,booking.com,276848,675.0,8.3,3,2018-06-24 21:37:02.802253,centro sharjah - by rotana
+gammarth,tunisia,booking.com,44451,1456.0,4.7,5,2018-06-24 21:37:02.802253,le palace
+tabarka,tunisia,booking.com,244181,2604.0,9.0,5,2018-06-24 21:37:02.802253,la cigale tabarka
+gammarth,tunisia,booking.com,179836,1235.0,6.8,4,2018-06-24 21:37:02.802253,golden tulip carthage residences
+tunis,tunisia,booking.com,262783,1152.0,7.1,5,2018-06-24 21:37:02.802253,hotel la maison blanche
+houmt souk,tunisia,booking.com,42061,3115.0,8.0,5,2018-06-24 21:37:02.802253,"radisson blu palace resort & thalasso, djerba"
+kairouan,tunisia,booking.com,179430,1131.0,8.4,5,2018-06-24 21:37:02.802253,la kasbah
+monastir,tunisia,booking.com,179442,995.0,6.7,3,2018-06-24 21:37:02.802253,delphin ribat
+beirut,lebanon,booking.com,360658,1012.0,7.8,5,2018-06-24 21:37:02.802253,golden tulip galleria hotel
+beirut,lebanon,booking.com,79826,2137.0,8.1,5,2018-06-24 21:37:02.802253,hilton beirut habtoor grand hotel
+damour,lebanon,booking.com,388699,3093.0,7.2,5,2018-06-24 21:37:02.802253,janna sur mer
+jounieh,lebanon,booking.com,293227,1323.0,8.0,4,2018-06-24 21:37:02.802253,bel azur hotel - resort
+beirut,lebanon,booking.com,68207,1383.0,7.6,4,2018-06-24 21:37:02.802253,warwick palm beach hotel
+beirut,lebanon,booking.com,479362,902.0,7.4,4,2018-06-24 21:37:02.802253,alexandre hotel
+beirut,lebanon,booking.com,71324,1353.0,7.9,5,2018-06-24 21:37:02.802253,le commodore hotel
+beirut,lebanon,booking.com,263015,1053.0,8.2,4,2018-06-24 21:37:02.802253,midtown hotel & suites
+jounieh,lebanon,booking.com,278065,1251.0,8.4,5,2018-06-24 21:37:02.802253,portaluna hotel & resort
+beirut,lebanon,booking.com,578008,2707.0,8.7,5,2018-06-24 21:37:02.802253,lancaster plaza beirut
+jiyeh,lebanon,booking.com,556878,2165.0,8.1,5,2018-06-24 21:37:02.802253,golden tulip jiyeh marina resort
+agadir,morocco,booking.com,98210,2644.0,7.8,5,2018-06-24 21:37:02.802253,sofitel agadir royal bay
+chefchaouene,morocco,booking.com,702532,980.0,8.0,2,2018-06-24 21:37:02.802253,hotel casa miguel
+mohammedia,morocco,booking.com,259623,1373.0,7.5,4,2018-06-24 21:37:02.802253,avanti mohammedia hotel
+casablanca,morocco,booking.com,1666428,993.0,8.1,4,2018-06-24 21:37:02.802253,mogador marina
+alger,algeria,booking.com,2905409,1787.0,6.6,4,2018-06-24 21:37:02.802253,hotel hani
+mostaganem,algeria,booking.com,3432689,1220.0,,4,2018-06-24 21:37:02.802253,az hotel le zephyr mostaganem
+zeralda,algeria,booking.com,3527527,923.0,,3,2018-06-24 21:37:02.802253,hotel mazafran
+bordj el kiffan,algeria,booking.com,3037991,820.0,5.6,3,2018-06-24 21:37:02.802253,grand hotel adghir
+oran,algeria,booking.com,1956838,1214.0,5.9,4,2018-06-24 21:37:02.802253,hotel eden phoenix
+alger,algeria,booking.com,2265295,1497.0,6.2,3,2018-06-24 21:37:02.802253,palace appart hotel
+'ain el turk,algeria,booking.com,1759799,613.0,7.5,2,2018-06-24 21:37:02.802253,hotel la brise
+dar el beida,algeria,booking.com,3391241,1017.0,,3,2018-06-24 21:37:02.802253,casablanca
+bejaia,algeria,booking.com,3527661,646.0,,3,2018-06-24 21:37:02.802253,brahmi hotel
+wadi musa,jordan,booking.com,23292,1419.0,8.1,5,2018-06-24 21:37:02.802253,movenpick resort petra
+madaba,jordan,booking.com,2168158,610.0,7.9,2,2018-06-24 21:37:02.802253,mariam hotel
+amman,jordan,booking.com,322637,597.0,6.6,2,2018-06-24 21:37:02.802253,aghadeer hotel
+wadi musa,jordan,booking.com,240958,406.0,8.1,3,2018-06-24 21:37:02.802253,sharah mountains hotel
+amman,jordan,booking.com,1035569,1101.0,8.0,2,2018-06-24 21:37:02.802253,art hotel downtown
+wadi musa,jordan,booking.com,591360,547.0,7.9,3,2018-06-24 21:37:02.802253,tetra tree hotel
+amman,jordan,booking.com,275744,1118.0,7.9,4,2018-06-24 21:37:02.802253,jabal amman hotel (heritage house)
+wadi musa,jordan,booking.com,363881,322.0,7.2,2,2018-06-24 21:37:02.802253,anbat midtown hotel
+wadi musa,jordan,booking.com,254834,412.0,7.9,3,2018-06-24 21:37:02.802253,candles hotel
+madaba,jordan,booking.com,72365,741.0,8.7,3,2018-06-24 21:37:02.802253,mosaic city hotel
+al qastal,jordan,booking.com,43760,1694.0,6.1,4,2018-06-24 21:37:02.802253,amman airport hotel
+aqaba,jordan,booking.com,182400,2359.0,9.0,5,2018-06-24 21:37:02.802253,kempinski hotel aqaba
+ajman,united arab emirates,booking.com,2200183,2770.0,9.1,5,2018-06-24 21:37:02.802253,"the oberoi beach resort, al zorah"
+"al barsha, dubai",united arab emirates,booking.com,73907,749.0,7.9,4,2018-06-24 21:37:02.802253,holiday inn dubai al barsha
+"trade centre, dubai",united arab emirates,booking.com,47290,438.0,7.1,2,2018-06-24 21:37:02.802253,ibis world trade centre
+dubai,united arab emirates,booking.com,1250125,586.0,7.9,2,2018-06-24 21:37:02.802253,florida square hotel (previously known flora square hotel)
+mezairaa,united arab emirates,booking.com,183412,959.0,8.0,3,2018-06-24 21:37:02.802253,liwa hotel
+"bur dubai, dubai",united arab emirates,booking.com,67283,502.0,7.3,4,2018-06-24 21:37:02.802253,royal ascot hotel
+gammarth,tunisia,booking.com,313916,851.0,6.0,4,2018-06-24 21:37:02.802253,phebus hotel gammarth
+midoun,tunisia,booking.com,42034,1862.0,6.7,4,2018-06-24 21:37:02.802253,el mouradi djerba menzel
+tunis,tunisia,booking.com,354144,827.0,7.6,3,2018-06-24 21:37:02.802253,ibis tunis
+sousse,tunisia,booking.com,275930,1618.0,7.8,5,2018-06-24 21:37:02.802253,jaz tour khalef
+tabarka,tunisia,booking.com,1154671,1411.0,5.9,4,2018-06-24 21:37:02.802253,hotel mehari tabarka thalasso & spa
+mahdia,tunisia,booking.com,179421,2100.0,7.1,4,2018-06-24 21:37:02.802253,lti mahdia beach
+monastir,tunisia,booking.com,179589,658.0,7.2,3,2018-06-24 21:37:02.802253,hotel mezri
+zarzis,tunisia,booking.com,2460923,1271.0,7.7,4,2018-06-24 21:37:02.802253,zita beach resort
+bizerte,tunisia,booking.com,237636,1595.0,6.7,4,2018-06-24 21:37:02.802253,bizerta resort
+beirut,lebanon,booking.com,71787,1588.0,8.2,4,2018-06-24 21:37:02.802253,four points by sheraton le verdun
+beirut,lebanon,booking.com,68428,1299.0,7.5,5,2018-06-24 21:37:02.802253,ramada plaza beirut raouche
+chtaura,lebanon,booking.com,1059085,1444.0,8.1,4,2018-06-24 21:37:02.802253,delora hotel and suites
+jbeil,lebanon,booking.com,1641374,1407.0,9.3,4,2018-06-24 21:37:02.802253,byblostar hotel
+jbeil,lebanon,booking.com,3117233,2406.0,,4,2018-06-24 21:37:02.802253,maximus hotel byblos
+dayr al qamar,lebanon,booking.com,3540367,1753.0,,4,2018-06-24 21:37:02.802253,l'auberge des emirs
+beirut,lebanon,booking.com,74432,1538.0,8.2,5,2018-06-24 21:37:02.802253,crowne plaza hamra beirut
+jounieh,lebanon,booking.com,479363,4176.0,8.0,5,2018-06-24 21:37:02.802253,veer boutique hotel & resort
+safra,lebanon,booking.com,400033,1306.0,7.0,4,2018-06-24 21:37:02.802253,cimer saframarine beach resort
+beirut,lebanon,booking.com,73870,1776.0,8.6,5,2018-06-24 21:37:02.802253,sofitel beirut le gabriel
+beirut,lebanon,booking.com,266513,698.0,7.3,3,2018-06-24 21:37:02.802253,elysee residence
+sour,lebanon,booking.com,189857,1687.0,7.1,4,2018-06-24 21:37:02.802253,platinum hotel
+jounieh,lebanon,booking.com,606568,1276.0,8.8,4,2018-06-24 21:37:02.802253,jounieh suites boutique hotel
+agadir,morocco,booking.com,98520,826.0,8.7,3,2018-06-24 21:37:02.802253,residence hoteliere fleurie
+ouarzazate,morocco,booking.com,259635,2129.0,8.0,5,2018-06-24 21:37:02.802253,berbere palace
+agadir,morocco,booking.com,98319,2100.0,7.3,3,2018-06-24 21:37:02.802253,el pueblo tamlelt - all inclusive
+tindouf,algeria,booking.com,2880699,451.0,,3,2018-06-24 21:37:02.802253,hotel bijou de tindouf
+bab ezzouar,algeria,booking.com,3003199,923.0,,3,2018-06-24 21:37:02.802253,roza hotel
+alger,algeria,booking.com,2839720,1168.0,,3,2018-06-24 21:37:02.802253,abbasides palace
+mostaganem,algeria,booking.com,3277619,1108.0,,3,2018-06-24 21:37:02.802253,hotel murustaga
+alger,algeria,booking.com,3696417,1538.0,,3,2018-06-24 21:37:02.802253,hotel sidi yahia
+sowayma,jordan,booking.com,68791,2383.0,8.7,5,2018-06-24 21:37:02.802253,kempinski hotel ishtar dead sea
+sowayma,jordan,booking.com,78784,1686.0,7.5,5,2018-06-24 21:37:02.802253,movenpick resort & spa dead sea
+sowayma,jordan,booking.com,182410,1172.0,7.5,4,2018-06-24 21:37:02.802253,dead sea spa hotel
+aqaba,jordan,booking.com,78919,1644.0,7.8,5,2018-06-24 21:37:02.802253,movenpick resort & residences aqaba
+aqaba,jordan,booking.com,417188,762.0,8.8,3,2018-06-24 21:37:02.802253,cedar hotel
+sowayma,jordan,booking.com,184954,1977.0,8.1,5,2018-06-24 21:37:02.802253,ma'in hot springs
+amman,jordan,booking.com,1689156,1169.0,8.4,5,2018-06-24 21:37:02.802253,thousand nights hotel
+amman,jordan,booking.com,182406,762.0,,3,2018-06-24 21:37:02.802253,rum hotels - al waleed
+sowayma,jordan,booking.com,73627,2064.0,8.1,5,2018-06-24 21:37:02.802253,dead sea marriott resort & spa
+amman,jordan,booking.com,182405,1071.0,7.3,4,2018-06-24 21:37:02.802253,mena tyche hotel amman
+wadi musa,jordan,booking.com,387038,932.0,6.9,4,2018-06-24 21:37:02.802253,grand view hotel
+"jumeirah beach residence, dubai",united arab emirates,booking.com,337086,1528.0,8.2,4,2018-06-24 21:37:02.802253,hilton dubai the walk
+"bur dubai, dubai",united arab emirates,booking.com,74419,517.0,7.6,2,2018-06-24 21:37:02.802253,"holiday inn express dubai, jumeirah"
+abu dhabi,united arab emirates,booking.com,67270,621.0,8.7,4,2018-06-24 21:37:02.802253,al maha arjaan by rotana
+"al barsha, dubai",united arab emirates,booking.com,49341,487.0,7.6,2,2018-06-24 21:37:02.802253,ibis mall of the emirates
+dubai,united arab emirates,booking.com,2072957,571.0,8.3,4,2018-06-24 21:37:02.802253,metropolitan hotel dubai
+dubai,united arab emirates,booking.com,189554,1123.0,8.1,4,2018-06-24 21:37:02.802253,marriott executive apartments dubai creek
+"bur dubai, dubai",united arab emirates,booking.com,872298,830.0,8.4,5,2018-06-24 21:37:02.802253,marriott hotel al jaddaf dubai
+dubai,united arab emirates,booking.com,2317809,603.0,8.2,4,2018-06-24 21:37:02.802253,park inn by radisson dubai motor city
+nabeul,tunisia,booking.com,44071,964.0,6.7,3,2018-06-24 21:37:02.802253,hotel byzance
+yasmine hammamet,tunisia,booking.com,179413,1321.0,6.2,5,2018-06-24 21:37:02.802253,mehari hammamet
+sfax,tunisia,booking.com,179414,1666.0,7.5,5,2018-06-24 21:37:02.802253,les oliviers palace
+sousse,tunisia,booking.com,278292,2430.0,7.9,5,2018-06-24 21:37:02.802253,movenpick resort & marine spa sousse
+"la medina, tunis",tunisia,booking.com,1929569,1106.0,8.4,4,2018-06-24 21:37:02.802253,royal victoria
+douz,tunisia,booking.com,243856,770.0,7.0,4,2018-06-24 21:37:02.802253,sahara douz
+tunis,tunisia,booking.com,42425,700.0,6.3,3,2018-06-24 21:37:02.802253,hotel du parc
+"les berges du lac, tunis",tunisia,booking.com,264291,1330.0,6.7,4,2018-06-24 21:37:02.802253,acropole tunis
+beirut,lebanon,booking.com,74946,1251.0,8.3,5,2018-06-24 21:37:02.802253,"radisson blu hotel, beirut verdun"
+beirut,lebanon,booking.com,74961,1083.0,8.4,4,2018-06-24 21:37:02.802253,padova hotel
+beirut,lebanon,booking.com,297159,1444.0,7.2,4,2018-06-24 21:37:02.802253,la vida suite
+jounieh,lebanon,booking.com,243394,1143.0,8.9,4,2018-06-24 21:37:02.802253,princessa hotel
+beirut,lebanon,booking.com,789656,1504.0,8.7,4,2018-06-24 21:37:02.802253,warwick stone 55 hotel beirut
+beirut,lebanon,booking.com,182806,740.0,7.2,4,2018-06-24 21:37:02.802253,city suite hotel beirut
+aley,lebanon,booking.com,341202,1083.0,7.2,4,2018-06-24 21:37:02.802253,dynasty suite
+jbeil,lebanon,booking.com,316356,3847.0,7.5,5,2018-06-24 21:37:02.802253,eddesands hotel & wellness resort -eboutique hotel
+jounieh,lebanon,booking.com,172730,577.0,6.9,4,2018-06-24 21:37:02.802253,zoukotel hotel
+jounieh,lebanon,booking.com,73583,2250.0,8.6,5,2018-06-24 21:37:02.802253,regency palace hotel
+bikdahah,lebanon,booking.com,1763499,3007.0,8.8,5,2018-06-24 21:37:02.802253,le grand chalet zaarour
+agadir,morocco,booking.com,98516,1218.0,7.7,4,2018-06-24 21:37:02.802253,golden beach appart'hotel
+taghazout,morocco,booking.com,1302849,1881.0,8.3,5,2018-06-24 21:37:02.802253,hyatt place taghazout bay
+casablanca,morocco,booking.com,801137,882.0,7.5,3,2018-06-24 21:37:02.802253,hotel al walid
+marrakech,morocco,booking.com,98743,2843.0,7.3,5,2018-06-24 21:37:02.802253,eden andalou aquapark & spa - all inclusive
+"medina, marrakech",morocco,booking.com,98647,2500.0,8.8,5,2018-06-24 21:37:02.802253,hotel & ryads barriere le naoura
+sidi bel abbes,algeria,booking.com,3689022,256.0,,3,2018-06-24 21:37:02.802253,hotel nedjma
+alger,algeria,booking.com,2179901,2410.0,,3,2018-06-24 21:37:02.802253,chic apartement club des pins
+bordj el kiffan,algeria,booking.com,1091834,1231.0,,2,2018-06-24 21:37:02.802253,hotel ikram alger
+blida,algeria,booking.com,1948910,2051.0,4.8,4,2018-06-24 21:37:02.802253,hotel ville des roses
+alger,algeria,booking.com,2830150,1384.0,,3,2018-06-24 21:37:02.802253,abc hotel
+wadi musa,jordan,booking.com,255097,504.0,7.7,3,2018-06-24 21:37:02.802253,edom hotel
+aqaba,jordan,booking.com,182409,2058.0,7.9,5,2018-06-24 21:37:02.802253,movenpick resort & spa tala bay aqaba
+aqaba,jordan,booking.com,487992,532.0,8.1,1,2018-06-24 21:37:02.802253,golden rose hotel
+amman,jordan,booking.com,303440,1270.0,8.8,3,2018-06-24 21:37:02.802253,la locanda boutique hotel
+madaba,jordan,booking.com,1139420,254.0,8.0,1,2018-06-24 21:37:02.802253,moab land hotel
+sowayma,jordan,booking.com,237484,1425.0,7.9,5,2018-06-24 21:37:02.802253,holiday inn resort dead sea
+madaba,jordan,booking.com,1463529,508.0,9.2,1,2018-06-24 21:37:02.802253,black iris hotel
+"barsha heights (tecom) , dubai",united arab emirates,booking.com,280404,620.0,9.0,4,2018-06-24 21:37:02.802253,golden tulip media hotel
+dubai,united arab emirates,booking.com,2089393,606.0,8.4,4,2018-06-24 21:37:02.802253,telal hotel apartments
+"palm jumeirah, dubai",united arab emirates,booking.com,261770,6026.0,9.3,5,2018-06-24 21:37:02.802253,one&only the palm dubai
+"bur dubai, dubai",united arab emirates,booking.com,340934,487.0,7.8,4,2018-06-24 21:37:02.802253,holiday inn bur dubai - embassy district
+dubai,united arab emirates,booking.com,2204884,1834.0,8.0,5,2018-06-24 21:37:02.802253,"the st. regis dubai, al habtoor polo resort & club"
+dubai,united arab emirates,booking.com,67282,543.0,7.4,4,2018-06-24 21:37:02.802253,carlton tower hotel
+yasmine hammamet,tunisia,booking.com,180074,1311.0,6.6,4,2018-06-24 21:37:02.802253,hotel menara
+zarzis,tunisia,booking.com,429400,1190.0,7.9,4,2018-06-24 21:37:02.802253,zephir hotel & spa
+"tunis centre , tunis",tunisia,booking.com,1656374,630.0,5.6,3,2018-06-24 21:37:02.802253,el hana international
+nabeul,tunisia,booking.com,452007,2415.0,8.0,4,2018-06-24 21:37:02.802253,khayam garden beach resort & spa
+sousse,tunisia,booking.com,47851,907.0,7.0,4,2018-06-24 21:37:02.802253,le monaco hotel & thalasso
+port el kantaoui,tunisia,booking.com,2007873,4505.0,8.5,5,2018-06-24 21:37:02.802253,concorde green park palace
+sousse,tunisia,booking.com,42036,1862.0,5.8,5,2018-06-24 21:37:02.802253,el mouradi palace
+mahdia,tunisia,booking.com,42051,1512.0,7.0,3,2018-06-24 21:37:02.802253,el mouradi cap mahdia
+jounieh,lebanon,booking.com,438310,4511.0,8.7,4,2018-06-24 21:37:02.802253,luxor hotel
+beirut,lebanon,booking.com,1717368,1624.0,9.3,4,2018-06-24 21:37:02.802253,citea apart hotel
+beirut,lebanon,booking.com,182801,1347.0,8.0,4,2018-06-24 21:37:02.802253,golden tulip serenada - boutique hotel
+jounieh,lebanon,booking.com,298927,902.0,8.3,4,2018-06-24 21:37:02.802253,madisson hotel
+beirut,lebanon,booking.com,1837906,1624.0,9.1,4,2018-06-24 21:37:02.802253,the key beirut
+jounieh,lebanon,booking.com,308443,1323.0,6.7,4,2018-06-24 21:37:02.802253,lamedina hotel
+beirut,lebanon,booking.com,288208,770.0,8.0,4,2018-06-24 21:37:02.802253,lavender home
+jounieh,lebanon,booking.com,335399,1131.0,9.1,4,2018-06-24 21:37:02.802253,reston hotel
+batroun,lebanon,booking.com,289769,2301.0,8.3,4,2018-06-24 21:37:02.802253,san stephano resort
+jbeil,lebanon,booking.com,1086952,1925.0,7.5,4,2018-06-24 21:37:02.802253,whitelace resort
+jounieh,lebanon,booking.com,1068537,716.0,8.6,4,2018-06-24 21:37:02.802253,al murjan palace hotel jounieh
+jounieh,lebanon,booking.com,1139435,1943.0,9.0,5,2018-06-24 21:37:02.802253,monte cassino
+annakhil,morocco,booking.com,275777,2799.0,8.8,4,2018-06-24 21:37:02.802253,iberostar club palmeraie marrakech
+"ain chock, casablanca",morocco,booking.com,1372188,1303.0,8.0,4,2018-06-24 21:37:02.802253,kenzi sidi maarouf
+casablanca,morocco,booking.com,98968,734.0,7.3,4,2018-06-24 21:37:02.802253,best western hotel toubkal
+"hivernage, marrakech",morocco,booking.com,98208,2729.0,8.0,5,2018-06-24 21:37:02.802253,sofitel marrakech lounge and spa
+essaouira,morocco,booking.com,98553,1400.0,8.0,5,2018-06-24 21:37:02.802253,atlas essaouira & spa
+"hassan, rabat",morocco,booking.com,570625,779.0,8.1,3,2018-06-24 21:37:02.802253,onomo rabat medina
+khenchela,algeria,booking.com,3208718,2051.0,,4,2018-06-24 21:37:02.802253,ets mn telecoms
+oran,algeria,booking.com,1092773,1641.0,3.9,3,2018-06-24 21:37:02.802253,hotel ikram oran
+madaba,jordan,booking.com,453579,813.0,7.7,4,2018-06-24 21:37:02.802253,grand hotel madaba
+amman,jordan,booking.com,76632,1355.0,8.3,4,2018-06-24 21:37:02.802253,alqasr metropole hotel
+sowayma,jordan,booking.com,401025,1319.0,7.5,4,2018-06-24 21:37:02.802253,ramada resort dead sea
+amman,jordan,booking.com,2536547,484.0,8.6,2,2018-06-24 21:37:02.802253,7boys hotel
+amman,jordan,booking.com,250242,343.0,7.9,1,2018-06-24 21:37:02.802253,jordan tower hotel
+amman,jordan,booking.com,1656359,457.0,8.1,2,2018-06-24 21:37:02.802253,zaman ya zaman boutique hotel
+dubai,united arab emirates,booking.com,48275,473.0,7.5,3,2018-06-24 21:37:02.802253,ibis deira city centre
+dubai,united arab emirates,booking.com,69819,584.0,7.6,4,2018-06-24 21:37:02.802253,copthorne hotel dubai
+abu dhabi,united arab emirates,booking.com,2183826,860.0,8.6,5,2018-06-24 21:37:02.802253,"marriott hotel al forsan, abu dhabi"
+dubai,united arab emirates,booking.com,362852,2732.0,8.4,5,2018-06-24 21:37:02.802253,the ritz-carlton executive residences
+ras al khaimah,united arab emirates,booking.com,75624,610.0,8.3,4,2018-06-24 21:37:02.802253,hilton garden inn ras al khaimah
+dubai,united arab emirates,booking.com,1361470,1009.0,8.2,4,2018-06-24 21:37:02.802253,hyatt place dubai baniyas square
+korba,tunisia,booking.com,180159,1512.0,7.8,4,2018-06-24 21:37:02.802253,africa jade thalasso
+yasmine hammamet,tunisia,booking.com,2107557,714.0,8.6,3,2018-06-24 21:37:02.802253,hotel khella
+sfax,tunisia,booking.com,2620509,700.0,7.9,3,2018-06-24 21:37:02.802253,hotel yasmine
+tozeur,tunisia,booking.com,439272,700.0,5.7,4,2018-06-24 21:37:02.802253,el mouradi tozeur
+yasmine hammamet,tunisia,booking.com,42029,2100.0,5.9,5,2018-06-24 21:37:02.802253,el mouradi hammamet
+yasmine hammamet,tunisia,booking.com,173509,1596.0,6.1,4,2018-06-24 21:37:02.802253,marina palace
+yasmine hammamet,tunisia,booking.com,2187232,3178.0,8.2,4,2018-06-24 21:37:02.802253,the orangers beach resort and bungalows
+tozeur,tunisia,booking.com,2176334,504.0,7.1,4,2018-06-24 21:37:02.802253,la palmeraie hotel & spa
+mezraya,tunisia,booking.com,179788,3250.0,7.6,5,2018-06-24 21:37:02.802253,radisson blu ulysse resort & thalasso djerba
+beirut,lebanon,booking.com,505748,932.0,8.4,4,2018-06-24 21:37:02.802253,q hotel
+zahle,lebanon,booking.com,1198749,1203.0,8.3,3,2018-06-24 21:37:02.802253,hotel st jean
+bhamdun,lebanon,booking.com,244439,2165.0,8.9,5,2018-06-24 21:37:02.802253,safir bhamdoun hotel
+jounieh,lebanon,booking.com,587728,601.0,7.5,3,2018-06-24 21:37:02.802253,lagace hotel
+broummana,lebanon,booking.com,189856,2165.0,7.6,5,2018-06-24 21:37:02.802253,printania palace hotel
+beirut,lebanon,booking.com,182800,818.0,7.4,3,2018-06-24 21:37:02.802253,mozart hotel
+jbeil,lebanon,booking.com,2217452,1320.0,8.2,3,2018-06-24 21:37:02.802253,four seasons halat
+jounieh,lebanon,booking.com,295202,842.0,8.0,4,2018-06-24 21:37:02.802253,camelot hotel
+aley,lebanon,booking.com,262342,1203.0,8.2,4,2018-06-24 21:37:02.802253,city suite aley
+broummana,lebanon,booking.com,3147233,1203.0,,3,2018-06-24 21:37:02.802253,al jawhara palace
+essaouira,morocco,booking.com,271161,2488.0,8.4,5,2018-06-24 21:37:02.802253,sofitel essaouira mogador golf & spa
+casablanca,morocco,booking.com,1666423,1696.0,8.3,5,2018-06-24 21:37:02.802253,grand mogador city center casablanca
+"souissi, rabat",morocco,booking.com,99053,2428.0,7.9,5,2018-06-24 21:37:02.802253,sofitel rabat jardin des roses
+amman,jordan,booking.com,259617,531.0,8.9,1,2018-06-24 21:37:02.802253,sydney hotel
+amman,jordan,booking.com,455790,813.0,7.2,1,2018-06-24 21:37:02.802253,bonita inn
+amman,jordan,booking.com,1629209,597.0,8.7,2,2018-06-24 21:37:02.802253,nishan hotel
+irbid,jordan,booking.com,551815,1016.0,7.9,4,2018-06-24 21:37:02.802253,sedrh hotel
+sharjah,united arab emirates,booking.com,304686,375.0,7.1,3,2018-06-24 21:37:02.802253,citymax sharjah
+ajman,united arab emirates,booking.com,26762,559.0,7.5,4,2018-06-24 21:37:02.802253,ramada hotel & suites ajman
+dubai,united arab emirates,booking.com,2001142,540.0,7.8,4,2018-06-24 21:37:02.802253,best western plus pearl creek
+sharjah,united arab emirates,booking.com,74438,882.0,7.5,4,2018-06-24 21:37:02.802253,"sharjah grand hotel, a member of barcelo hotel group"
+"downtown dubai, dubai",united arab emirates,booking.com,67252,1597.0,8.6,4,2018-06-24 21:37:02.802253,manzil downtown
+"jumeirah beach residence, dubai",united arab emirates,booking.com,73449,1389.0,8.1,5,2018-06-24 21:37:02.802253,hilton dubai jumeirah
+"palm jumeirah, dubai",united arab emirates,booking.com,268783,2620.0,8.6,5,2018-06-24 21:37:02.802253,jumeirah zabeel saray
+dubai,united arab emirates,booking.com,1037223,706.0,8.3,4,2018-06-24 21:37:02.802253,hyatt place dubai al rigga
+monastir,tunisia,booking.com,179454,735.0,8.5,3,2018-06-24 21:37:02.802253,marina cap monastir- appart'hotel
+yasmine hammamet,tunisia,booking.com,42021,1343.0,5.9,4,2018-06-24 21:37:02.802253,houda yasmine hammamet
+sfax,tunisia,booking.com,503353,840.0,7.3,2,2018-06-24 21:37:02.802253,pacha hotel
+monastir,tunisia,booking.com,405653,1890.0,6.7,4,2018-06-24 21:37:02.802253,regency hotel & spa
+yasmine hammamet,tunisia,booking.com,274520,2576.0,7.9,5,2018-06-24 21:37:02.802253,hotel oceana hammamet adults only
+"tunis centre , tunis",tunisia,booking.com,436275,819.0,7.7,3,2018-06-24 21:37:02.802253,hotel tiba
+sousse,tunisia,booking.com,2098770,4480.0,6.8,4,2018-06-24 21:37:02.802253,hotel marhaba
+batroun,lebanon,booking.com,1293707,3351.0,8.7,5,2018-06-24 21:37:02.802253,l'auberge de la mer
+jounieh,lebanon,booking.com,2558972,1083.0,9.1,4,2018-06-24 21:37:02.802253,ibiza hotel
+beit meri,lebanon,booking.com,378077,1083.0,7.9,3,2018-06-24 21:37:02.802253,monteverde hotel
+beirut,lebanon,booking.com,248301,1023.0,7.9,4,2018-06-24 21:37:02.802253,casa d'or hotel
+beirut,lebanon,booking.com,821943,1059.0,8.2,4,2018-06-24 21:37:02.802253,elite hotel & spa
+beirut,lebanon,booking.com,75623,529.0,6.3,4,2018-06-24 21:37:02.802253,napoleon hotel
+jiyeh,lebanon,booking.com,402159,2406.0,6.1,5,2018-06-24 21:37:02.802253,pangea beach resort
+beirut,lebanon,booking.com,315551,974.0,7.5,4,2018-06-24 21:37:02.802253,queens suite hotel
+marrakech,morocco,booking.com,98451,1733.0,7.5,5,2018-06-24 21:37:02.802253,palmeraie palace
+marrakech,morocco,booking.com,1993954,9100.0,9.0,5,2018-06-24 21:37:02.802253,domaine abiad
+agadir,morocco,booking.com,315178,3150.0,7.5,5,2018-06-24 21:37:02.802253,royal atlas & spa
+agadir,morocco,booking.com,244034,1246.0,7.2,4,2018-06-24 21:37:02.802253,mogador al madina
+aqaba,jordan,booking.com,2002154,932.0,8.8,4,2018-06-24 21:37:02.802253,dweik hotel 3
+amman,jordan,booking.com,1768995,796.0,8.7,2,2018-06-24 21:37:02.802253,ibiza hotel
+amman,jordan,booking.com,1554165,440.0,8.0,2,2018-06-24 21:37:02.802253,rafi hotel
+amman,jordan,booking.com,46784,677.0,6.6,3,2018-06-24 21:37:02.802253,beity rose suites hotel
+"bur dubai, dubai",united arab emirates,booking.com,48614,2587.0,8.9,5,2018-06-24 21:37:02.802253,grand hyatt dubai
+abu dhabi,united arab emirates,booking.com,69939,3242.0,9.1,5,2018-06-24 21:37:02.802253,emirates palace hotel
+"barsha heights (tecom) , dubai",united arab emirates,booking.com,1505562,674.0,8.5,4,2018-06-24 21:37:02.802253,atana hotel
+"trade centre, dubai",united arab emirates,booking.com,73581,737.0,8.6,4,2018-06-24 21:37:02.802253,rose rayhaan by rotana - dubai
+"downtown dubai, dubai",united arab emirates,booking.com,74593,2702.0,8.9,5,2018-06-24 21:37:02.802253,palace downtown
+"al sufouh, dubai",united arab emirates,booking.com,73063,4257.0,9.2,5,2018-06-24 21:37:02.802253,jumeirah dar al masyaf - madinat jumeirah
+"palm jumeirah, dubai",united arab emirates,booking.com,464480,1834.0,8.6,5,2018-06-24 21:37:02.802253,fairmont the palm
+"bur dubai, dubai",united arab emirates,booking.com,1297292,891.0,8.4,5,2018-06-24 21:37:02.802253,hyatt regency dubai creek heights
+abu dhabi,united arab emirates,booking.com,313631,1670.0,9.2,5,2018-06-24 21:37:02.802253,jumeirah at etihad towers hotel
+dubai,united arab emirates,booking.com,68497,746.0,7.5,4,2018-06-24 21:37:02.802253,pearl city suites
+"palm jumeirah, dubai",united arab emirates,booking.com,23227,3783.0,8.6,5,2018-06-24 21:37:02.802253,"atlantis the palm, dubai"
+"dubai marina, dubai",united arab emirates,booking.com,1593309,629.0,8.0,4,2018-06-24 21:37:02.802253,wyndham dubai marina
+sfax,tunisia,booking.com,1254583,980.0,6.1,3,2018-06-24 21:37:02.802253,hotel naher el founoun
+port el kantaoui,tunisia,booking.com,42050,1638.0,4.8,4,2018-06-24 21:37:02.802253,el mouradi club kantaoui
+kelibia,tunisia,booking.com,1573460,1841.0,7.8,4,2018-06-24 21:37:02.802253,cap bon kelibia beach hotel & spa
+monastir,tunisia,booking.com,42109,1483.0,6.3,3,2018-06-24 21:37:02.802253,houda golf & beach club
+midoun,tunisia,booking.com,171746,1983.0,7.2,4,2018-06-24 21:37:02.802253,sunconnect djerba aqua resort
+sousse,tunisia,booking.com,179682,1285.0,6.4,4,2018-06-24 21:37:02.802253,riadh palms- family & couples only
+port el kantaoui,tunisia,booking.com,1807184,1904.0,8.2,5,2018-06-24 21:37:02.802253,steigenberger kantaoui bay
+yasmine hammamet,tunisia,booking.com,42054,910.0,6.3,3,2018-06-24 21:37:02.802253,hotel la residence hammamet
+jounieh,lebanon,booking.com,348356,962.0,8.7,3,2018-06-24 21:37:02.802253,manuella hotel
+tabarja,lebanon,booking.com,872501,1203.0,9.1,4,2018-06-24 21:37:02.802253,heaven hotel
+beirut,lebanon,booking.com,71427,1728.0,8.1,5,2018-06-24 21:37:02.802253,hilton beirut metropolitan palace hotel
+jounieh,lebanon,booking.com,1078022,758.0,6.0,4,2018-06-24 21:37:02.802253,bayinn hotel hauschen hospitality
+farayya,lebanon,booking.com,377924,997.0,7.4,3,2018-06-24 21:37:02.802253,chateau d'eau hotel
+jbeil,lebanon,booking.com,426728,1323.0,9.2,3,2018-06-24 21:37:02.802253,l'hotel de mon pere
+jounieh,lebanon,booking.com,343782,2406.0,8.1,5,2018-06-24 21:37:02.802253,bay lodge boutique hotel
+casablanca,morocco,booking.com,380040,1842.0,8.2,5,2018-06-24 21:37:02.802253,sofitel casablanca tour blanche
+tangier,morocco,booking.com,98491,1050.0,7.7,3,2018-06-24 21:37:02.802253,hotel rembrandt
+tinerhir,morocco,booking.com,3358298,672.0,7.1,4,2018-06-24 21:37:02.802253,hotel bougafer
+"hivernage, marrakech",morocco,booking.com,390909,2507.0,8.4,5,2018-06-24 21:37:02.802253,the pearl marrakech
+amman,jordan,booking.com,1863554,119.0,7.5,1,2018-06-24 21:37:02.802253,ameer alsharq hotel
+amman,jordan,booking.com,185025,840.0,7.1,4,2018-06-24 21:37:02.802253,belle vue hotel
+madaba,jordan,booking.com,704839,508.0,8.0,3,2018-06-24 21:37:02.802253,saint john hotel
+amman,jordan,booking.com,241184,409.0,7.6,2,2018-06-24 21:37:02.802253,arab tower hotel
+aqaba,jordan,booking.com,2454054,1016.0,8.4,4,2018-06-24 21:37:02.802253,city tower hotel
+"umm suqeim, dubai",united arab emirates,booking.com,73057,3602.0,9.1,5,2018-06-24 21:37:02.802253,jumeirah mina a'salam - madinat jumeirah
+"palm jumeirah, dubai",united arab emirates,booking.com,2197989,1915.0,8.8,5,2018-06-24 21:37:02.802253,five palm jumeirah dubai
+dubai,united arab emirates,booking.com,48841,1461.0,9.2,5,2018-06-24 21:37:02.802253,park hyatt dubai
+dubai,united arab emirates,booking.com,183444,2129.0,8.6,5,2018-06-24 21:37:02.802253,dubai international terminal hotel
+ras al khaimah,united arab emirates,booking.com,422354,8908.0,8.8,5,2018-06-24 21:37:02.802253,"the ritz-carlton ras al khaimah, al hamra beach"
+"dubai marina, dubai",united arab emirates,booking.com,1370496,1730.0,8.7,5,2018-06-24 21:37:02.802253,intercontinental dubai marina
+jurayrah,united arab emirates,booking.com,183418,3193.0,9.3,5,2018-06-24 21:37:02.802253,anantara qasr al sarab desert resort
+abu dhabi,united arab emirates,booking.com,183405,1883.0,9.1,5,2018-06-24 21:37:02.802253,"shangri-la hotel, qaryat al beri"
+"downtown dubai, dubai",united arab emirates,booking.com,1671111,821.0,8.9,3,2018-06-24 21:37:02.802253,rove downtown
+abu dhabi,united arab emirates,booking.com,435815,525.0,7.4,3,2018-06-24 21:37:02.802253,ibis abu dhabi gate
+"jumeirah beach residence, dubai",united arab emirates,booking.com,731844,914.0,7.9,4,2018-06-24 21:37:02.802253,hawthorn hotel & suites by wyndham jbr
+"al barsha, dubai",united arab emirates,booking.com,2609212,513.0,8.8,4,2018-06-24 21:37:02.802253,rose park hotel al barsha
+"downtown dubai, dubai",united arab emirates,booking.com,183426,2456.0,8.7,5,2018-06-24 21:37:02.802253,address dubai mall
+sfax,tunisia,booking.com,42094,1547.0,8.6,5,2018-06-24 21:37:02.802253,borj dhiafa
+tabarka,tunisia,booking.com,1473296,1680.0,8.1,4,2018-06-24 21:37:02.802253,marina prestige tabarka
+midoun,tunisia,booking.com,272505,1512.0,6.7,4,2018-06-24 21:37:02.802253,green palm
+aghir,tunisia,booking.com,278406,2038.0,8.2,3,2018-06-24 21:37:02.802253,seabel aladin djerba
+mezraya,tunisia,booking.com,42098,784.0,7.0,3,2018-06-24 21:37:02.802253,hotel djerba orient
+tunis,tunisia,booking.com,354137,1377.0,7.4,4,2018-06-24 21:37:02.802253,novotel tunis
+mahdia,tunisia,booking.com,1507345,1404.0,6.9,3,2018-06-24 21:37:02.802253,hotel club el borj
+houmt souk,tunisia,booking.com,429397,490.0,7.9,1,2018-06-24 21:37:02.802253,hotel djerba erriadh
+jounieh,lebanon,booking.com,308627,818.0,7.9,4,2018-06-24 21:37:02.802253,voodoo hotel
+beirut,lebanon,booking.com,269690,902.0,7.0,4,2018-06-24 21:37:02.802253,duroy hotel
+beirut,lebanon,booking.com,271802,2026.0,8.3,5,2018-06-24 21:37:02.802253,coral beach hotel and resort beirut
+bcharre,lebanon,booking.com,286164,1236.0,7.1,3,2018-06-24 21:37:02.802253,hotel chbat
+beirut,lebanon,booking.com,371327,722.0,7.2,1,2018-06-24 21:37:02.802253,nouveau hotel du liban
+beirut,lebanon,booking.com,2018767,966.0,8.7,3,2018-06-24 21:37:02.802253,caramel boutique hotel
+dbayeh,lebanon,booking.com,390683,902.0,7.4,3,2018-06-24 21:37:02.802253,residence de france
+beirut,lebanon,booking.com,288505,913.0,7.0,4,2018-06-24 21:37:02.802253,ny suites
+jadra,lebanon,booking.com,497120,2406.0,5.3,4,2018-06-24 21:37:02.802253,rmeileh resort
+"agdal, marrakech",morocco,booking.com,248399,4886.0,9.4,5,2018-06-24 21:37:02.802253,sirayane boutique hotel & spa marrakech
+marrakech,morocco,booking.com,322272,4922.0,7.6,5,2018-06-24 21:37:02.802253,al maaden villa hotel & spa
+"hay riad, rabat",morocco,booking.com,2125168,2321.0,8.8,5,2018-06-24 21:37:02.802253,the view hotel
+"hivernage, marrakech",morocco,booking.com,274915,1226.0,7.3,5,2018-06-24 21:37:02.802253,grand mogador menara wellness & the city
+wadi musa,jordan,booking.com,2953292,1084.0,9.0,5,2018-06-24 21:37:02.802253,the old village hotel & resort
+madaba,jordan,booking.com,26719,508.0,8.3,1,2018-06-24 21:37:02.802253,rumman hotel
+amman,jordan,booking.com,2884185,620.0,,3,2018-06-24 21:37:02.802253,7th star hotel suites
+amman,jordan,booking.com,302709,381.0,,2,2018-06-24 21:37:02.802253,al saleh hotel
+sousse,tunisia,booking.com,445184,1008.0,5.6,4,2018-06-24 21:37:02.802253,hotel cesar palace & casino
+tunis,tunisia,booking.com,1665811,829.0,9.0,4,2018-06-24 21:37:02.802253,hotel belvedere fourati
+tunis,tunisia,booking.com,180073,1400.0,6.4,3,2018-06-24 21:37:02.802253,hotel le pacha
+ain draham,tunisia,booking.com,42052,926.0,7.1,4,2018-06-24 21:37:02.802253,el mouradi hammam bourguiba
+monastir,tunisia,booking.com,42047,1638.0,6.0,4,2018-06-24 21:37:02.802253,el mouradi skanes
+"trade centre, dubai",united arab emirates,booking.com,67235,842.0,8.4,4,2018-06-24 21:37:02.802253,towers rotana - dubai
+dubai,united arab emirates,booking.com,73090,1871.0,8.8,5,2018-06-24 21:37:02.802253,bab al shams desert resort and spa
+"jebel ali, dubai",united arab emirates,booking.com,260805,1130.0,8.3,5,2018-06-24 21:37:02.802253,movenpick hotel ibn battuta gate
+"jumeirah, dubai",united arab emirates,booking.com,1183269,3523.0,9.2,5,2018-06-24 21:37:02.802253,four seasons resort dubai at jumeirah beach
+"dubai marina, dubai",united arab emirates,booking.com,189723,1787.0,8.7,4,2018-06-24 21:37:02.802253,dubai marriott harbour hotel and suites
+"jebel ali, dubai",united arab emirates,booking.com,69940,2209.0,8.6,5,2018-06-24 21:37:02.802253,ja palm tree court
+"palm jumeirah, dubai",united arab emirates,booking.com,857045,2068.0,9.1,5,2018-06-24 21:37:02.802253,waldorf astoria dubai palm jumeirah
+"al barsha, dubai",united arab emirates,booking.com,469928,1478.0,8.5,5,2018-06-24 21:37:02.802253,"sheraton mall of the emirates hotel, dubai"
+"discovery gardens, dubai",united arab emirates,booking.com,1908699,871.0,8.6,3,2018-06-24 21:37:02.802253,premier inn dubai ibn battuta mall
+dubai,united arab emirates,booking.com,1305134,1488.0,9.0,5,2018-06-24 21:37:02.802253,taj dubai
+dubai,united arab emirates,booking.com,68313,786.0,8.3,4,2018-06-24 21:37:02.802253,"radisson blu hotel, dubai deira creek"
+"palm jumeirah, dubai",united arab emirates,booking.com,2279194,1452.0,8.4,4,2018-06-24 21:37:02.802253,the retreat palm dubai mgallery by sofitel
+dubai,united arab emirates,booking.com,72996,1842.0,9.2,5,2018-06-24 21:37:02.802253,jumeirah emirates towers
+bcharre,lebanon,booking.com,383186,614.0,8.4,2,2018-06-24 21:37:02.802253,bauhaus motel
+harisa,lebanon,booking.com,22976,1804.0,7.9,4,2018-06-24 21:37:02.802253,bzommar palace hotel
+beirut,lebanon,booking.com,265480,1083.0,8.1,4,2018-06-24 21:37:02.802253,cosmopolitan hotel
+jounieh,lebanon,booking.com,417924,1203.0,8.8,4,2018-06-24 21:37:02.802253,hotel xperience
+beirut,lebanon,booking.com,268133,917.0,7.8,4,2018-06-24 21:37:02.802253,bella riva hotel
+beirut,lebanon,booking.com,265758,1391.0,8.7,4,2018-06-24 21:37:02.802253,country lodge hotel & resort beirut
+beirut,lebanon,booking.com,268000,710.0,7.5,4,2018-06-24 21:37:02.802253,orient queen homes hotel
+ad dkarin,lebanon,booking.com,2781389,1083.0,,3,2018-06-24 21:37:02.802253,bay 183
+tabarja,lebanon,booking.com,1496062,962.0,9.1,4,2018-06-24 21:37:02.802253,aphrodite hotel
+rissani,morocco,booking.com,3129590,756.0,9.1,3,2018-06-24 21:37:02.802253,hotel ziz palace rissani
+agadir,morocco,booking.com,289560,1330.0,7.3,4,2018-06-24 21:37:02.802253,lti agadir beach club
+marrakech,morocco,booking.com,348751,1711.0,8.0,5,2018-06-24 21:37:02.802253,hotel du golf marrakech
+wadi musa,jordan,booking.com,1497643,847.0,7.4,3,2018-06-24 21:37:02.802253,petra nights hotel
+wadi musa,jordan,booking.com,312799,500.0,7.0,3,2018-06-24 21:37:02.802253,al anbat hotel & restaurant
+amman,jordan,booking.com,255090,1016.0,6.4,4,2018-06-24 21:37:02.802253,days inn hotel and suites amman
+sowayma,jordan,booking.com,469397,2284.0,7.4,5,2018-06-24 21:37:02.802253,crowne plaza jordan dead sea resort & spa
+amman,jordan,booking.com,275129,254.0,6.7,1,2018-06-24 21:37:02.802253,normas hotel
+yasmine hammamet,tunisia,booking.com,368401,1274.0,6.0,4,2018-06-24 21:37:02.802253,l'atrium yasmine hammamet
+douz,tunisia,booking.com,179427,762.0,6.9,4,2018-06-24 21:37:02.802253,hotel sun palm
+sousse,tunisia,booking.com,298166,1273.0,6.1,4,2018-06-24 21:37:02.802253,l'orient palace resort and spa
+monastir,tunisia,booking.com,179901,1285.0,5.8,4,2018-06-24 21:37:02.802253,alassio hotel & thalasso
+yasmine hammamet,tunisia,booking.com,1080504,1316.0,6.5,4,2018-06-24 21:37:02.802253,hotel nesrine
+port el kantaoui,tunisia,booking.com,428146,680.0,6.0,3,2018-06-24 21:37:02.802253,miramar golf and spa
+mahdia,tunisia,booking.com,405086,1373.0,7.2,5,2018-06-24 21:37:02.802253,mahdia palace
+tunis,tunisia,booking.com,1606634,713.0,6.6,3,2018-06-24 21:37:02.802253,hotel la princesse
+"dubai marina, dubai",united arab emirates,booking.com,73053,1214.0,9.2,5,2018-06-24 21:37:02.802253,grosvenor house hotel and apartments
+"al sufouh, dubai",united arab emirates,booking.com,189724,3406.0,8.9,5,2018-06-24 21:37:02.802253,one&only royal mirage resort dubai at jumeirah beach
+"jumeirah beach residence, dubai",united arab emirates,booking.com,67308,1816.0,8.5,5,2018-06-24 21:37:02.802253,"habtoor grand resort, autograph collection"
+dubai,united arab emirates,booking.com,280058,2482.0,8.6,5,2018-06-24 21:37:02.802253,"the ritz-carlton, dubai international financial centre"
+"jumeirah beach residence, dubai",united arab emirates,booking.com,77799,2871.0,8.9,5,2018-06-24 21:37:02.802253,"the ritz-carlton, dubai"
+"downtown dubai, dubai",united arab emirates,booking.com,1011965,1701.0,8.8,5,2018-06-24 21:37:02.802253,sofitel dubai downtown
+"palm jumeirah, dubai",united arab emirates,booking.com,568165,1719.0,8.7,5,2018-06-24 21:37:02.802253,sofitel dubai the palm resort & spa
+"arabian ranches, dubai",united arab emirates,booking.com,183431,901.0,8.5,2,2018-06-24 21:37:02.802253,arabian ranches golf club
+"downtown dubai, dubai",united arab emirates,booking.com,67234,1030.0,8.5,5,2018-06-24 21:37:02.802253,roda al murooj hotel
+"dubai internet city, dubai",united arab emirates,booking.com,263509,720.0,7.8,4,2018-06-24 21:37:02.802253,gloria hotel
+"jumeirah beach residence, dubai",united arab emirates,booking.com,78409,1622.0,9.0,5,2018-06-24 21:37:02.802253,le royal meridien beach resort & spa dubai
+dubai,united arab emirates,booking.com,445906,1284.0,8.7,5,2018-06-24 21:37:02.802253,jw marriott marquis hotel dubai
+beirut,lebanon,booking.com,341190,1444.0,8.3,4,2018-06-24 21:37:02.802253,boutique hotel
+jbeil,lebanon,booking.com,587170,1203.0,7.9,4,2018-06-24 21:37:02.802253,guias boutique hotel & spa
+sour,lebanon,booking.com,410626,2959.0,7.1,4,2018-06-24 21:37:02.802253,rest house
+jounieh,lebanon,booking.com,803062,842.0,6.6,4,2018-06-24 21:37:02.802253,the four stars hotel and beach resort
+jiyeh,lebanon,booking.com,401274,3059.0,,4,2018-06-24 21:37:02.802253,jiyeh marina resort
+beirut,lebanon,booking.com,271871,722.0,6.4,4,2018-06-24 21:37:02.802253,royal garden hotel
+beirut,lebanon,booking.com,399237,601.0,6.7,4,2018-06-24 21:37:02.802253,orient prince hotel
+beirut,lebanon,booking.com,182803,1985.0,8.4,5,2018-06-24 21:37:02.802253,etoile suites boutique hotel downtown
+beirut,lebanon,booking.com,361911,1684.0,7.8,4,2018-06-24 21:37:02.802253,promenade hotel
+tamtetoucht,morocco,booking.com,2993738,700.0,9.8,2,2018-06-24 21:37:02.802253,hotel baddou
+tangier,morocco,booking.com,1139971,2010.0,8.6,5,2018-06-24 21:37:02.802253,royal tulip city center
+agadir,morocco,booking.com,317010,2450.0,8.0,4,2018-06-24 21:37:02.802253,labranda dunes d'or resort
+amman,jordan,booking.com,1725011,932.0,8.4,2,2018-06-24 21:37:02.802253,lujain hotel suites
+wadi musa,jordan,booking.com,255728,593.0,7.4,1,2018-06-24 21:37:02.802253,sunset hotel
+amman,jordan,booking.com,1431075,932.0,7.7,2,2018-06-24 21:37:02.802253,antika amman hotel
+yasmine hammamet,tunisia,booking.com,484348,854.0,6.1,3,2018-06-24 21:37:02.802253,emira hotel
+sousse,tunisia,booking.com,47797,1316.0,4.8,4,2018-06-24 21:37:02.802253,hotel royal jinene
+"tunis centre , tunis",tunisia,booking.com,1709848,770.0,5.2,3,2018-06-24 21:37:02.802253,hotel new oscars
+"dubai media city, dubai",united arab emirates,booking.com,68490,1048.0,8.0,4,2018-06-24 21:37:02.802253,"radisson blu hotel, dubai media city"
+dubai,united arab emirates,booking.com,1500727,939.0,8.5,5,2018-06-24 21:37:02.802253,steigenberger hotel - business bay
+"trade centre, dubai",united arab emirates,booking.com,183404,1930.0,8.7,5,2018-06-24 21:37:02.802253,"shangri-la hotel, dubai"
+dubai,united arab emirates,booking.com,176974,362.0,7.0,4,2018-06-24 21:37:02.802253,dorus hotel
+"garhoud, dubai",united arab emirates,booking.com,188270,536.0,8.4,3,2018-06-24 21:37:02.802253,premier inn dubai international airport
+"al sufouh, dubai",united arab emirates,booking.com,72542,2096.0,8.7,5,2018-06-24 21:37:02.802253,the westin dubai mina seyahi beach resort & marina
+"jumeirah beach residence, dubai",united arab emirates,booking.com,69369,1306.0,8.5,5,2018-06-24 21:37:02.802253,"amwaj rotana, jumeirah beach - dubai"
+"trade centre, dubai",united arab emirates,booking.com,2250681,612.0,9.0,3,2018-06-24 21:37:02.802253,rove trade centre
+"al barsha, dubai",united arab emirates,booking.com,1608095,682.0,8.2,4,2018-06-24 21:37:02.802253,hilton garden inn dubai mall of the emirates
+"saadiyat island, abu dhabi",united arab emirates,booking.com,321847,2342.0,8.6,5,2018-06-24 21:37:02.802253,"the st. regis saadiyat island resort, abu dhabi"
+"downtown dubai, dubai",united arab emirates,booking.com,263368,3441.0,9.1,5,2018-06-24 21:37:02.802253,armani hotel dubai
+"al barsha, dubai",united arab emirates,booking.com,1890634,473.0,8.4,4,2018-06-24 21:37:02.802253,al khoory atrium
+"dubai marina, dubai",united arab emirates,booking.com,317207,655.0,7.3,4,2018-06-24 21:37:02.802253,marina byblos hotel
+"saadiyat island, abu dhabi",united arab emirates,booking.com,342739,1965.0,9.1,5,2018-06-24 21:37:02.802253,park hyatt abu dhabi hotel and villas
+adunis,lebanon,booking.com,2876883,914.0,,4,2018-06-24 21:37:02.802253,president hotel
+beirut,lebanon,booking.com,78606,1270.0,8.3,5,2018-06-24 21:37:02.802253,markazia suites
+beirut,lebanon,booking.com,310316,1179.0,8.3,4,2018-06-24 21:37:02.802253,lahoya verdun
+broummana,lebanon,booking.com,775867,1323.0,8.0,4,2018-06-24 21:37:02.802253,colibri hotel
+beirut,lebanon,booking.com,240304,842.0,6.9,4,2018-06-24 21:37:02.802253,hotel mediterranee
+beirut,lebanon,booking.com,73851,417.0,5.7,3,2018-06-24 21:37:02.802253,embassy hotel
+al arz,lebanon,booking.com,237751,1994.0,8.8,4,2018-06-24 21:37:02.802253,le cedrus suites hotel
+jounieh,lebanon,booking.com,298957,722.0,6.7,4,2018-06-24 21:37:02.802253,arcada marina hotel
+beirut,lebanon,booking.com,75747,662.0,7.4,3,2018-06-24 21:37:02.802253,marble tower
+bou azza,morocco,booking.com,285962,964.0,7.5,5,2018-06-24 21:37:02.802253,fellah hotel
+aourir,morocco,booking.com,1395248,532.0,8.7,2,2018-06-24 21:37:02.802253,hotel inou
+"hassan, rabat",morocco,booking.com,98238,1279.0,7.5,4,2018-06-24 21:37:02.802253,le diwan rabat - mgallery by sofitel
+agadir,morocco,booking.com,98326,1589.0,8.5,4,2018-06-24 21:37:02.802253,hotel timoulay and spa agadir
+casablanca,morocco,booking.com,299094,1676.0,7.4,5,2018-06-24 21:37:02.802253,le palace d'anfa
+'awjan ash shamali,jordan,booking.com,2914015,593.0,,2,2018-06-24 21:37:02.802253,al andaleeb hotel
+amman,jordan,booking.com,276242,423.0,,1,2018-06-24 21:37:02.802253,asia hotel
+sangho,tunisia,booking.com,175592,1401.0,7.8,4,2018-06-24 21:37:02.802253,vincci safira palms
+yasmine hammamet,tunisia,booking.com,180146,1890.0,6.3,3,2018-06-24 21:37:02.802253,omar khayam club
+sousse,tunisia,booking.com,1978586,420.0,5.8,2,2018-06-24 21:37:02.802253,hotel les palmiers
+"jumeirah beach residence, dubai",united arab emirates,booking.com,412338,1139.0,7.9,4,2018-06-24 21:37:02.802253,ramada plaza jumeirah beach
+"al wasl, dubai",united arab emirates,booking.com,2068940,1626.0,8.8,5,2018-06-24 21:37:02.802253,"la ville hotel & suites city walk dubai, autograph collection"
+"garhoud, dubai",united arab emirates,booking.com,337064,1474.0,8.7,5,2018-06-24 21:37:02.802253,jumeirah creekside hotel
+dubai,united arab emirates,booking.com,2317870,933.0,8.8,4,2018-06-24 21:37:02.802253,doubletree by hilton dubai - business bay
+"trade centre, dubai",united arab emirates,booking.com,67224,881.0,8.4,5,2018-06-24 21:37:02.802253,dusit thani dubai
+"al sufouh, dubai",united arab emirates,booking.com,24782,1572.0,8.7,5,2018-06-24 21:37:02.802253,le meridien mina seyahi beach resort & marina
+"umm suqeim, dubai",united arab emirates,booking.com,1988600,4257.0,8.9,5,2018-06-24 21:37:02.802253,jumeirah al naseem-madinat jumeirah
+"dubai media city, dubai",united arab emirates,booking.com,183439,1141.0,8.1,4,2018-06-24 21:37:02.802253,media one hotel
+jounieh,lebanon,booking.com,235263,818.0,6.9,3,2018-06-24 21:37:02.802253,holiday suites hotel & beach resort
+beirut,lebanon,booking.com,248304,675.0,6.4,3,2018-06-24 21:37:02.802253,le marly hotel
+jbeil,lebanon,booking.com,1086960,1925.0,7.6,3,2018-06-24 21:37:02.802253,ocean blue beach resort jbeil
+beirut,lebanon,booking.com,191953,842.0,6.1,4,2018-06-24 21:37:02.802253,white house hotel
+jounieh,lebanon,booking.com,2032906,1191.0,9.3,4,2018-06-24 21:37:02.802253,monte mare hotel
+jbeil,lebanon,booking.com,287699,962.0,8.0,3,2018-06-24 21:37:02.802253,byblos comfort hotel
+al arz,lebanon,booking.com,1190848,3781.0,8.5,4,2018-06-24 21:37:02.802253,saint michel chalets
+marrakech,morocco,booking.com,2062399,6468.0,9.4,5,2018-06-24 21:37:02.802253,la palmeraie de l'atlas
+"kasbah, marrakech",morocco,booking.com,98296,2974.0,9.0,5,2018-06-24 21:37:02.802253,les jardins de la medina
+casablanca,morocco,booking.com,2109426,2402.0,8.8,5,2018-06-24 21:37:02.802253,le casablanca hotel
+amman,jordan,booking.com,474860,1355.0,8.0,4,2018-06-24 21:37:02.802253,al thuraya hotel
+amman,jordan,booking.com,250860,1270.0,6.5,4,2018-06-24 21:37:02.802253,amman cham palace
+madaba,jordan,booking.com,68927,525.0,8.1,1,2018-06-24 21:37:02.802253,salome hotel
+amman,jordan,booking.com,1004732,85.0,7.9,1,2018-06-24 21:37:02.802253,jordan river hotel
+yasmine hammamet,tunisia,booking.com,1074645,1484.0,6.2,3,2018-06-24 21:37:02.802253,hotel el fell
+yasmine hammamet,tunisia,booking.com,42110,2800.0,6.9,4,2018-06-24 21:37:02.802253,royal nozha
+la marsa,tunisia,booking.com,436780,3472.0,7.4,5,2018-06-24 21:37:02.802253,suites hotel les charmilles & spa
+midoun,tunisia,booking.com,272118,4060.0,8.5,4,2018-06-24 21:37:02.802253,robinson club djerba bahiya
+midoun,tunisia,booking.com,180038,1190.0,,3,2018-06-24 21:37:02.802253,djerba haroun
+abu dhabi,united arab emirates,booking.com,604766,1274.0,9.2,5,2018-06-24 21:37:02.802253,the st. regis abu dhabi
+"barsha heights (tecom) , dubai",united arab emirates,booking.com,73582,911.0,8.1,5,2018-06-24 21:37:02.802253,media rotana dubai
+abu dhabi,united arab emirates,booking.com,72834,960.0,7.8,5,2018-06-24 21:37:02.802253,hilton abu dhabi
+abu dhabi,united arab emirates,booking.com,621465,720.0,8.6,3,2018-06-24 21:37:02.802253,premier inn abu dhabi international airport
+"downtown dubai, dubai",united arab emirates,booking.com,1827697,2579.0,8.9,5,2018-06-24 21:37:02.802253,address boulevard
+"bur dubai, dubai",united arab emirates,booking.com,67259,1048.0,8.5,4,2018-06-24 21:37:02.802253,burjuman arjaan by rotana - dubai
+"palm jumeirah, dubai",united arab emirates,booking.com,879687,3462.0,8.8,5,2018-06-24 21:37:02.802253,sofitel dubai palm apartments
+"al sufouh, dubai",united arab emirates,booking.com,173002,811.0,8.2,4,2018-06-24 21:37:02.802253,fraser suites hotel and apartments
+dubai,united arab emirates,booking.com,246054,508.0,6.0,2,2018-06-24 21:37:02.802253,mount royal hotel
+jbeil,lebanon,booking.com,187751,1143.0,8.0,3,2018-06-24 21:37:02.802253,canari de byblos hotel
+jounieh,lebanon,booking.com,345010,962.0,7.7,4,2018-06-24 21:37:02.802253,queens land hotel
+jounieh,lebanon,booking.com,2022334,857.0,8.7,4,2018-06-24 21:37:02.802253,zora suites
+aley,lebanon,booking.com,271890,1504.0,9.0,4,2018-06-24 21:37:02.802253,kayan hotel apartments
+beirut,lebanon,booking.com,288509,722.0,7.1,2,2018-06-24 21:37:02.802253,regis hotel
+beirut,lebanon,booking.com,875504,1564.0,9.3,4,2018-06-24 21:37:02.802253,dolphin royal suites raouche
+hammana,lebanon,booking.com,861919,1347.0,7.4,4,2018-06-24 21:37:02.802253,valley view hotel - hammana
+tabarja,lebanon,booking.com,307932,1135.0,8.5,3,2018-06-24 21:37:02.802253,rabiya marine hotel
+broummana,lebanon,booking.com,74969,1203.0,9.1,3,2018-06-24 21:37:02.802253,le crillon
+casablanca,morocco,booking.com,99180,1700.0,7.8,4,2018-06-24 21:37:02.802253,villa blanca & spa
+essaouira,morocco,booking.com,373881,343.0,8.2,1,2018-06-24 21:37:02.802253,hotel riad gnaoua
+"old medina, tangier",morocco,booking.com,99128,1232.0,7.8,3,2018-06-24 21:37:02.802253,hotel continental
+casablanca,morocco,booking.com,247586,3640.0,8.8,5,2018-06-24 21:37:02.802253,hotel & spa le doge
+amman,jordan,booking.com,291686,1008.0,7.6,4,2018-06-24 21:37:02.802253,geneva hotel
+ajloun,jordan,booking.com,338794,457.0,6.1,2,2018-06-24 21:37:02.802253,ajloun hotel
+kerak,jordan,booking.com,555830,506.0,6.8,1,2018-06-24 21:37:02.802253,cairwan hotel
+amman,jordan,booking.com,320381,593.0,6.1,2,2018-06-24 21:37:02.802253,concord hotel
+yasmine hammamet,tunisia,booking.com,175653,1638.0,5.9,4,2018-06-24 21:37:02.802253,chich khan hotel
+port el kantaoui,tunisia,booking.com,1785464,2381.0,6.4,4,2018-06-24 21:37:02.802253,riviera hotel - family and couples only
+"palm jumeirah, dubai",united arab emirates,booking.com,322219,4192.0,8.1,5,2018-06-24 21:37:02.802253,kempinski hotel & residences palm jumeirah
+"al sufouh, dubai",united arab emirates,booking.com,73056,3602.0,9.2,5,2018-06-24 21:37:02.802253,jumeirah al qasr - madinat jumeirah
+"jumeirah beach residence, dubai",united arab emirates,booking.com,458436,1032.0,8.7,5,2018-06-24 21:37:02.802253,ja ocean view hotel
+jebel dhanna,united arab emirates,booking.com,67445,1421.0,8.2,5,2018-06-24 21:37:02.802253,danat jebel dhanna resort
+dubai,united arab emirates,booking.com,71262,917.0,8.0,4,2018-06-24 21:37:02.802253,jw marriott dubai
+"trade centre, dubai",united arab emirates,booking.com,1139618,904.0,8.5,5,2018-06-24 21:37:02.802253,"sheraton grand hotel, dubai"
+abu dhabi,united arab emirates,booking.com,67262,980.0,8.4,5,2018-06-24 21:37:02.802253,beach rotana - abu dhabi
+"al barsha, dubai",united arab emirates,booking.com,183429,704.0,7.9,3,2018-06-24 21:37:02.802253,novotel suites dubai mall of the emirates
+dubai,united arab emirates,booking.com,185796,688.0,8.3,4,2018-06-24 21:37:02.802253,riviera hotel
+dubai,united arab emirates,booking.com,79828,819.0,7.5,4,2018-06-24 21:37:02.802253,lotus downtown metro hotel apartments
+"trade centre, dubai",united arab emirates,booking.com,69320,756.0,8.5,4,2018-06-24 21:37:02.802253,four points by sheraton sheikh zayed road
+"jumeirah beach residence, dubai",united arab emirates,booking.com,71465,1320.0,7.8,5,2018-06-24 21:37:02.802253,sheraton jumeirah beach resort
+abu dhabi,united arab emirates,booking.com,1948004,659.0,8.9,5,2018-06-24 21:37:02.802253,marriott hotel downtown abu dhabi
+beirut,lebanon,booking.com,1197408,834.0,8.1,4,2018-06-24 21:37:02.802253,the j hotel & spa
+beirut,lebanon,booking.com,72297,1059.0,7.5,4,2018-06-24 21:37:02.802253,king suites hotel
+beirut,lebanon,booking.com,437703,662.0,5.9,4,2018-06-24 21:37:02.802253,grand hotel beirut
+dayr al qamar,lebanon,booking.com,636466,1547.0,7.7,4,2018-06-24 21:37:02.802253,rawa2 village
+beirut,lebanon,booking.com,2815830,782.0,7.2,4,2018-06-24 21:37:02.802253,al jawhara suites
+bcharre,lebanon,booking.com,1292474,1547.0,8.2,3,2018-06-24 21:37:02.802253,samar resort
+rayfun,lebanon,booking.com,496256,1005.0,7.7,3,2018-06-24 21:37:02.802253,oakland hotel
+'ajaltun,lebanon,booking.com,633651,842.0,7.3,4,2018-06-24 21:37:02.802253,monte bello hotel
+beirut,lebanon,booking.com,497666,842.0,7.0,4,2018-06-24 21:37:02.802253,the diplomat hotel
+beirut,lebanon,booking.com,261831,866.0,6.3,3,2018-06-24 21:37:02.802253,charles hotel
+guelmim,morocco,booking.com,1929990,1120.0,8.6,4,2018-06-24 21:37:02.802253,oasis palm hotel
+casablanca,morocco,booking.com,265250,1429.0,7.3,5,2018-06-24 21:37:02.802253,movenpick hotel casablanca
+casablanca,morocco,booking.com,435021,2247.0,7.9,5,2018-06-24 21:37:02.802253,hyatt regency casablanca
+"gauthier, casablanca",morocco,booking.com,272269,1879.0,7.8,5,2018-06-24 21:37:02.802253,art palace suites & spa
+marrakech,morocco,booking.com,1771874,1008.0,8.3,3,2018-06-24 21:37:02.802253,hotel racine
+marrakech,morocco,booking.com,349659,1540.0,7.9,5,2018-06-24 21:37:02.802253,cesar resort & spa
+fes,morocco,booking.com,98924,826.0,7.3,5,2018-06-24 21:37:02.802253,ramada fes
+"hivernage, marrakech",morocco,booking.com,98878,1743.0,8.0,5,2018-06-24 21:37:02.802253,es saadi marrakech resort - hotel
+amman,jordan,booking.com,280670,627.0,,1,2018-06-24 21:37:02.802253,asri hotel
+yasmine hammamet,tunisia,booking.com,42057,1750.0,4.9,4,2018-06-24 21:37:02.802253,hammamet serail
+"al barsha, dubai",united arab emirates,booking.com,67294,1965.0,8.9,5,2018-06-24 21:37:02.802253,kempinski hotel mall of the emirates
+"trade centre, dubai",united arab emirates,booking.com,1014160,734.0,7.8,4,2018-06-24 21:37:02.802253,carlton downtown hotel
+dubai,united arab emirates,booking.com,48630,648.0,8.3,5,2018-06-24 21:37:02.802253,hyatt regency dubai - corniche
+dubai,united arab emirates,booking.com,1867063,524.0,5.3,1,2018-06-24 21:37:02.802253,al khaima hotel
+abu dhabi,united arab emirates,booking.com,183436,982.0,8.6,4,2018-06-24 21:37:02.802253,"traders hotel qaryat al beri abu dhabi, by shangri-la"
+"trade centre, dubai",united arab emirates,booking.com,351108,954.0,8.1,5,2018-06-24 21:37:02.802253,millennium plaza hotel
+"garhoud, dubai",united arab emirates,booking.com,67295,720.0,8.2,4,2018-06-24 21:37:02.802253,millennium dubai airport hotel
+"yas island, abu dhabi",united arab emirates,booking.com,47121,822.0,8.3,4,2018-06-24 21:37:02.802253,yas island rotana abu dhabi
+ghabat bulunya,lebanon,booking.com,744007,1203.0,6.4,4,2018-06-24 21:37:02.802253,bois de boulogne
+jounieh,lebanon,booking.com,299136,1083.0,8.0,4,2018-06-24 21:37:02.802253,sunrise hotel
+harat al ballan,lebanon,booking.com,2833467,722.0,,2,2018-06-24 21:37:02.802253,leone private residence
+beirut,lebanon,booking.com,248308,674.0,6.1,3,2018-06-24 21:37:02.802253,minto suites furnished apartments
+beirut,lebanon,booking.com,175948,1263.0,7.4,4,2018-06-24 21:37:02.802253,the parisian hotel
+bhamdun,lebanon,booking.com,437567,1203.0,5.7,4,2018-06-24 21:37:02.802253,carlton bhamdoun hotel
+jbeil,lebanon,booking.com,299070,1564.0,7.3,4,2018-06-24 21:37:02.802253,castel mare beach hotel & resort
+ilat,lebanon,booking.com,2703973,902.0,,4,2018-06-24 21:37:02.802253,grassias hotel & resort
+beirut,lebanon,booking.com,191937,1083.0,6.7,4,2018-06-24 21:37:02.802253,white house apartments
+casablanca,morocco,booking.com,98235,1680.0,8.0,4,2018-06-24 21:37:02.802253,hotel club val d'anfa
+agadir,morocco,booking.com,99165,3769.0,8.1,4,2018-06-24 21:37:02.802253,iberostar founty beach
+aqaba,jordan,booking.com,1040686,726.0,8.3,3,2018-06-24 21:37:02.802253,yafko hotel
+amman,jordan,booking.com,506771,466.0,7.6,3,2018-06-24 21:37:02.802253,sufara hotel suites
+tabarka,tunisia,booking.com,3559328,2016.0,,4,2018-06-24 21:37:02.802253,thabraca thalasso & diving
+"trade centre, dubai",united arab emirates,booking.com,696944,1364.0,8.4,5,2018-06-24 21:37:02.802253,conrad dubai
+"palm jumeirah, dubai",united arab emirates,booking.com,593817,2463.0,8.5,5,2018-06-24 21:37:02.802253,anantara the palm dubai resort
+"barsha heights (tecom) , dubai",united arab emirates,booking.com,2346466,619.0,8.6,4,2018-06-24 21:37:02.802253,tryp by wyndham dubai
+"al maryah island, abu dhabi",united arab emirates,booking.com,1690854,2129.0,9.2,5,2018-06-24 21:37:02.802253,four seasons hotel abu dhabi at al maryah island
+"trade centre, dubai",united arab emirates,booking.com,240588,975.0,7.6,4,2018-06-24 21:37:02.802253,emirates grand hotel
+dubai,united arab emirates,booking.com,68159,594.0,7.2,3,2018-06-24 21:37:02.802253,landmark plaza hotel
+dubai,united arab emirates,booking.com,175795,1143.0,8.7,5,2018-06-24 21:37:02.802253,the meydan hotel
+jbeil,lebanon,booking.com,377933,1444.0,5.3,3,2018-06-24 21:37:02.802253,byblos palace hotel
+beirut,lebanon,booking.com,307933,1179.0,8.0,4,2018-06-24 21:37:02.802253,imperial suites hotel
+jbeil,lebanon,booking.com,183903,1083.0,5.3,3,2018-06-24 21:37:02.802253,hotel king george
+beirut,lebanon,booking.com,182804,746.0,7.7,3,2018-06-24 21:37:02.802253,suite hotel merlot - beirut
+beirut,lebanon,booking.com,347385,1564.0,,4,2018-06-24 21:37:02.802253,verdun suites hotel
+beirut,lebanon,booking.com,191946,1191.0,6.2,4,2018-06-24 21:37:02.802253,white house suites
+jounieh,lebanon,booking.com,382717,722.0,6.3,3,2018-06-24 21:37:02.802253,vanda hotel & spa
+dbayeh,lebanon,booking.com,2704063,541.0,7.0,3,2018-06-24 21:37:02.802253,nj hotel
+'alma ash sha'b,lebanon,booking.com,2023308,842.0,6.9,3,2018-06-24 21:37:02.802253,almaverdi hotel
+tangier,morocco,booking.com,709590,3150.0,8.0,5,2018-06-24 21:37:02.802253,hotel farah tanger
+agadir,morocco,booking.com,311576,1680.0,7.1,5,2018-06-24 21:37:02.802253,bianca beach family & resort
+agadir,morocco,booking.com,1728271,1323.0,8.3,4,2018-06-24 21:37:02.802253,rofaida appart'hotel
+amman,jordan,booking.com,455360,504.0,8.0,2,2018-06-24 21:37:02.802253,caravan hotel
+amman,jordan,booking.com,301423,319.0,8.4,1,2018-06-24 21:37:02.802253,al-houriat hotel
+amman,jordan,booking.com,292469,440.0,6.7,2,2018-06-24 21:37:02.802253,sun rise hotel
+la marsa,tunisia,booking.com,3536170,2800.0,,4,2018-06-24 21:37:02.802253,hotel plazza corniche
+"jumeirah lakes towers, dubai",united arab emirates,booking.com,26685,915.0,8.3,5,2018-06-24 21:37:02.802253,bonnington jumeirah lakes towers
+"jumeirah beach residence, dubai",united arab emirates,booking.com,171657,1259.0,8.1,5,2018-06-24 21:37:02.802253,movenpick hotel jumeirah beach
+"dubai festival city, dubai",united arab emirates,booking.com,68944,1302.0,8.7,5,2018-06-24 21:37:02.802253,intercontinental dubai festival city
+al rahba,united arab emirates,booking.com,431388,895.0,7.8,3,2018-06-24 21:37:02.802253,emirates park resort
+"dubai world central, dubai",united arab emirates,booking.com,1990156,1243.0,8.3,4,2018-06-24 21:37:02.802253,"lapita, dubai parks and resorts, autograph collection"
+dubai,united arab emirates,booking.com,67246,540.0,8.4,4,2018-06-24 21:37:02.802253,flora grand hotel
+"al barsha, dubai",united arab emirates,booking.com,382043,701.0,8.2,5,2018-06-24 21:37:02.802253,coral dubai al barsha hotel
+"yas island, abu dhabi",united arab emirates,booking.com,183441,874.0,7.9,4,2018-06-24 21:37:02.802253,"radisson blu hotel, abu dhabi yas island"
+abu dhabi,united arab emirates,booking.com,474237,1441.0,8.4,5,2018-06-24 21:37:02.802253,"the ritz-carlton abu dhabi, grand canal"
+dubai,united arab emirates,booking.com,67540,917.0,8.6,5,2018-06-24 21:37:02.802253,sheraton dubai creek hotel & towers
+ajman,united arab emirates,booking.com,67429,958.0,8.1,5,2018-06-24 21:37:02.802253,ajman hotel
+tabarja,lebanon,booking.com,2032112,1444.0,,4,2018-06-24 21:37:02.802253,romance hotel
+beirut,lebanon,booking.com,341200,962.0,6.4,3,2018-06-24 21:37:02.802253,paradise residence
+beirut,lebanon,booking.com,341199,902.0,8.0,3,2018-06-24 21:37:02.802253,viccini suites
+jounieh,lebanon,booking.com,358774,974.0,8.0,4,2018-06-24 21:37:02.802253,hollywood inn boutique hotel
+beirut,lebanon,booking.com,73246,894.0,7.7,4,2018-06-24 21:37:02.802253,suite hotel chrome - beirut
+jounieh,lebanon,booking.com,284871,962.0,5.5,4,2018-06-24 21:37:02.802253,rivoli palace
+beirut,lebanon,booking.com,1930022,1213.0,4.5,4,2018-06-24 21:37:02.802253,le beryte boutique hotel
+jounieh,lebanon,booking.com,299091,1804.0,,4,2018-06-24 21:37:02.802253,siena hotel
+farayya,lebanon,booking.com,276160,662.0,6.2,2,2018-06-24 21:37:02.802253,coin vert
+tangier,morocco,booking.com,2205636,630.0,7.4,2,2018-06-24 21:37:02.802253,hotel el djenina
+casablanca,morocco,booking.com,422215,1036.0,7.0,4,2018-06-24 21:37:02.802253,hotel diwan casablanca
+"hivernage, marrakech",morocco,booking.com,98550,1050.0,7.0,4,2018-06-24 21:37:02.802253,atlas asni
+el jadida,morocco,booking.com,98347,1326.0,7.2,5,2018-06-24 21:37:02.802253,pullman mazagan royal golf & spa
+fes,morocco,booking.com,282054,1106.0,8.1,5,2018-06-24 21:37:02.802253,palais medina & spa
+wadi musa,jordan,booking.com,293240,1338.0,8.4,5,2018-06-24 21:37:02.802253,hayat zaman hotel and resort petra
+sowayma,jordan,booking.com,448689,1546.0,6.0,5,2018-06-24 21:37:02.802253,dead sea lagoon hotel & resort
+aqaba,jordan,booking.com,441805,593.0,7.5,2,2018-06-24 21:37:02.802253,jardaneh hotel
+tunis,tunisia,booking.com,3347367,1858.0,8.2,5,2018-06-24 21:37:02.802253,laico tunis
+"les berges du lac, tunis",tunisia,booking.com,3226502,1853.0,8.1,5,2018-06-24 21:37:02.802253,movenpick hotel du lac tunis
+abu dhabi,united arab emirates,booking.com,257871,833.0,8.4,5,2018-06-24 21:37:02.802253,grand millennium al wahda abu dhabi
+dubai,united arab emirates,booking.com,307516,590.0,8.2,5,2018-06-24 21:37:02.802253,asiana hotel dubai
+abu dhabi,united arab emirates,booking.com,1199275,8842.0,8.4,5,2018-06-24 21:37:02.802253,zaya nurai island resort
+"bur dubai, dubai",united arab emirates,booking.com,67484,545.0,7.9,4,2018-06-24 21:37:02.802253,four points by sheraton bur dubai
+dubai,united arab emirates,booking.com,73122,512.0,7.8,5,2018-06-24 21:37:02.802253,jood palace hotel dubai
+"jumeirah lakes towers, dubai",united arab emirates,booking.com,1126696,652.0,7.2,4,2018-06-24 21:37:02.802253,armada bluebay
+murquab,united arab emirates,booking.com,271176,8870.0,9.2,5,2018-06-24 21:37:02.802253,"al maha, a luxury collection desert resort & spa, dubai"
+"al majaz, sharjah",united arab emirates,booking.com,725038,816.0,8.5,5,2018-06-24 21:37:02.802253,72 hotel
+dubai,united arab emirates,booking.com,348404,557.0,7.6,4,2018-06-24 21:37:02.802253,landmark grand hotel
+dubai,united arab emirates,booking.com,2335878,720.0,7.7,4,2018-06-24 21:37:02.802253,mercure hotel apartments dubai barsha heights
+jounieh,lebanon,booking.com,378045,1203.0,,3,2018-06-24 21:37:02.802253,kandiel furnished apartments
+al qammatiyah,lebanon,booking.com,2561239,1143.0,,3,2018-06-24 21:37:02.802253,ward soukoonboutique hotel
+fes,morocco,booking.com,98253,910.0,8.2,5,2018-06-24 21:37:02.802253,fes marriott hotel jnan palace
+casablanca,morocco,booking.com,2559759,1124.0,8.0,4,2018-06-24 21:37:02.802253,my loft anfa
+aqaba,jordan,booking.com,455335,508.0,6.2,1,2018-06-24 21:37:02.802253,dweik hotel 1
+amman,jordan,booking.com,1688367,605.0,8.4,3,2018-06-24 21:37:02.802253,olive hotel
+sfax,tunisia,booking.com,3163700,1400.0,,4,2018-06-24 21:37:02.802253,hotel donia
+dubai,united arab emirates,booking.com,294075,576.0,8.1,5,2018-06-24 21:37:02.802253,crowne plaza dubai deira
+abu dhabi,united arab emirates,booking.com,1248354,600.0,8.8,4,2018-06-24 21:37:02.802253,"courtyard by marriott world trade center, abu dhabi"
+abu dhabi,united arab emirates,booking.com,72901,944.0,8.5,5,2018-06-24 21:37:02.802253,al raha beach hotel
+abu dhabi,united arab emirates,booking.com,1147343,557.0,7.5,4,2018-06-24 21:37:02.802253,khalidiya hotel
+abu dhabi,united arab emirates,booking.com,1045525,484.0,8.9,4,2018-06-24 21:37:02.802253,southern sun hotel abu dhabi
+dubai,united arab emirates,booking.com,452354,808.0,8.6,5,2018-06-24 21:37:02.802253,swissotel al ghurair dubai
+"palm jumeirah, dubai",united arab emirates,booking.com,362375,2222.0,8.9,5,2018-06-24 21:37:02.802253,rixos the palm dubai
+abu dhabi,united arab emirates,booking.com,67443,757.0,7.9,5,2018-06-24 21:37:02.802253,sheraton abu dhabi hotel & resort
+"bur dubai, dubai",united arab emirates,booking.com,1489671,624.0,7.8,4,2018-06-24 21:37:02.802253,hilton garden inn dubai al mina
+agadir,morocco,booking.com,1123324,1161.0,8.0,4,2018-06-24 21:37:02.802253,atlantic palm beach
+ifri,morocco,booking.com,503623,462.0,8.2,3,2018-06-24 21:37:02.802253,kasbah hotel camping jurassique
+"gauthier, casablanca",morocco,booking.com,98470,855.0,7.4,4,2018-06-24 21:37:02.802253,idou anfa hotel & spa
+aqaba,jordan,booking.com,2151649,1440.0,7.7,4,2018-06-24 21:37:02.802253,sol y mar beau rivage
+amman,jordan,booking.com,1352809,519.0,8.0,3,2018-06-24 21:37:02.802253,lancaster hotel apartments-gardens
+aqaba,jordan,booking.com,488516,762.0,7.8,2,2018-06-24 21:37:02.802253,al zaitouna hotel
+amman,jordan,booking.com,264179,936.0,7.1,4,2018-06-24 21:37:02.802253,zamzam towers hotel
+triffa,tunisia,booking.com,3069238,1400.0,8.1,3,2018-06-24 21:37:02.802253,dar jerba zahra
+tozeur,tunisia,booking.com,3017329,1890.0,,4,2018-06-24 21:37:02.802253,dar jridia
+sharjah,united arab emirates,booking.com,274479,457.0,7.9,4,2018-06-24 21:37:02.802253,ramada hotel & suites sharjah
+"garhoud, dubai",united arab emirates,booking.com,28732,524.0,7.7,4,2018-06-24 21:37:02.802253,le meridien fairway
+abu dhabi,united arab emirates,booking.com,1325511,632.0,8.0,4,2018-06-24 21:37:02.802253,tryp by wyndham abu dhabi city center
+abu dhabi,united arab emirates,booking.com,707129,905.0,8.6,5,2018-06-24 21:37:02.802253,royal rose hotel
+"jumeirah beach residence, dubai",united arab emirates,booking.com,1056815,1670.0,8.1,4,2018-06-24 21:37:02.802253,doubletree by hilton dubai jumeirah beach
+"trade centre, dubai",united arab emirates,booking.com,271644,1081.0,8.3,5,2018-06-24 21:37:02.802253,nassima royal hotel
+abu dhabi,united arab emirates,booking.com,68946,1005.0,7.2,4,2018-06-24 21:37:02.802253,le meridien abu dhabi
+"medina, marrakech",morocco,booking.com,1001600,18200.0,9.6,5,2018-06-24 21:37:02.802253,royal mansour marrakech
+"hivernage, marrakech",morocco,booking.com,98551,1246.0,7.6,5,2018-06-24 21:37:02.802253,atlas medina & spa
+marrakech,morocco,booking.com,1525103,9625.0,9.1,5,2018-06-24 21:37:02.802253,"mandarin oriental, marrakech"
+"maarif, casablanca",morocco,booking.com,1578517,869.0,7.1,4,2018-06-24 21:37:02.802253,the fourteen luxury boutique hotel
+al salt,jordan,booking.com,1990543,1829.0,9.2,4,2018-06-24 21:37:02.802253,mountain breeze resort
+amman,jordan,booking.com,1929113,532.0,8.1,3,2018-06-24 21:37:02.802253,lancaster hotel apartments - dahiat al-rasheed
+sousse,tunisia,booking.com,2845026,2492.0,,5,2018-06-24 21:37:02.802253,the pearl resort & spa
+midoun,tunisia,booking.com,2834512,1050.0,,3,2018-06-24 21:37:02.802253,djerba saraya
+ajman,united arab emirates,booking.com,1331340,1029.0,8.6,5,2018-06-24 21:37:02.802253,fairmont ajman
+"dubai festival city, dubai",united arab emirates,booking.com,68945,1048.0,8.8,5,2018-06-24 21:37:02.802253,crowne plaza dubai festival city
+dubai,united arab emirates,booking.com,67242,437.0,7.6,3,2018-06-24 21:37:02.802253,comfort inn hotel deira
+"yas island, abu dhabi",united arab emirates,booking.com,183446,710.0,8.4,3,2018-06-24 21:37:02.802253,park inn by radisson abu dhabi yas island
+"fes el bali, fes",morocco,booking.com,1614218,700.0,8.6,3,2018-06-24 21:37:02.802253,hotel blue sky
+fes,morocco,booking.com,768880,2840.0,8.7,5,2018-06-24 21:37:02.802253,hotel sahrai
+"agdal, marrakech",morocco,booking.com,297727,1260.0,7.3,5,2018-06-24 21:37:02.802253,les jardins de l'agdal hotel & spa
+douar khalifa ben mbarek,morocco,booking.com,274420,952.0,8.1,4,2018-06-24 21:37:02.802253,caravan serai
+amman,jordan,booking.com,1061350,1219.0,7.3,3,2018-06-24 21:37:02.802253,nadine hotel suites
+amman,jordan,booking.com,182407,864.0,7.3,4,2018-06-24 21:37:02.802253,sadeen amman
+tab kira',jordan,booking.com,2728550,593.0,,3,2018-06-24 21:37:02.802253,al haramain furnished apartments
+amman,jordan,booking.com,461632,593.0,7.3,2,2018-06-24 21:37:02.802253,corner house
+yasmine hammamet,tunisia,booking.com,2833782,1400.0,5.5,4,2018-06-24 21:37:02.802253,shalimar hotel
+berges du lac,tunisia,booking.com,2833325,770.0,,3,2018-06-24 21:37:02.802253,residence iceberg
+sfax,tunisia,booking.com,2801702,1574.0,8.2,5,2018-06-24 21:37:02.802253,hotel plaza sfax & spa
+zarzis,tunisia,booking.com,2778592,1218.0,7.9,3,2018-06-24 21:37:02.802253,sangho club zarzis
+zarzis,tunisia,booking.com,42008,2044.0,7.8,4,2018-06-24 21:37:02.802253,odyssee resort and thalasso - all inclusive
+"bur dubai, dubai",united arab emirates,booking.com,1424490,2227.0,8.9,5,2018-06-24 21:37:02.802253,palazzo versace dubai
+dubai,united arab emirates,booking.com,1630592,1490.0,8.0,5,2018-06-24 21:37:02.802253,w dubai - al habtoor city
+abu dhabi,united arab emirates,booking.com,292038,977.0,8.6,5,2018-06-24 21:37:02.802253,sofitel abu dhabi corniche
+cherarda,morocco,booking.com,3419047,350.0,,3,2018-06-24 21:37:02.802253,hotel nihal
+ouarzazate,morocco,booking.com,247050,348.0,8.1,2,2018-06-24 21:37:02.802253,hotel marmar
+fes,morocco,booking.com,98909,558.0,7.5,3,2018-06-24 21:37:02.802253,ibis fes
+agadir,morocco,booking.com,98237,2086.0,7.8,4,2018-06-24 21:37:02.802253,kenzi europa
+amman,jordan,booking.com,263965,762.0,7.3,3,2018-06-24 21:37:02.802253,retaj hotel
+amman,jordan,booking.com,1348826,518.0,7.4,3,2018-06-24 21:37:02.802253,sama paris hotel
+amman,jordan,booking.com,253731,254.0,7.3,1,2018-06-24 21:37:02.802253,hamoudah hotel
+amman,jordan,booking.com,1713415,356.0,7.1,2,2018-06-24 21:37:02.802253,teeba palace hotel suites
+amman,jordan,booking.com,283939,576.0,7.3,2,2018-06-24 21:37:02.802253,canary hotel
+monastir,tunisia,booking.com,171893,2030.0,,4,2018-06-24 21:37:02.802253,nerolia by magic hotels
+beja,tunisia,booking.com,2372481,700.0,7.5,2,2018-06-24 21:37:02.802253,ramsam hotel
+sahline,tunisia,booking.com,42027,920.0,5.6,3,2018-06-24 21:37:02.802253,helya beach & spa
+yasmine hammamet,tunisia,booking.com,179416,1078.0,5.1,4,2018-06-24 21:37:02.802253,hammamet azur plaza
+ras al khaimah,united arab emirates,booking.com,236039,5232.0,8.6,5,2018-06-24 21:37:02.802253,"the ritz-carlton ras al khaimah, al wadi desert"
+dubai,united arab emirates,booking.com,73458,832.0,8.1,5,2018-06-24 21:37:02.802253,hilton dubai creek
+dubai,united arab emirates,booking.com,24799,651.0,7.9,4,2018-06-24 21:37:02.802253,novotel deira city centre
+"jumeirah lakes towers, dubai",united arab emirates,booking.com,1202766,896.0,8.2,5,2018-06-24 21:37:02.802253,pullman dubai jumeirah lakes towers
+meknes,morocco,booking.com,98915,751.0,7.4,3,2018-06-24 21:37:02.802253,ibis meknes
+amman,jordan,booking.com,298410,661.0,8.2,2,2018-06-24 21:37:02.802253,blue marine hotel
+amman,jordan,booking.com,338219,295.0,6.7,2,2018-06-24 21:37:02.802253,amman palace hotel
+amman,jordan,booking.com,182401,520.0,7.3,2,2018-06-24 21:37:02.802253,gondola hotel & suites
+aqaba,jordan,booking.com,343404,677.0,6.5,3,2018-06-24 21:37:02.802253,mina hotel
+yasmine hammamet,tunisia,booking.com,42097,1059.0,7.2,3,2018-06-24 21:37:02.802253,residence romane
+tunis,tunisia,booking.com,47725,718.0,6.7,3,2018-06-24 21:37:02.802253,yadis ibn khaldoun
+"barsha heights (tecom) , dubai",united arab emirates,booking.com,185119,737.0,7.6,4,2018-06-24 21:37:02.802253,byblos hotel
+"bur dubai, dubai",united arab emirates,booking.com,67301,442.0,7.1,4,2018-06-24 21:37:02.802253,regent palace hotel
+"dubai silicon oasis, dubai",united arab emirates,booking.com,188271,612.0,7.8,3,2018-06-24 21:37:02.802253,premier inn dubai silicon oasis
+"yas island, abu dhabi",united arab emirates,booking.com,47127,589.0,8.1,3,2018-06-24 21:37:02.802253,centro yas island-by rotana
+"trade centre, dubai",united arab emirates,booking.com,77854,1208.0,8.4,5,2018-06-24 21:37:02.802253,the h dubai
+dubai,united arab emirates,booking.com,1489672,554.0,8.2,4,2018-06-24 21:37:02.802253,hilton garden inn dubai al muraqabat
+al hoceima,morocco,booking.com,98329,1382.0,7.7,4,2018-06-24 21:37:02.802253,suites hotel mohammed v by accor
+ouarzazate,morocco,booking.com,453433,630.0,7.7,1,2018-06-24 21:37:02.802253,hotel amlal
+saidia,morocco,booking.com,235914,3028.0,7.3,5,2018-06-24 21:37:02.802253,iberostar saidia
+aqaba,jordan,booking.com,74420,1790.0,6.1,5,2018-06-24 21:37:02.802253,talabay resort
+amman,jordan,booking.com,260829,593.0,7.2,3,2018-06-24 21:37:02.802253,al ballouti hotel suites
+aqaba,jordan,booking.com,343388,811.0,6.1,4,2018-06-24 21:37:02.802253,golden tulip aqaba
+amman,jordan,booking.com,43457,1016.0,5.6,4,2018-06-24 21:37:02.802253,arena space hotel
+"tunis centre , tunis",tunisia,booking.com,1895330,700.0,5.8,3,2018-06-24 21:37:02.802253,hotel tej
+dubai,united arab emirates,booking.com,1202494,807.0,8.6,5,2018-06-24 21:37:02.802253,ghaya grand hotel
+dubai,united arab emirates,booking.com,183402,485.0,7.6,4,2018-06-24 21:37:02.802253,best western premier deira
+"al khan, sharjah",united arab emirates,booking.com,291678,495.0,7.4,4,2018-06-24 21:37:02.802253,aryana hotel
+abu dhabi,united arab emirates,booking.com,572225,566.0,8.3,4,2018-06-24 21:37:02.802253,novotel abu dhabi al bustan
+al ain,united arab emirates,booking.com,67264,860.0,8.3,5,2018-06-24 21:37:02.802253,al ain rotana
+al aqah,united arab emirates,booking.com,67458,1269.0,8.3,5,2018-06-24 21:37:02.802253,le meridien al aqah beach resort
+"garhoud, dubai",united arab emirates,booking.com,67236,897.0,8.4,5,2018-06-24 21:37:02.802253,roda al bustan hotel
+zagora,morocco,booking.com,98881,784.0,8.5,3,2018-06-24 21:37:02.802253,kasbah sirocco
+oujda,morocco,booking.com,99142,1624.0,8.6,5,2018-06-24 21:37:02.802253,atlas terminus & spa
+agadir,morocco,booking.com,309127,1344.0,8.6,3,2018-06-24 21:37:02.802253,atlantic hotel agadir
+amman,jordan,booking.com,571852,885.0,7.6,4,2018-06-24 21:37:02.802253,jad hotel suites
+aqaba,jordan,booking.com,305820,508.0,7.1,2,2018-06-24 21:37:02.802253,dweik hotel 2
+madaba,jordan,booking.com,606533,499.0,7.8,3,2018-06-24 21:37:02.802253,delilah hotel
+al salt,jordan,booking.com,1037393,593.0,7.0,3,2018-06-24 21:37:02.802253,saltus hotel
+aqaba,jordan,booking.com,1004772,423.0,5.4,2,2018-06-24 21:37:02.802253,ahla tlah hotel
+dubai,united arab emirates,booking.com,433956,485.0,5.6,1,2018-06-24 21:37:02.802253,white fort hotel
+al ain,united arab emirates,booking.com,1287536,1408.0,8.6,5,2018-06-24 21:37:02.802253,telal resort
+"bur dubai, dubai",united arab emirates,booking.com,321148,557.0,6.4,2,2018-06-24 21:37:02.802253,president hotel
+"al barsha, dubai",united arab emirates,booking.com,2591679,645.0,8.6,4,2018-06-24 21:37:02.802253,mena plaza hotel albarsha
+abu dhabi,united arab emirates,booking.com,338787,1054.0,8.6,5,2018-06-24 21:37:02.802253,the westin abu dhabi golf resort and spa
+"bur dubai, dubai",united arab emirates,booking.com,1718431,462.0,7.8,4,2018-06-24 21:37:02.802253,city seasons towers hotel bur dubai
+dubai,united arab emirates,booking.com,1950921,612.0,9.1,3,2018-06-24 21:37:02.802253,rove city centre
+al aqah,united arab emirates,booking.com,2620555,1566.0,8.9,5,2018-06-24 21:37:02.802253,intercontinental fujairah resort
+ras al khaimah,united arab emirates,booking.com,79557,1607.0,7.9,5,2018-06-24 21:37:02.802253,the cove rotana resort - ras al khaimah
+casablanca,morocco,booking.com,300100,924.0,7.7,4,2018-06-24 21:37:02.802253,hotel les saisons
+meknes,morocco,booking.com,1041591,910.0,7.1,4,2018-06-24 21:37:02.802253,hotel tafilalet
+agadir,morocco,booking.com,98862,1827.0,8.7,5,2018-06-24 21:37:02.802253,tikida golf palace
+agadir,morocco,booking.com,1487632,1364.0,7.4,3,2018-06-24 21:37:02.802253,anezi apartments
+fes,morocco,booking.com,98925,952.0,7.8,5,2018-06-24 21:37:02.802253,les merinides
+amman,jordan,booking.com,171927,1016.0,6.6,4,2018-06-24 21:37:02.802253,le vendome hotel
+aqaba,jordan,booking.com,373719,677.0,7.5,3,2018-06-24 21:37:02.802253,maswada plaza hotel
+amman,jordan,booking.com,42687,644.0,6.9,3,2018-06-24 21:37:02.802253,liwan hotel
+amman,jordan,booking.com,386343,534.0,6.7,3,2018-06-24 21:37:02.802253,abjar hotel
+amman,jordan,booking.com,2431509,1203.0,8.2,4,2018-06-24 21:37:02.802253,sindyan resort
+amman,jordan,booking.com,1277449,292.0,6.4,2,2018-06-24 21:37:02.802253,golden key hotel
+amman,jordan,booking.com,1382402,847.0,7.9,3,2018-06-24 21:37:02.802253,balcony hotel
+amman,jordan,booking.com,309571,705.0,6.8,3,2018-06-24 21:37:02.802253,al fanar palace hotel and suites
+amman,jordan,booking.com,581789,593.0,,3,2018-06-24 21:37:02.802253,rinad hotel
+amman,jordan,booking.com,1949986,288.0,7.6,1,2018-06-24 21:37:02.802253,hotel nefertiti
+dubai,united arab emirates,booking.com,2098543,557.0,8.2,4,2018-06-24 21:37:02.802253,royal continental hotel
+abu dhabi,united arab emirates,booking.com,238832,459.0,8.3,4,2018-06-24 21:37:02.802253,city seasons al hamra hotel
+al ain,united arab emirates,booking.com,2182295,726.0,8.7,5,2018-06-24 21:37:02.802253,ayla grand hotel
+"jumeirah lakes towers, dubai",united arab emirates,booking.com,633399,848.0,7.7,5,2018-06-24 21:37:02.802253,movenpick hotel jumeirah lakes towers dubai
+"bur dubai, dubai",united arab emirates,booking.com,67266,626.0,8.0,4,2018-06-24 21:37:02.802253,arabian courtyard hotel & spa
+ghayathi,united arab emirates,booking.com,401527,786.0,7.7,3,2018-06-24 21:37:02.802253,western hotel - ghayathi
+"dubai marina, dubai",united arab emirates,booking.com,187985,1719.0,9.2,5,2018-06-24 21:37:02.802253,address dubai marina
+"bur dubai, dubai",united arab emirates,booking.com,1225451,589.0,8.2,4,2018-06-24 21:37:02.802253,raviz center point hotel
+hatta,united arab emirates,booking.com,71609,1810.0,8.6,4,2018-06-24 21:37:02.802253,ja hatta fort hotel
+tangier,morocco,booking.com,432472,847.0,7.8,3,2018-06-24 21:37:02.802253,ramada encore tangier
+"hivernage, marrakech",morocco,booking.com,242500,753.0,7.8,4,2018-06-24 21:37:02.802253,mogador opera
+tangier,morocco,booking.com,1608131,2453.0,8.5,4,2018-06-24 21:37:02.802253,hilton garden inn tanger city centre
+mhamid,morocco,booking.com,570909,420.0,9.1,2,2018-06-24 21:37:02.802253,desert bivouac mhamid
+ouarzazate,morocco,booking.com,360793,504.0,7.6,3,2018-06-24 21:37:02.802253,hotel la perle du sud
+amman,jordan,booking.com,1764240,830.0,7.7,3,2018-06-24 21:37:02.802253,sofia suites hotel
+amman,jordan,booking.com,328820,669.0,7.8,3,2018-06-24 21:37:02.802253,kindi hotel
+amman,jordan,booking.com,2172679,847.0,5.9,3,2018-06-24 21:37:02.802253,sparr hotel
+amman,jordan,booking.com,73780,518.0,5.5,3,2018-06-24 21:37:02.802253,shepherd hotel
+amman,jordan,booking.com,254831,720.0,7.4,3,2018-06-24 21:37:02.802253,clermont hotel suites
+amman,jordan,booking.com,768584,248.0,5.5,3,2018-06-24 21:37:02.802253,down town yahala hotel
+amman,jordan,booking.com,455788,432.0,6.6,1,2018-06-24 21:37:02.802253,kahramana hotel
+aqaba,jordan,booking.com,247071,1452.0,5.9,4,2018-06-24 21:37:02.802253,marina plaza hotel
+irbid,jordan,booking.com,581774,677.0,7.4,3,2018-06-24 21:37:02.802253,sara crown hotel
+amman,jordan,booking.com,1368195,847.0,8.3,3,2018-06-24 21:37:02.802253,ream hotel
+"bur dubai, dubai",united arab emirates,booking.com,2068203,418.0,9.0,3,2018-06-24 21:37:02.802253,rove healthcare city
+jebel dhanna,united arab emirates,booking.com,45803,868.0,6.8,3,2018-06-24 21:37:02.802253,dhafra beach hotel
+"jebel ali, dubai",united arab emirates,booking.com,69945,1318.0,8.1,5,2018-06-24 21:37:02.802253,ja jebel ali beach hotel
+sharjah,united arab emirates,booking.com,74597,821.0,7.4,5,2018-06-24 21:37:02.802253,"radisson blu resort, sharjah"
+"barsha heights (tecom) , dubai",united arab emirates,booking.com,79827,684.0,7.9,4,2018-06-24 21:37:02.802253,time oak hotel & suites
+dubai,united arab emirates,booking.com,2106709,3181.0,8.7,5,2018-06-24 21:37:02.802253,nikki beach resort & spa dubai
+madinat zayid,united arab emirates,booking.com,190894,606.0,8.0,4,2018-06-24 21:37:02.802253,tilal liwa hotel - madinat zayed
+casablanca,morocco,booking.com,731499,806.0,7.0,4,2018-06-24 21:37:02.802253,imperial casablanca hotel
+tangier,morocco,booking.com,463923,2029.0,8.4,5,2018-06-24 21:37:02.802253,grand mogador sea view & spa
+fes,morocco,booking.com,386282,700.0,6.7,4,2018-06-24 21:37:02.802253,hotel volubilis
+"gauthier, casablanca",morocco,booking.com,98280,1076.0,7.4,4,2018-06-24 21:37:02.802253,barcelo casablanca
+amman,jordan,booking.com,1367813,531.0,7.5,3,2018-06-24 21:37:02.802253,meneur hotel
+aqaba,jordan,booking.com,1157869,1343.0,5.9,5,2018-06-24 21:37:02.802253,oryx aqaba
+amman,jordan,booking.com,309452,1101.0,8.9,3,2018-06-24 21:37:02.802253,comfort hotel suites
+amman,jordan,booking.com,1038112,328.0,6.9,2,2018-06-24 21:37:02.802253,haya amman suite hotel
+amman,jordan,booking.com,575578,677.0,7.7,3,2018-06-24 21:37:02.802253,diamond hotel suites
+amman,jordan,booking.com,340824,677.0,5.5,3,2018-06-24 21:37:02.802253,rama hotel
+amman,jordan,booking.com,301420,254.0,6.7,1,2018-06-24 21:37:02.802253,roman theater hotel
+amman,jordan,booking.com,73054,593.0,7.7,2,2018-06-24 21:37:02.802253,ola palace hotel
+dubai,united arab emirates,booking.com,68150,658.0,7.0,3,2018-06-24 21:37:02.802253,landmark hotel
+dubai,united arab emirates,booking.com,1771938,485.0,6.7,3,2018-06-24 21:37:02.802253,al khaleej grand hotel
+abu dhabi,united arab emirates,booking.com,1373283,737.0,8.2,5,2018-06-24 21:37:02.802253,jannah burj al sarab
+da'sah,united arab emirates,booking.com,74896,2505.0,8.9,5,2018-06-24 21:37:02.802253,anantara desert islands resort & spa
+al ain,united arab emirates,booking.com,868474,710.0,8.5,5,2018-06-24 21:37:02.802253,hili rayhaan by rotana
+umm al quwain,united arab emirates,booking.com,476322,1146.0,6.9,4,2018-06-24 21:37:02.802253,palma beach resort & spa
+al aqah,united arab emirates,booking.com,73247,1263.0,8.0,5,2018-06-24 21:37:02.802253,miramar al aqah beach resort
+al ain,united arab emirates,booking.com,277140,1396.0,7.7,5,2018-06-24 21:37:02.802253,danat al ain resort
+"trade centre, dubai",united arab emirates,booking.com,2282201,1242.0,8.5,5,2018-06-24 21:37:02.802253,"sheraton grand hotel apartments, dubai"
+"emirates hills, dubai",united arab emirates,booking.com,183430,1965.0,9.0,5,2018-06-24 21:37:02.802253,address montgomerie
+"ain chock, casablanca",morocco,booking.com,1171509,1008.0,7.5,4,2018-06-24 21:37:02.802253,casablanca suites & spa
+chefchaouene,morocco,booking.com,251975,826.0,8.9,2,2018-06-24 21:37:02.802253,casa annasr
+tangier,morocco,booking.com,98902,1330.0,7.6,4,2018-06-24 21:37:02.802253,el oumnia puerto
+amman,jordan,booking.com,240207,322.0,7.4,2,2018-06-24 21:37:02.802253,new park hotel
+amman,jordan,booking.com,782132,1016.0,6.8,3,2018-06-24 21:37:02.802253,al narjis hotel suites
+amman,jordan,booking.com,303165,610.0,7.7,3,2018-06-24 21:37:02.802253,amman inn hotel
+amman,jordan,booking.com,1777647,597.0,6.0,3,2018-06-24 21:37:02.802253,delmon suites
+amman,jordan,booking.com,318550,576.0,6.2,3,2018-06-24 21:37:02.802253,arabela hotel
+amman,jordan,booking.com,294073,664.0,7.0,3,2018-06-24 21:37:02.802253,amerie suites hotel
+ajloun,jordan,booking.com,448050,593.0,5.5,2,2018-06-24 21:37:02.802253,al jabal castle hotel
+dubai,united arab emirates,booking.com,1534120,584.0,7.4,3,2018-06-24 21:37:02.802253,naif view hotel
+al aqah,united arab emirates,booking.com,67260,1154.0,7.8,5,2018-06-24 21:37:02.802253,fujairah rotana resort & spa - al aqah beach
+abu dhabi,united arab emirates,booking.com,910150,496.0,8.0,4,2018-06-24 21:37:02.802253,ramada abu dhabi corniche
+dubai,united arab emirates,booking.com,188093,606.0,6.9,4,2018-06-24 21:37:02.802253,moscow hotel
+dubai,united arab emirates,booking.com,67222,587.0,7.5,4,2018-06-24 21:37:02.802253,summit hotel (formerly hallmark hotel)
+abu dhabi,united arab emirates,booking.com,67273,583.0,8.2,5,2018-06-24 21:37:02.802253,corniche hotel abu dhabi
+al ain,united arab emirates,booking.com,2204887,591.0,8.5,4,2018-06-24 21:37:02.802253,aloft al ain
+agadir,morocco,booking.com,1468087,1680.0,7.3,2,2018-06-24 21:37:02.802253,residence amwaj
+larache,morocco,booking.com,2628283,2422.0,7.4,4,2018-06-24 21:37:02.802253,lixus beach resort
+sowayma,jordan,booking.com,1759128,1173.0,7.1,4,2018-06-24 21:37:02.802253,grand east hotel - resort & spa dead sea
+amman,jordan,booking.com,318585,700.0,8.1,3,2018-06-24 21:37:02.802253,the conroy boutique hotel
+amman,jordan,booking.com,1805221,593.0,6.0,2,2018-06-24 21:37:02.802253,dove hotel amman
+aqaba,jordan,booking.com,705662,593.0,6.7,3,2018-06-24 21:37:02.802253,mass paradise hotel
+aqaba,jordan,booking.com,385333,508.0,6.8,3,2018-06-24 21:37:02.802253,summer bay resort
+dubai,united arab emirates,booking.com,67256,554.0,8.7,3,2018-06-24 21:37:02.802253,j5 hotels - port saeed
+umm al quwain,united arab emirates,booking.com,372508,577.0,6.4,3,2018-06-24 21:37:02.802253,royal residence resort
+"bur dubai, dubai",united arab emirates,booking.com,391928,719.0,7.8,5,2018-06-24 21:37:02.802253,melia dubai
+fujairah,united arab emirates,booking.com,259056,678.0,8.5,4,2018-06-24 21:37:02.802253,nour arjaan by rotana - fujairah
+"dubai investment park, dubai",united arab emirates,booking.com,73794,874.0,7.8,4,2018-06-24 21:37:02.802253,"courtyard by marriott dubai, green community"
+"bur dubai, dubai",united arab emirates,booking.com,67288,802.0,8.0,5,2018-06-24 21:37:02.802253,movenpick hotel & apartments bur dubai
+madinat zayid,united arab emirates,booking.com,1587939,778.0,8.2,4,2018-06-24 21:37:02.802253,western hotel - madinat zayed
+dubai,united arab emirates,booking.com,67306,540.0,7.8,4,2018-06-24 21:37:02.802253,versailles by raviz hotel
+khemisset,morocco,booking.com,257094,1050.0,7.5,4,2018-06-24 21:37:02.802253,hotel dar eddaya
+ouarzazate,morocco,booking.com,287095,756.0,8.1,3,2018-06-24 21:37:02.802253,oscar hotel by atlas studios
+tangier,morocco,booking.com,2130906,2879.0,8.7,5,2018-06-24 21:37:02.802253,hilton tanger city center hotel & residences
+"medina, marrakech",morocco,booking.com,2220079,2975.0,9.1,5,2018-06-24 21:37:02.802253,riad lavande
+wadi musa,jordan,booking.com,3696120,677.0,,3,2018-06-24 21:37:02.802253,oscar hotel petra
+dubai,united arab emirates,booking.com,1157857,737.0,7.7,3,2018-06-24 21:37:02.802253,al sarab hotel
+dubai,united arab emirates,booking.com,338789,398.0,7.6,4,2018-06-24 21:37:02.802253,hues boutique hotel
+sharjah,united arab emirates,booking.com,68386,873.0,7.9,4,2018-06-24 21:37:02.802253,coral beach resort sharjah
+"bur dubai, dubai",united arab emirates,booking.com,183432,432.0,7.4,4,2018-06-24 21:37:02.802253,sea view hotel dubai
+"downtown dubai, dubai",united arab emirates,booking.com,74783,3439.0,9.0,5,2018-06-24 21:37:02.802253,address downtown
+dubai,united arab emirates,booking.com,74651,531.0,7.5,4,2018-06-24 21:37:02.802253,avenue hotel dubai
+"bur dubai, dubai",united arab emirates,booking.com,262882,321.0,7.4,3,2018-06-24 21:37:02.802253,citymax hotel bur dubai
+al ain,united arab emirates,booking.com,1248174,712.0,8.3,4,2018-06-24 21:37:02.802253,ayla bawadi hotel & mall
+"bur dubai, dubai",united arab emirates,booking.com,466659,390.0,6.3,2,2018-06-24 21:37:02.802253,grand nova hotel
+casablanca,morocco,booking.com,304573,1235.0,7.6,4,2018-06-24 21:37:02.802253,park suites hotel & spa
+aqaba,jordan,booking.com,3578047,593.0,,2,2018-06-24 21:37:02.802253,darak motel
+wadi as sir,jordan,booking.com,3567268,847.0,,3,2018-06-24 21:37:02.802253,shqq Hnyn lfndqyh
+dubai,united arab emirates,booking.com,183411,468.0,7.2,4,2018-06-24 21:37:02.802253,landmark riqqa hotel
+abu dhabi,united arab emirates,booking.com,1500254,691.0,8.0,4,2018-06-24 21:37:02.802253,al seef resort & spa by andalus
+dubai,united arab emirates,booking.com,1771845,458.0,5.5,2,2018-06-24 21:37:02.802253,queens hotel
+dubai,united arab emirates,booking.com,2016585,3275.0,,4,2018-06-24 21:37:02.802253,nasma luxury stays - index tower
+"barsha heights (tecom) , dubai",united arab emirates,booking.com,268505,550.0,6.9,4,2018-06-24 21:37:02.802253,ramee rose hotel
+"bur dubai, dubai",united arab emirates,booking.com,187980,589.0,7.3,4,2018-06-24 21:37:02.802253,capitol hotel
+dubai,united arab emirates,booking.com,23851,557.0,7.7,4,2018-06-24 21:37:02.802253,city seasons hotel dubai
+umm al quwain,united arab emirates,booking.com,313705,1637.0,6.6,4,2018-06-24 21:37:02.802253,umm al quwain beach hotel
+"dubai investment park, dubai",united arab emirates,booking.com,188272,541.0,8.0,3,2018-06-24 21:37:02.802253,premier inn dubai investments park
+marrakech,morocco,booking.com,1319725,532.0,7.8,3,2018-06-24 21:37:02.802253,hotel relax marrakech
+tangier,morocco,booking.com,235950,1267.0,7.8,4,2018-06-24 21:37:02.802253,golden tulip andalucia golf tanger
+"gueliz, marrakech",morocco,booking.com,247837,762.0,7.1,4,2018-06-24 21:37:02.802253,la renaissance hotel
+"al barsha, dubai",united arab emirates,booking.com,403780,652.0,8.4,4,2018-06-24 21:37:02.802253,cosmopolitan hotel dubai - al barsha
+abu dhabi,united arab emirates,booking.com,72960,740.0,8.2,5,2018-06-24 21:37:02.802253,crowne plaza abu dhabi
+dibba,united arab emirates,booking.com,319706,861.0,7.8,5,2018-06-24 21:37:02.802253,"radisson blu resort, fujairah"
+dubai,united arab emirates,booking.com,71449,696.0,8.0,4,2018-06-24 21:37:02.802253,samaya hotel deira
+dubai,united arab emirates,booking.com,71613,663.0,7.2,4,2018-06-24 21:37:02.802253,avari dubai hotel
+abu dhabi,united arab emirates,booking.com,69024,737.0,7.2,1,2018-06-24 21:37:02.802253,al diar mina hotel
+al ain,united arab emirates,booking.com,67250,849.0,7.7,4,2018-06-24 21:37:02.802253,mercure grand jebel hafeet
+dubai,united arab emirates,booking.com,2468709,386.0,6.2,1,2018-06-24 21:37:02.802253,new avon hotel
+"bur dubai, dubai",united arab emirates,booking.com,67427,484.0,7.4,4,2018-06-24 21:37:02.802253,grand excelsior hotel - bur dubai
+tiznit,morocco,booking.com,257629,784.0,7.9,4,2018-06-24 21:37:02.802253,hotel idou tiznit
+annakhil,morocco,booking.com,98452,614.0,8.1,4,2018-06-24 21:37:02.802253,hotel kasbah le mirage & spa
+amman,jordan,booking.com,3471250,847.0,,3,2018-06-24 21:37:02.802253,haneen hotel apartments
+dubai,united arab emirates,booking.com,442573,720.0,7.5,4,2018-06-24 21:37:02.802253,ramada deira
+"jebel ali, dubai",united arab emirates,booking.com,504150,786.0,5.7,1,2018-06-24 21:37:02.802253,easyhotel jebel ali
+umm al quwain,united arab emirates,booking.com,241303,1404.0,7.6,4,2018-06-24 21:37:02.802253,barracuda beach resort
+"bur dubai, dubai",united arab emirates,booking.com,307755,694.0,7.9,4,2018-06-24 21:37:02.802253,ramada jumeirah hotel
+al marfa',united arab emirates,booking.com,183413,1225.0,8.0,3,2018-06-24 21:37:02.802253,mirfa hotel
+dubai,united arab emirates,booking.com,341204,727.0,7.4,2,2018-06-24 21:37:02.802253,grand square hotel
+"al awir, dubai",united arab emirates,booking.com,1588457,693.0,7.7,3,2018-06-24 21:37:02.802253,ibis styles dragon mart dubai
+"bur dubai, dubai",united arab emirates,booking.com,237454,475.0,5.3,2,2018-06-24 21:37:02.802253,rush inn hotel
+"bur dubai, dubai",united arab emirates,booking.com,355035,652.0,7.6,4,2018-06-24 21:37:02.802253,mercure gold hotel al mina road dubai
+tangier,morocco,booking.com,304402,980.0,7.0,3,2018-06-24 21:37:02.802253,hotel chellah
+fes,morocco,booking.com,345704,693.0,7.5,4,2018-06-24 21:37:02.802253,barcelo fes medina
+al hoceima,morocco,booking.com,98858,910.0,8.3,3,2018-06-24 21:37:02.802253,hotel la perla
+ajman,united arab emirates,booking.com,473610,870.0,8.0,5,2018-06-24 21:37:02.802253,bahi ajman palace hotel
+"bur dubai, dubai",united arab emirates,booking.com,67255,491.0,6.6,4,2018-06-24 21:37:02.802253,the country club hotel dubai
+dubai,united arab emirates,booking.com,191600,445.0,7.7,3,2018-06-24 21:37:02.802253,ibis al rigga
+dubai,united arab emirates,booking.com,244634,488.0,7.3,3,2018-06-24 21:37:02.802253,jonrad hotel
+abu dhabi,united arab emirates,booking.com,69310,607.0,7.8,4,2018-06-24 21:37:02.802253,oryx hotel
+"bur dubai, dubai",united arab emirates,booking.com,335144,642.0,6.0,2,2018-06-24 21:37:02.802253,sun city international hotel
+meknes,morocco,booking.com,1330114,595.0,8.2,3,2018-06-24 21:37:02.802253,hotel swani
+amman,jordan,booking.com,3328502,254.0,,1,2018-06-24 21:37:02.802253,hijjawi mamaya hotel
+ajman,united arab emirates,booking.com,2182440,3298.0,8.5,3,2018-06-24 21:37:02.802253,ewan grand resort
+dubai,united arab emirates,booking.com,2635028,720.0,6.2,1,2018-06-24 21:37:02.802253,golden palace hotel l.l.c
+dubai,united arab emirates,booking.com,1151109,819.0,8.2,4,2018-06-24 21:37:02.802253,suba hotel
+"al barsha, dubai",united arab emirates,booking.com,48016,458.0,6.9,3,2018-06-24 21:37:02.802253,ibis al barsha
+al rahba,united arab emirates,booking.com,185058,1636.0,6.0,4,2018-06-24 21:37:02.802253,tulip inn al sharia
+"hassan, rabat",morocco,booking.com,98375,2513.0,7.7,5,2018-06-24 21:37:02.802253,hotel la tour hassan
+"hivernage, marrakech",morocco,booking.com,98261,1902.0,7.8,5,2018-06-24 21:37:02.802253,le meridien n'fis
+rabat,morocco,booking.com,1224210,4480.0,8.0,5,2018-06-24 21:37:02.802253,villa diyafa boutique hotel & spa
+meknes,morocco,booking.com,1033975,693.0,7.6,3,2018-06-24 21:37:02.802253,hotel belle vue et spa
+amman,jordan,booking.com,3267782,881.0,,3,2018-06-24 21:37:02.802253,london bridge hotel
+sharjah,united arab emirates,booking.com,171897,491.0,7.4,2,2018-06-24 21:37:02.802253,rayan hotel corniche
+abu dhabi,united arab emirates,booking.com,28042,575.0,8.5,4,2018-06-24 21:37:02.802253,cristal hotel abu dhabi
+dubai,united arab emirates,booking.com,67220,501.0,8.2,4,2018-06-24 21:37:02.802253,emirates concorde hotel & apartments
+dubai,united arab emirates,booking.com,279907,589.0,8.0,5,2018-06-24 21:37:02.802253,avani deira dubai hotel
+umm al quwain,united arab emirates,booking.com,73150,959.0,6.1,4,2018-06-24 21:37:02.802253,bin majid flamingo
+"dubai marina, dubai",united arab emirates,booking.com,2217069,6386.0,,4,2018-06-24 21:37:02.802253,four bedroom apartment - dorra bay tower
+amman,jordan,booking.com,3259451,1101.0,9.2,4,2018-06-24 21:37:02.802253,rawa hotel suites
+amman,jordan,booking.com,3233933,847.0,,3,2018-06-24 21:37:02.802253,rayshan hotel
+sharjah,united arab emirates,booking.com,72740,589.0,7.5,3,2018-06-24 21:37:02.802253,lou'lou'a beach resort sharjah
+dubai,united arab emirates,booking.com,1350053,819.0,6.2,1,2018-06-24 21:37:02.802253,deira palace hotel
+sharjah,united arab emirates,booking.com,275686,455.0,7.7,4,2018-06-24 21:37:02.802253,al hamra hotel
+"umm suqeim, dubai",united arab emirates,booking.com,2860106,878.0,9.0,3,2018-06-24 21:37:02.802253,park regis boutique hotel
+"bur dubai, dubai",united arab emirates,booking.com,1445914,465.0,7.9,3,2018-06-24 21:37:02.802253,ibis styles dubai jumeira
+dakhla,morocco,booking.com,2788915,1820.0,8.6,4,2018-06-24 21:37:02.802253,dakhla camp
+"hivernage, marrakech",morocco,booking.com,1924405,2244.0,8.2,5,2018-06-24 21:37:02.802253,movenpick hotel mansour eddahbi marrakech
+aqaba,jordan,booking.com,2844410,2144.0,,5,2018-06-24 21:37:02.802253,"al manara, a luxury collection hotel, saraya aqaba"
+"bur dubai, dubai",united arab emirates,booking.com,67261,411.0,6.7,4,2018-06-24 21:37:02.802253,ascot hotel
+umm al quwain,united arab emirates,booking.com,372506,730.0,6.9,3,2018-06-24 21:37:02.802253,royal residence hotel & spa
+dubai,united arab emirates,booking.com,67237,688.0,7.7,4,2018-06-24 21:37:02.802253,jumeira rotana - dubai
+"bur dubai, dubai",united arab emirates,booking.com,388743,339.0,7.0,3,2018-06-24 21:37:02.802253,chelsea plaza hotel
+"al barsha, dubai",united arab emirates,booking.com,1188897,648.0,7.6,4,2018-06-24 21:37:02.802253,signature hotel al barsha
+saidia,morocco,booking.com,2233688,2212.0,7.6,5,2018-06-24 21:37:02.802253,melia saidia garden golf resort
+marrakech,morocco,booking.com,1831169,751.0,7.9,4,2018-06-24 21:37:02.802253,wazo hotel
+taroudant,morocco,booking.com,98806,1512.0,9.2,4,2018-06-24 21:37:02.802253,hotel dar zitoune taroudant
+marrakech,morocco,booking.com,99148,2185.0,7.2,4,2018-06-24 21:37:02.802253,labranda targa aqua parc
+casablanca,morocco,booking.com,1690626,3640.0,8.9,5,2018-06-24 21:37:02.802253,four seasons hotel casablanca
+wadi rum,jordan,booking.com,2812216,339.0,9.1,5,2018-06-24 21:37:02.802253,desert star camp
+at-tafilah,jordan,booking.com,2802238,423.0,7.2,3,2018-06-24 21:37:02.802253,fares hotel
+"bur dubai, dubai",united arab emirates,booking.com,67225,379.0,6.4,3,2018-06-24 21:37:02.802253,fortune karama hotel
+ajman,united arab emirates,booking.com,183401,668.0,7.0,3,2018-06-24 21:37:02.802253,ajman beach hotel
+abu dhabi,united arab emirates,booking.com,401660,613.0,7.5,1,2018-06-24 21:37:02.802253,top stars hotel
+dubai,united arab emirates,booking.com,68366,358.0,6.2,2,2018-06-24 21:37:02.802253,eureka hotel
+"palm jumeirah, dubai",united arab emirates,booking.com,2648813,2620.0,,5,2018-06-24 21:37:02.802253,bespoke residences - south residence
+dubai,united arab emirates,booking.com,69380,377.0,7.1,2,2018-06-24 21:37:02.802253,al jawhara metro hotel
+dubai,united arab emirates,booking.com,1354683,1146.0,6.5,1,2018-06-24 21:37:02.802253,sima hotel
+"maarif, casablanca",morocco,booking.com,98498,1773.0,8.4,5,2018-06-24 21:37:02.802253,kenzi tower hotel
+taghazout,morocco,booking.com,1566578,2268.0,8.1,4,2018-06-24 21:37:02.802253,sol house taghazout bay surf
+"ain chock, casablanca",morocco,booking.com,1693737,1193.0,7.9,4,2018-06-24 21:37:02.802253,eurostars sidi maarouf
+al mukhaybah,jordan,booking.com,2790833,762.0,7.9,3,2018-06-24 21:37:02.802253,grand samara hotel
+abu dhabi,united arab emirates,booking.com,67248,500.0,8.1,4,2018-06-24 21:37:02.802253,novel hotel city center
+"bur dubai, dubai",united arab emirates,booking.com,67539,593.0,7.8,4,2018-06-24 21:37:02.802253,majestic hotel tower
+dubai,united arab emirates,booking.com,1475908,622.0,6.6,2,2018-06-24 21:37:02.802253,tara hotel
+dubai,united arab emirates,booking.com,68478,589.0,7.4,4,2018-06-24 21:37:02.802253,marco polo hotel
+sharjah,united arab emirates,booking.com,260010,655.0,7.5,4,2018-06-24 21:37:02.802253,sharjah palace hotel
+laayoune,morocco,booking.com,1623085,1463.0,7.4,4,2018-06-24 21:37:02.802253,hotel parador
+rabat,morocco,booking.com,1628868,1106.0,8.2,4,2018-06-24 21:37:02.802253,cantor hotel rabat terminus
+amman,jordan,booking.com,1886966,932.0,,4,2018-06-24 21:37:02.802253,armed forces hotel
+amman,jordan,booking.com,256319,474.0,9.1,3,2018-06-24 21:37:02.802253,rozana hotel suite
+sharjah,united arab emirates,booking.com,72997,413.0,6.9,3,2018-06-24 21:37:02.802253,al seef hotel
+dubai,united arab emirates,booking.com,2569216,1014.0,9.1,5,2018-06-24 21:37:02.802253,al bandar rotana - dubai creek
+"jumeirah, dubai",united arab emirates,booking.com,183409,603.0,6.7,2,2018-06-24 21:37:02.802253,regent beach resort
+al ain,united arab emirates,booking.com,288176,968.0,8.1,4,2018-06-24 21:37:02.802253,ayla hotel
+"bur dubai, dubai",united arab emirates,booking.com,71479,377.0,5.7,3,2018-06-24 21:37:02.802253,york international hotel
+"skhirat plage, skhirat",morocco,booking.com,98575,1785.0,7.6,5,2018-06-24 21:37:02.802253,l' amphitrite palace resort & spa
+"gueliz, marrakech",morocco,booking.com,293852,378.0,6.7,3,2018-06-24 21:37:02.802253,hotel tachfine
+marrakech,morocco,booking.com,2343472,2142.0,8.0,4,2018-06-24 21:37:02.802253,be live experience marrakech palmeraie - all inclusive
+agadir,morocco,booking.com,99206,1568.0,7.0,3,2018-06-24 21:37:02.802253,hotel almoggar garden beach
+"old medina, casablanca",morocco,booking.com,237964,560.0,6.8,2,2018-06-24 21:37:02.802253,hotel central
+al ain,united arab emirates,booking.com,474411,866.0,6.5,3,2018-06-24 21:37:02.802253,one to one hotel & resort ain al faida
+"bur dubai, dubai",united arab emirates,booking.com,2543644,521.0,7.7,4,2018-06-24 21:37:02.802253,omega hotel dubai
+dubai,united arab emirates,booking.com,592386,491.0,8.1,2,2018-06-24 21:37:02.802253,mark inn hotel deira
+abu dhabi,united arab emirates,booking.com,506795,406.0,7.8,3,2018-06-24 21:37:02.802253,bin majid nehal
+dubai,united arab emirates,booking.com,1173554,691.0,6.6,4,2018-06-24 21:37:02.802253,new black stone hotel
+marrakech,morocco,booking.com,2141923,826.0,8.2,4,2018-06-24 21:37:02.802253,hotel ayoub & spa
+oualidia,morocco,booking.com,98882,9940.0,9.1,5,2018-06-24 21:37:02.802253,la sultana oualidia
+kenitra,morocco,booking.com,1318930,910.0,8.2,3,2018-06-24 21:37:02.802253,relax kenitra
+tangier,morocco,booking.com,278721,878.0,7.1,3,2018-06-24 21:37:02.802253,ibis tanger city center
+dubai,united arab emirates,booking.com,433926,389.0,5.6,1,2018-06-24 21:37:02.802253,grand sina hotel
+"bur dubai, dubai",united arab emirates,booking.com,243560,606.0,7.3,3,2018-06-24 21:37:02.802253,ambassador hotel
+abu dhabi,united arab emirates,booking.com,67289,784.0,8.4,2,2018-06-24 21:37:02.802253,al diar dana hotel
+sharjah,united arab emirates,booking.com,25864,359.0,6.4,2,2018-06-24 21:37:02.802253,crystal plaza hotel
+"bur dubai, dubai",united arab emirates,booking.com,182807,455.0,7.0,3,2018-06-24 21:37:02.802253,smana hotel al raffa
+casablanca,morocco,booking.com,2659425,763.0,8.4,3,2018-06-24 21:37:02.802253,ibis casa voyageurs
+"barsha heights (tecom) , dubai",united arab emirates,booking.com,1889000,615.0,8.9,4,2018-06-24 21:37:02.802253,dusit d2 kenz hotel dubai
+ajman,united arab emirates,booking.com,2305630,891.0,8.6,5,2018-06-24 21:37:02.802253,"radisson blu hotel, ajman"
+abu dhabi,united arab emirates,booking.com,69017,442.0,7.8,4,2018-06-24 21:37:02.802253,hawthorn suites by wyndham abu dhabi city center
+ghantoot,united arab emirates,booking.com,68168,766.0,6.6,4,2018-06-24 21:37:02.802253,golden tulip al jazira hotel & resort
+tangier,morocco,booking.com,2527337,1548.0,8.8,4,2018-06-24 21:37:02.802253,fredj hotel
+fujairah,united arab emirates,booking.com,1710985,491.0,7.0,4,2018-06-24 21:37:02.802253,v hotel fujairah
+"al qusais, dubai",united arab emirates,booking.com,256908,657.0,8.1,4,2018-06-24 21:37:02.802253,time grand plaza hotel
+dubai,united arab emirates,booking.com,275957,544.0,7.1,4,2018-06-24 21:37:02.802253,grand central hotel
+dubai,united arab emirates,booking.com,357935,309.0,7.1,3,2018-06-24 21:37:02.802253,fortune pearl hotel
+agadir,morocco,booking.com,98591,1535.0,7.4,4,2018-06-24 21:37:02.802253,anezi tower hotel
+"gueliz, marrakech",morocco,booking.com,716900,752.0,8.1,3,2018-06-24 21:37:02.802253,hotel le caspien
+fujairah,united arab emirates,booking.com,1320575,706.0,7.8,5,2018-06-24 21:37:02.802253,royal m hotel fujairah mall
+abu dhabi,united arab emirates,booking.com,283548,652.0,8.2,5,2018-06-24 21:37:02.802253,officers club & hotel
+abu dhabi,united arab emirates,booking.com,24786,529.0,8.1,4,2018-06-24 21:37:02.802253,holiday inn abu dhabi downtown
+abu dhabi,united arab emirates,booking.com,69115,737.0,7.4,3,2018-06-24 21:37:02.802253,al diar capital hotel
+dubai,united arab emirates,booking.com,69371,451.0,7.7,4,2018-06-24 21:37:02.802253,al jawhara gardens hotel
+"hassan, rabat",morocco,booking.com,98345,964.0,7.0,3,2018-06-24 21:37:02.802253,mercure sheherazade rabat
+"agdal, marrakech",morocco,booking.com,98555,1435.0,8.0,5,2018-06-24 21:37:02.802253,kenzi menara palace & resort all inclusive
+tetouan,morocco,booking.com,441380,1071.0,7.1,4,2018-06-24 21:37:02.802253,hotel la paloma
+nouaseur,morocco,booking.com,541302,1512.0,8.1,4,2018-06-24 21:37:02.802253,atlas sky airport
+abu dhabi,united arab emirates,booking.com,335140,494.0,7.9,4,2018-06-24 21:37:02.802253,ramada downtown abu dhabi
+"bur dubai, dubai",united arab emirates,booking.com,71478,416.0,6.3,3,2018-06-24 21:37:02.802253,palm beach hotel
+sharjah,united arab emirates,booking.com,23251,589.0,7.2,3,2018-06-24 21:37:02.802253,beach hotel sharjah
+asilah,morocco,booking.com,236729,1130.0,6.6,3,2018-06-24 21:37:02.802253,hotel al khaima
+midelt,morocco,booking.com,448202,700.0,7.0,3,2018-06-24 21:37:02.802253,hotel kasbah asmaa
+nador,morocco,booking.com,98330,1626.0,7.4,4,2018-06-24 21:37:02.802253,hotel mercure nador rif
+agadir,morocco,booking.com,258192,1120.0,8.1,4,2018-06-24 21:37:02.802253,hotel tildi hotel & spa
+er rachidia,morocco,booking.com,98564,743.0,6.3,4,2018-06-24 21:37:02.802253,kenzi rissani
+sharjah,united arab emirates,booking.com,275691,455.0,6.0,1,2018-06-24 21:37:02.802253,sophin hotel
+dubai,united arab emirates,booking.com,67297,626.0,8.0,5,2018-06-24 21:37:02.802253,carlton palace hotel
+dubai,united arab emirates,booking.com,1771590,521.0,6.6,2,2018-06-24 21:37:02.802253,montreal naif hotel
+dubai,united arab emirates,booking.com,1744795,557.0,6.2,1,2018-06-24 21:37:02.802253,galaxy plaza hotel
+al aqah,united arab emirates,booking.com,1433409,710.0,7.4,3,2018-06-24 21:37:02.802253,mirage hotel al aqah
+"al sufouh, dubai",united arab emirates,booking.com,1114308,5502.0,9.4,5,2018-06-24 21:37:02.802253,"residence & spa, dubai at one&only royal mirage"
+essaouira,morocco,booking.com,98895,1296.0,6.8,4,2018-06-24 21:37:02.802253,hotel des iles
+ghdar defla,morocco,booking.com,1612936,1540.0,7.9,3,2018-06-24 21:37:02.802253,hotel tanger med
+"gauthier, casablanca",morocco,booking.com,1701326,1680.0,8.1,4,2018-06-24 21:37:02.802253,boutique hotel gauthier
+restinga smir,morocco,booking.com,346258,2674.0,6.9,4,2018-06-24 21:37:02.802253,marina smir hotel & spa
+rabat,morocco,booking.com,254753,970.0,7.8,4,2018-06-24 21:37:02.802253,belere hotel rabat
+dubai,united arab emirates,booking.com,1225469,472.0,6.0,1,2018-06-24 21:37:02.802253,burj nahar hotel
+khor fakkan,united arab emirates,booking.com,469042,873.0,7.8,4,2018-06-24 21:37:02.802253,oceanic khorfakkan resort & spa
+abu dhabi,united arab emirates,booking.com,68735,888.0,8.4,5,2018-06-24 21:37:02.802253,intercontinental abu dhabi
+ras al khaimah,united arab emirates,booking.com,76907,670.0,6.4,4,2018-06-24 21:37:02.802253,bin majid beach hotel
+sharjah,united arab emirates,booking.com,2414860,445.0,8.0,4,2018-06-24 21:37:02.802253,al salam grand hotel
+dubai,united arab emirates,booking.com,345648,573.0,6.8,4,2018-06-24 21:37:02.802253,monaco hotel
+sharjah,united arab emirates,booking.com,72296,573.0,7.6,4,2018-06-24 21:37:02.802253,lavender hotel sharjah (previously lords hotel)
+abu dhabi,united arab emirates,booking.com,74445,439.0,6.3,4,2018-06-24 21:37:02.802253,one to one hotel - the village
+dakhla,morocco,booking.com,1296761,490.0,7.3,2,2018-06-24 21:37:02.802253,imperial playa hotel
+dubai,united arab emirates,booking.com,238360,655.0,7.9,3,2018-06-24 21:37:02.802253,lavender hotel deira by gloria hotels & resorts
+"al barsha, dubai",united arab emirates,booking.com,68294,486.0,6.8,4,2018-06-24 21:37:02.802253,golden tulip al barsha hotel
+ajman,united arab emirates,booking.com,460665,511.0,7.5,4,2018-06-24 21:37:02.802253,ramada beach hotel ajman
+"al qusais, dubai",united arab emirates,booking.com,76749,835.0,7.1,4,2018-06-24 21:37:02.802253,dubai grand hotel by fortune
+"bur dubai, dubai",united arab emirates,booking.com,183427,501.0,6.2,3,2018-06-24 21:37:02.802253,london crown hotel
+dubai,united arab emirates,booking.com,177449,327.0,6.2,3,2018-06-24 21:37:02.802253,dubai palm hotel
+"bur dubai, dubai",united arab emirates,booking.com,1132913,415.0,6.6,4,2018-06-24 21:37:02.802253,reflections hotel
+dubai,united arab emirates,booking.com,239766,819.0,7.2,2,2018-06-24 21:37:02.802253,wave international hotel (previously florida international hotel)
+beni mellal,morocco,booking.com,2877347,770.0,7.6,3,2018-06-24 21:37:02.802253,hotel hadaik ain asserdoune
+saidia,morocco,booking.com,310010,3200.0,7.1,5,2018-06-24 21:37:02.802253,be live collection saidia
+laayoune,morocco,booking.com,703868,574.0,7.8,3,2018-06-24 21:37:02.802253,hotel salwan
+dubai,united arab emirates,booking.com,68560,743.0,6.3,3,2018-06-24 21:37:02.802253,city star hotel
+"al majaz, sharjah",united arab emirates,booking.com,67292,582.0,7.1,4,2018-06-24 21:37:02.802253,marbella resort
+"bur dubai, dubai",united arab emirates,booking.com,190923,501.0,6.9,3,2018-06-24 21:37:02.802253,rainbow hotel
+dubai,united arab emirates,booking.com,547926,819.0,5.8,2,2018-06-24 21:37:02.802253,phoenicia hotel
+"bur dubai, dubai",united arab emirates,booking.com,67431,398.0,6.4,3,2018-06-24 21:37:02.802253,regal plaza hotel
+al ain,united arab emirates,booking.com,401532,1474.0,7.0,1,2018-06-24 21:37:02.802253,top hotel apartment
+"al barsha, dubai",united arab emirates,booking.com,77860,474.0,7.9,4,2018-06-24 21:37:02.802253,grandeur hotel al barsha
+"al barsha, dubai",united arab emirates,booking.com,67278,885.0,8.1,4,2018-06-24 21:37:02.802253,donatello hotel
+sharjah,united arab emirates,booking.com,23243,760.0,7.0,4,2018-06-24 21:37:02.802253,sharjah carlton hotel
+ras al khaimah,united arab emirates,booking.com,76906,1344.0,6.9,4,2018-06-24 21:37:02.802253,smartline bin majid beach resort
+larache,morocco,booking.com,2865652,700.0,8.4,2,2018-06-24 21:37:02.802253,hotel salime al khozama
+marrakech,morocco,booking.com,274804,1331.0,6.8,5,2018-06-24 21:37:02.802253,mogador palace agdal
+casablanca,morocco,booking.com,306974,567.0,5.9,4,2018-06-24 21:37:02.802253,prince de paris
+agadir,morocco,booking.com,285229,1726.0,6.8,4,2018-06-24 21:37:02.802253,palais des roses hotel & thalasso
+"bur dubai, dubai",united arab emirates,booking.com,69262,472.0,6.0,3,2018-06-24 21:37:02.802253,imperial suites hotel
+sharjah,united arab emirates,booking.com,1857973,597.0,6.6,2,2018-06-24 21:37:02.802253,al amwaj hotel
+dubai,united arab emirates,booking.com,67517,470.0,7.4,4,2018-06-24 21:37:02.802253,grand excelsior hotel deira
+abu dhabi,united arab emirates,booking.com,262355,464.0,7.5,3,2018-06-24 21:37:02.802253,paragon hotel
+sharjah,united arab emirates,booking.com,69706,443.0,6.9,3,2018-06-24 21:37:02.802253,nejoum al emarat
+"bur dubai, dubai",united arab emirates,booking.com,284537,589.0,5.9,1,2018-06-24 21:37:02.802253,everest international hotel
+dubai,united arab emirates,booking.com,240242,383.0,6.5,3,2018-06-24 21:37:02.802253,royal falcon hotel
+"dubai investment park, dubai",united arab emirates,booking.com,1960905,469.0,7.9,4,2018-06-24 21:37:02.802253,fortune park hotel
+agadir,morocco,booking.com,324098,840.0,7.1,3,2018-06-24 21:37:02.802253,hotel les omayades
+taza,morocco,booking.com,2034739,840.0,6.1,3,2018-06-24 21:37:02.802253,hotel pyramides
+agadir,morocco,booking.com,98316,840.0,6.6,2,2018-06-24 21:37:02.802253,residence igoudar
+dubai,united arab emirates,booking.com,262506,797.0,6.2,3,2018-06-24 21:37:02.802253,claridge hotel - dubai
+dubai,united arab emirates,booking.com,417375,360.0,6.0,2,2018-06-24 21:37:02.802253,saffron hotel
+dubai,united arab emirates,booking.com,237819,410.0,7.1,4,2018-06-24 21:37:02.802253,fortune grand hotel
+dubai,united arab emirates,booking.com,309630,557.0,5.8,3,2018-06-24 21:37:02.802253,sun and sands downtown hotel
+ras al khaimah,united arab emirates,booking.com,173655,605.0,6.7,4,2018-06-24 21:37:02.802253,bin majid acacia hotel and apartments
+sharjah,united arab emirates,booking.com,68498,553.0,7.6,4,2018-06-24 21:37:02.802253,rayan hotel sharjah
+dubai,united arab emirates,booking.com,1183406,374.0,6.3,1,2018-06-24 21:37:02.802253,west hotel
+sharjah,united arab emirates,booking.com,1182949,534.0,6.8,3,2018-06-24 21:37:02.802253,aldar hotel
+"al majaz, sharjah",united arab emirates,booking.com,67285,473.0,7.5,4,2018-06-24 21:37:02.802253,hotel holiday international
+dubai,united arab emirates,booking.com,67228,545.0,8.3,4,2018-06-24 21:37:02.802253,coral dubai deira hotel
+"gueliz, marrakech",morocco,booking.com,477564,840.0,7.6,3,2018-06-24 21:37:02.802253,fashion hotel
+marrakech,morocco,booking.com,362291,1565.0,8.1,5,2018-06-24 21:37:02.802253,pullman marrakech palmeraie
+sharjah,united arab emirates,booking.com,237602,655.0,6.4,2,2018-06-24 21:37:02.802253,prime tower hotel
+dubai,united arab emirates,booking.com,67284,550.0,7.1,4,2018-06-24 21:37:02.802253,nihal palace hotel
+dubai,united arab emirates,booking.com,171461,377.0,5.7,3,2018-06-24 21:37:02.802253,broadway hotel
+dubai,united arab emirates,booking.com,249323,560.0,7.0,1,2018-06-24 21:37:02.802253,florida hotel
+dubai,united arab emirates,booking.com,279133,655.0,5.7,1,2018-06-24 21:37:02.802253,zagy hotel
+fes,morocco,booking.com,410032,420.0,7.8,2,2018-06-24 21:37:02.802253,hotel jnane sbile
+casablanca,morocco,booking.com,98963,818.0,7.2,3,2018-06-24 21:37:02.802253,ibis casablanca city center
+casablanca,morocco,booking.com,98304,1221.0,6.8,4,2018-06-24 21:37:02.802253,novotel casablanca city center
+umm al quwain,united arab emirates,booking.com,277039,702.0,7.4,4,2018-06-24 21:37:02.802253,pearl beach hotel & spa
+"bur dubai, dubai",united arab emirates,booking.com,174556,488.0,6.9,2,2018-06-24 21:37:02.802253,hyde park hotel
+dubai,united arab emirates,booking.com,191496,1307.0,6.0,3,2018-06-24 21:37:02.802253,signature inn deira
+fujairah,united arab emirates,booking.com,67241,982.0,8.5,5,2018-06-24 21:37:02.802253,al diar siji hotel
+ras al khaimah,united arab emirates,booking.com,2694581,819.0,7.7,3,2018-06-24 21:37:02.802253,royal view hotel
+ras al khaimah,united arab emirates,booking.com,378155,564.0,7.7,4,2018-06-24 21:37:02.802253,mangrove hotel
+"kasbah, essaouira",morocco,booking.com,98337,532.0,7.6,1,2018-06-24 21:37:02.802253,hotel beau rivage
+fnidek,morocco,booking.com,1633983,8993.0,8.8,5,2018-06-24 21:37:02.802253,banyan tree tamouda bay
+dubai,united arab emirates,booking.com,67239,495.0,6.5,2,2018-06-24 21:37:02.802253,ramee guestline hotel
+abu dhabi,united arab emirates,booking.com,274468,770.0,8.3,4,2018-06-24 21:37:02.802253,oaks liwa executive suites
+fujairah,united arab emirates,booking.com,881390,661.0,8.1,4,2018-06-24 21:37:02.802253,novotel fujairah
+abu dhabi,united arab emirates,booking.com,1510243,597.0,8.0,4,2018-06-24 21:37:02.802253,gloria downtown hotel
+casablanca,morocco,booking.com,98234,630.0,7.9,4,2018-06-24 21:37:02.802253,atlas almohades casablanca city center
+asilah,morocco,booking.com,432037,980.0,7.8,3,2018-06-24 21:37:02.802253,hotel zelis
+agadir,morocco,booking.com,237468,700.0,6.9,3,2018-06-24 21:37:02.802253,sud bahia agadir
+mohammedia,morocco,booking.com,1532508,2660.0,6.5,3,2018-06-24 21:37:02.802253,hotel sabah
+"hassan, rabat",morocco,booking.com,1995524,756.0,6.6,3,2018-06-24 21:37:02.802253,hotel yasmine
+ifrane,morocco,booking.com,412562,1792.0,6.1,3,2018-06-24 21:37:02.802253,farah inn ifrane
+"bur dubai, dubai",united arab emirates,booking.com,175368,441.0,6.6,3,2018-06-24 21:37:02.802253,astoria hotel
+dubai,united arab emirates,booking.com,68058,431.0,6.4,3,2018-06-24 21:37:02.802253,orchid hotel dubai
+ajman,united arab emirates,booking.com,260381,1662.0,6.6,3,2018-06-24 21:37:02.802253,crown palace hotel & suites
+fes,morocco,booking.com,304223,767.0,5.9,5,2018-06-24 21:37:02.802253,zalagh parc palace
+"medina, marrakech",morocco,booking.com,317376,952.0,7.0,4,2018-06-24 21:37:02.802253,chems hotel
+agadir,morocco,booking.com,305597,2520.0,6.6,4,2018-06-24 21:37:02.802253,labranda atlas amadil
+abu dhabi,united arab emirates,booking.com,435705,651.0,8.1,4,2018-06-24 21:37:02.802253,novotel abu dhabi gate
+"al majaz, sharjah",united arab emirates,booking.com,2009948,867.0,8.4,5,2018-06-24 21:37:02.802253,the act hotel
+"bur dubai, dubai",united arab emirates,booking.com,2335162,501.0,8.1,4,2018-06-24 21:37:02.802253,goldstate hotel
+dubai,united arab emirates,booking.com,466619,524.0,7.1,4,2018-06-24 21:37:02.802253,abjad grand hotel
+abu dhabi,united arab emirates,booking.com,185793,598.0,8.6,4,2018-06-24 21:37:02.802253,holiday inn abu dhabi
+"bur dubai, dubai",united arab emirates,booking.com,67477,524.0,6.4,4,2018-06-24 21:37:02.802253,ramee royal hotel
+dubai,united arab emirates,booking.com,67227,489.0,6.8,3,2018-06-24 21:37:02.802253,st.george hotel
+dubai,united arab emirates,booking.com,69178,1143.0,7.2,4,2018-06-24 21:37:02.802253,al khaleej plaza hotel
+marrakech,morocco,booking.com,98742,1260.0,7.9,4,2018-06-24 21:37:02.802253,murano resort marrakech
+"gueliz, marrakech",morocco,booking.com,353145,504.0,6.8,3,2018-06-24 21:37:02.802253,hotel oudaya
+"hassan, rabat",morocco,booking.com,1664266,910.0,6.6,4,2018-06-24 21:37:02.802253,rihab hotel
+"agdal, marrakech",morocco,booking.com,352979,1298.0,7.5,5,2018-06-24 21:37:02.802253,adam park marrakech hotel & spa
+tangier,morocco,booking.com,403858,770.0,7.3,2,2018-06-24 21:37:02.802253,marco polo
+al hoceima,morocco,booking.com,640379,1175.0,8.0,4,2018-06-24 21:37:02.802253,mercure quemado al-hoceima resort
+agadir,morocco,booking.com,98633,2100.0,7.0,5,2018-06-24 21:37:02.802253,atlantic palace agadir golf thalasso & casino resort
+dubai,united arab emirates,booking.com,67245,398.0,6.2,3,2018-06-24 21:37:02.802253,nihal hotel
+dubai,united arab emirates,booking.com,255729,917.0,6.7,3,2018-06-24 21:37:02.802253,sun and sands hotel
+fujairah,united arab emirates,booking.com,421717,573.0,7.3,4,2018-06-24 21:37:02.802253,city tower hotel
+ras al khaimah,united arab emirates,booking.com,46715,725.0,7.1,4,2018-06-24 21:37:02.802253,ras al khaimah hotel
+"al barsha, dubai",united arab emirates,booking.com,172743,525.0,7.1,4,2018-06-24 21:37:02.802253,cassells al barsha hotel
+abu dhabi,united arab emirates,booking.com,438991,724.0,6.7,1,2018-06-24 21:37:02.802253,trianon hotel
+"hivernage, marrakech",morocco,booking.com,1328418,532.0,7.0,3,2018-06-24 21:37:02.802253,hotel le grand imilchil
+essaouira,morocco,booking.com,98500,504.0,8.7,1,2018-06-24 21:37:02.802253,hotel emeraude essaouira
+agadir,morocco,booking.com,98515,1131.0,7.6,4,2018-06-24 21:37:02.802253,best western odyssee park
+marrakech,morocco,booking.com,98229,899.0,6.5,4,2018-06-24 21:37:02.802253,hotel marrakech le semiramis
+sharjah,united arab emirates,booking.com,72817,688.0,7.7,3,2018-06-24 21:37:02.802253,sharjah premiere hotel & resort
+al ain,united arab emirates,booking.com,291242,1454.0,5.6,2,2018-06-24 21:37:02.802253,al massa hotel apartments 1
+ras al khaimah,united arab emirates,booking.com,279927,488.0,6.5,4,2018-06-24 21:37:02.802253,golden tulip khatt springs resort & spa
+abu dhabi,united arab emirates,booking.com,265493,778.0,6.4,2,2018-06-24 21:37:02.802253,emirates plaza hotel
